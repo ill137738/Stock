@@ -60,3 +60,6 @@
 
 ## 2026-11-15 신흥국·가공 고도화 → JBTM 10% 성장 가능성 감사
 - [JBTM_EMERGING_MARKETS_10PCT_GROWTH_MARGIN_UNDERWRITING_20261115.md](JBTM_EMERGING_MARKETS_10PCT_GROWTH_MARGIN_UNDERWRITING_20261115.md) — 현지 저임금 대비 수율/규모경제, 2027~2035 Protein/Prepared 별도 모델, 연 10% 전사 성장시 Protein ~14.5% 필요, 2035 매출/GAAP EBIT 마진 민감도. **경영진 가이던스/과거 10.5% 인수 포함 성장/PM 가상치를 엄격히 구분**.
+
+## 2026-11-15 중국 저가 가공설비 경쟁/성장주 재평가 분석
+- [JBTM_CHINA_COMPETITION_GROWTH_RERATING_20261115.md](JBTM_CHINA_COMPETITION_GROWTH_RERATING_20261115.md) — Square Technology/Raniche 중국 경쟁 위협과 산둥 Xinsheng 2026 JBTM 고급 설비 수주, 신규 가치평가·애널리스트 커버리지 9명 vs 최근 3개월 6명, 하이프/지속 성장 구분, 2025년 seafood 장비수주 6% 및 **2025+2026 상반기** 기준 seafood 7%의 서로 다른 분모를 보완.
