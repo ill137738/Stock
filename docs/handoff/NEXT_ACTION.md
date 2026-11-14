@@ -38,6 +38,9 @@
 - [PAHC 심층 감사](PAHC_DEEP_DIVE_20261115.md)에서 Zoetis 인수 효과, MFA 제품 믹스, 항균제/규제 위험, 실제 FCF/부채, 공개 주가 밸류에이션을 이미 점검했다. 후임 PM은 **동일 FY2026/2027Q1 기본 내용 반복 조사 금지**. JBTM R1 독립 감사 완료 뒤 PAHC 남은 어류/축종별 매출·고객 ROI·규제 마진 영향·현금전환 정상화 및 JBTM 동기 비교만 진행.
 - 현재 단일 실행 업무 ID `STOCK-R1-JBTM-ECONOMICS-MOAT-VALUATION-20261115` **변경 없음**. PAHC가 Owner의 2개 핵심 후보에서 제외됐다고 판단하면 안 됨. `PAHC_HOLD_UNDERWRITING_INCOMPLETE` / `NO_BUY_APPROVAL` 유지.
 
+## 2026-11-15 직접 비교 보강 (기존 Task ID 유지)
+- 새 [JBTM vs PAHC 감사](JBTM_VS_PAHC_DECISION_ANALYSIS_20261115.md)에 2026-09-30 동일 기간 TTM FCF, PAHC 재고/의결권, 제품군 한계 및 상대 투자 가설을 기록. 후임 PM은 같은 산식·공시를 중복 일반 분석하지 말 것. 아직 JBTM AI 사용권/고객 ROI·PAHC 현금전환 정상화·어류 매출을 **추가 실증**해야 함. PM 선호 JBTM이나 투자 승인 미발행.
+
 ## 비중복 보류 후속
 - R1 완료 전에는 동일한 JBTM 개론 재작성 금지.
 - R2: 미국·신흥국의 실제 단백질 100g 가격을 동일 가식부·가격 기준으로 재계산.
