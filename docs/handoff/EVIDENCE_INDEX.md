@@ -103,3 +103,15 @@ Crosscheck ratios and reconciliation in [comparative audit](JBTM_VS_PAHC_DECISIO
 | E61 | ALTERNATE_CONSENSUS | FT/S&P JBTM 9 price targets median $165 vs TipRanks 4 numbers avg $153.25; StockAnalysis/S&P PAHC 3 analysts Hold/$47 vs TipRanks 2 $45; provider universe 달라 하나의 컨센서스로 혼합금지 | https://markets.ft.markitdigital.com/data/equities/tearsheet/forecasts?s=JBTM%3ANYQ ; https://stockanalysis.com/stocks/pahc/forecast/ |
 
 **Rank/hit rate definition:** TipRanks default 1yr recommendation outcome, *not price target hitting rate*; profitability, mean return, sample size are combined; dynamic 1yr profile updates and old crawl discrepancies must not be silently reconciled. https://www.tipranks.com/experts/how-experts-ranked . [원문 상세](ANALYST_CONSENSUS_RANKINGS_20261115.md).
+
+## E62–E67: Andrew Obin JBTM bear-case 검증 (2026-11-15)
+| ID | 근거 등급 | 내용 | 원문 |
+|---|---|---|---|
+| E62 | PUBLIC_HEADLINE / FULL_NOTE_UNAVAILABLE | 2026-03-27 Obin Sell 기사 제목 'Ambitious Margin Targets and High Execution Risk Drive Sell Rating on JBT Marel'; 제목 이상 구체 BofA 보고서 직접 설명 미입수 | https://www.tipranks.com/stocks/de%3Ajbt/forecast |
+| E63 | AGGREGATOR_DATE_SPLIT | 2026-10-23 Obin Sell PT **$118** (StockAnalysis); 2026-11-05 Sell 재확인 TipRanks 미국 페이지에는 최신 목표가 비표시. 종전 '목표가 전혀 없음' 오해 수정 | https://stockanalysis.com/stocks/jbtm/forecast/ ; https://www.tipranks.com/stocks/jbtm/forecast |
+| E64 | COMPANY_FORWARD_GUIDANCE | 2026-03-26 JBTM Investor Day 목표: 2028 유기 CAGR 5–7% / adj EBITDA margin 20% / FCF sales 10%+ / ROIC 두 자릿수. 2025 실현 $43M 원가시너지와 연말 $85M run-rate, 2027말 $150M 목표 | https://stockanalysis.com/stocks/jbtm/transcripts/538153-investor-day-2026/ |
+| E65 | VERIFIED_PRIMARY | JBTM 2026 9개월 organic +1.8%, Q3 2026 매출 -0.7% 및 Protein +6.3%, Protein EBITDA margin 22.4%, 전사 18%; 매출 전망 재조정 | https://www.sec.gov/Archives/edgar/data/1433660/000162828026069624/jbt-20260930.htm ; https://ir.jbtmarel.com/news/press-releases/detail/544/jbt-marel-corporation-reports-third-quarter-2026-results-and-announces-increased-share-repurchase-authorization |
+| E66 | VERIFIED_PRIMARY | JBTM Q2 PFB 물류·공장 효율 지연/회계 매출인식 지연, PFB 17.5% margin vs 18.2%, FY2026 Q2 revenue guidance $3.990-4.065B→Q3 $3.950-4.000B | https://www.sec.gov/Archives/edgar/data/1433660/000162828026051894/a2026q2earningsexhibit9918k.htm |
+| E67 | MANAGEMENT_TRANSCRIPT / INVESTMENT_NOT_PROVEN | JBTM CEO Q3 2026 fish subbusiness margin 5–10% (merger 2025 -5 to -10%) vs mature Protein segment 22.4%; industry shift future advantage may be lower-profit. This is **not Obin's sourced assertion** | https://www.investing.com/news/transcripts/earnings-call-transcript-jbt-marel-tops-eps-in-q3-2026-as-shares-rise-93CH-4996032 |
+
+Full distinction between Obin-attributed headline and PM own analysis: [independent note](JBTM_ANDREW_OBIN_BEAR_CASE_20261115.md).
