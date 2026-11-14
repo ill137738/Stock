@@ -89,3 +89,17 @@
 | E53 | MARKET_SECONDARY_DATED | 2026-11-13 JBTM close $125.54 / cap ~$6.41B and PAHC close $35.97 / cap ~$1.46B. Price dynamic; company 2026 guidance for adjusted vs GAAP separately | https://www.marketscreener.com/quote/stock/JBT-MAREL-CORPORATION-3860953/ ; https://stockanalysis.com/stocks/pahc/ |
 
 Crosscheck ratios and reconciliation in [comparative audit](JBTM_VS_PAHC_DECISION_ANALYSIS_20261115.md); source numbers are period-specific and not forward estimates.
+
+## E54–E61 — Analyst consensus / rankings (dated 2026-11-15; dynamic sources)
+| ID | 근거 | 사실·주의 | URL |
+|---|---|---|---|
+| E54 | ANALYST_AGGREGATOR | TipRanks JBTM 최근 3개월 4 Buy/1 Hold/1 Sell, 12mo mean $153.25. Andrew Obin sell 목표가 미공개, 계산에서 빠짐; JBTM 특화 Mircea Dobre 1y 18/33=54.5% | https://www.tipranks.com/stocks/jbtm/forecast |
+| E55 | ANALYST_AGGREGATOR | TipRanks PAHC 최근 3개월 1 Buy/1 Sell, 평균 $45; 전체 vs PAHC-only hit rate Michael Ryskin 1y PAHC 4/15=26.7% | https://www.tipranks.com/stocks/pahc/forecast |
+| E56 | ANALYST_RANKING_DYNAMIC | JBTM Andrew Obin 1yr total #167/12,581; 336/504=66.67% +15.9%; JBTM Sell 11/05/26, 목표가 공개없음 | https://www.tipranks.com/experts/analysts/andrew-obin |
+| E57 | ANALYST_RANKING_DYNAMIC | JBTM Mircea Dobre rank ~317/12,574, 286/497=57.55% +16.6%, JBTM Buy $171 (188에서 하향) | https://www.tipranks.com/experts/analysts/mircea-dobre |
+| E58 | ANALYST_RANKING_DYNAMIC | PAHC Erin Wright rank #178/12,581, 309/472=65.47% +16.0%; Hold $49 Feb 6, 오래된 의견 | https://www.tipranks.com/experts/analysts/erin-wright |
+| E59 | ANALYST_RANKING_DYNAMIC | PAHC Michael Ryskin ~#1244/12,581, 258/433=59.58% +6.2%, Sell $35, PAHC-only 성과 나쁨. 랭킹은 페이지 조회 시점 따라 변함 | https://www.tipranks.com/experts/analysts/michael-ryskin |
+| E60 | ANALYST_RANKING_DYNAMIC | PAHC Ekaterina Knyazkova ~$55 Buy, #11000/12,574, 3/15=20% success −9.5% avg | https://www.tipranks.com/experts/analysts/ekaterina-knyazkova |
+| E61 | ALTERNATE_CONSENSUS | FT/S&P JBTM 9 price targets median $165 vs TipRanks 4 numbers avg $153.25; StockAnalysis/S&P PAHC 3 analysts Hold/$47 vs TipRanks 2 $45; provider universe 달라 하나의 컨센서스로 혼합금지 | https://markets.ft.markitdigital.com/data/equities/tearsheet/forecasts?s=JBTM%3ANYQ ; https://stockanalysis.com/stocks/pahc/forecast/ |
+
+**Rank/hit rate definition:** TipRanks default 1yr recommendation outcome, *not price target hitting rate*; profitability, mean return, sample size are combined; dynamic 1yr profile updates and old crawl discrepancies must not be silently reconciled. https://www.tipranks.com/experts/how-experts-ranked . [원문 상세](ANALYST_CONSENSUS_RANKINGS_20261115.md).
