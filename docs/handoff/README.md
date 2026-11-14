@@ -35,3 +35,6 @@
 
 ## 2026-11-15 추가 분석
 - [CALM·JBTM·PAHC·ZTS 보강 연구](RESEARCH_NOTE_20261115_CALM_JBTM_PAHC_ZTS.md): CALM 2027Q1 가격 사이클·가공식품·현금, JBTM 중동 어류 설비 계약, PAHC 최근 수요·규제, ZTS/반려 로봇 대체 가설.
+
+## 2026-11-15 PAHC 심층 기업 감사
+- [PAHC_DEEP_DIVE_20261115.md](PAHC_DEEP_DIVE_20261115.md): FY2026 / FY2027 Q1 세부 제품별 매출, Zoetis MFA 인수 성장 기여, 가금·어류 수요 적응성 검증 한계, 항생제·항콕시듐 규제, 지역 매출, 부채·운전자본·FCF·의결권, 시장가격/밸류에이션, 후속 반증 테스트. **`PAHC_HOLD_UNDERWRITING_INCOMPLETE`**. JBTM 단일 다음 업무는 유지.
