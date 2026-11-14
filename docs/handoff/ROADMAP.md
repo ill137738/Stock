@@ -6,12 +6,12 @@
 | R1 | JBTM 경쟁우위·기업 가치 독립 검증 | 최신 10-K/10-Q·현금흐름 재무, 지역/부문 수주, AI 고객 ROI·데이터 권한, BAADER/Meyn 비교, 고성장/저성장 조건 및 밸류에이션 | OPEN, 최우선 |
 | R2 | 소비자가격/사료·필레 수율 동일 분모 모형 | 미국+2~3개 신흥시장, 같은 기간·제품형태의 단백질100g 가격, 소비자 vs 생산자 원가의 엄밀한 구분, 생체중·가식부·부산물 | OPEN |
 | R3 | 육종·사료·방역 후보 비교 | **PAHC 중심** 가금·어류·축종별 제품/매출, 인허가·전환비용·고객 ROI와 JBTM 대비 가치 귀속. TSN/ZTS/CALM은 과거 비교자료만 | OPEN |
-| R4 | 단백질 음료/프리미엄 경제성 | **KO/fairlife 중심** 초여과 원유 질량수지/프리미엄 마진과 KO 전사 EPS 기여. BRBR은 경쟁 참고 사례 | OPEN |
+| R4 | KO/fairlife 역사적 비교 트랙 | 초여과 원유 질량수지·프리미엄/배출량 관련 종전 자료 보존. 핵심 유니버스에서 제외되어 별도 Owner 지시 전 적극 심층분석 없음 | INACTIVE / ARCHIVED |
 | R5 | 단일 가치 평가 및 투자 판정 패킷 | 현 주가·EV·EPS·FCF·차입금·증분 ROIC, bear/base/bull 각각 확률 가정 분리, 성장 반영 여부, 희석과 리스크 | **NO_BUY_APPROVAL** |
 | R6 | Owner 최종 선택 후 모니터링 | Owner가 명시적으로 추적 종목/지표/주기를 승인한 경우만 설정; 매수 자동화 아님 | NOT_STARTED |
 
 ## 연구 우선 원칙
-- **2026-11-15 Owner 확정: 핵심 투자 연구 유니버스 JBTM+PAHC+KO 3개. CALM은 핵심 제외(`CALM_ARCHIVED_COMPARATOR`), 타 종목은 시장/경쟁 비교자료. 자세한 확정 결정은 DECISIONS S-D18–S-D20.**
+- **2026-11-15 Owner 최신 확정: 핵심 투자 연구 유니버스 JBTM+PAHC 2개. KO/fairlife도 핵심 제외(`KO_ARCHIVED_COMPARATOR`), CALM·나머지 종목 역시 역사적 비교자료. DECISIONS S-D21–S-D22가 S-D18–S-D20보다 최신.**
 - R1을 먼저 수행하되 R2~R4는 주제별로 비중복 추진 가능. 같은 원문/사업 수치 중복 조사 금지.
 - R1은 단순 회사 소개로 종료 불가; '무엇을 못 증명했는지'와 가치평가 민감도를 포함.
 - 각 단계 완료 시 CURRENT_STATE 갱신·NEXT_ACTION 단일 활성 과제 교체·EVIDENCE_INDEX 추가·DECISIONS는 Owner 새 판단 또는 유효한 번복에만 갱신.
