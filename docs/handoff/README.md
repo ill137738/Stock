@@ -57,3 +57,6 @@
 
 ## 2026-11-15 유기 성장률과 소인원 자동화 심층 구분
 - [JBTM_ORGANIC_GROWTH_LABOR_AUTOMATION_20261115.md](JBTM_ORGANIC_GROWTH_LABOR_AUTOMATION_20261115.md): 2026 1~9월 +4.3% = organic +1.8%p + FX +2.5%p, FY2026 예상 매출 +4.0~5.3% (6%는 현 가이던스 상단 밖). 2020 코로나 JBT FoodTech 매출 -7.1% vs 2021 +13.4%, 팬데믹의 단기 CAPEX 충격/장기 자동화 투자 구분.
+
+## 2026-11-15 신흥국·가공 고도화 → JBTM 10% 성장 가능성 감사
+- [JBTM_EMERGING_MARKETS_10PCT_GROWTH_MARGIN_UNDERWRITING_20261115.md](JBTM_EMERGING_MARKETS_10PCT_GROWTH_MARGIN_UNDERWRITING_20261115.md) — 현지 저임금 대비 수율/규모경제, 2027~2035 Protein/Prepared 별도 모델, 연 10% 전사 성장시 Protein ~14.5% 필요, 2035 매출/GAAP EBIT 마진 민감도. **경영진 가이던스/과거 10.5% 인수 포함 성장/PM 가상치를 엄격히 구분**.
