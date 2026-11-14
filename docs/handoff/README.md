@@ -38,3 +38,6 @@
 
 ## 2026-11-15 PAHC 심층 기업 감사
 - [PAHC_DEEP_DIVE_20261115.md](PAHC_DEEP_DIVE_20261115.md): FY2026 / FY2027 Q1 세부 제품별 매출, Zoetis MFA 인수 성장 기여, 가금·어류 수요 적응성 검증 한계, 항생제·항콕시듐 규제, 지역 매출, 부채·운전자본·FCF·의결권, 시장가격/밸류에이션, 후속 반증 테스트. **`PAHC_HOLD_UNDERWRITING_INCOMPLETE`**. JBTM 단일 다음 업무는 유지.
+
+## 2026-11-15 JBTM vs PAHC 정량 비교
+- [JBTM_VS_PAHC_DECISION_ANALYSIS_20261115.md](JBTM_VS_PAHC_DECISION_ANALYSIS_20261115.md): 동일 TTM 현금흐름·시가총액·가이던스 배수, PAHC 재고 증가 원인, 가족 의결권 약 90.3%, 동물성 단백질 투입재의 범위, JBTM 상대 우위/반증 조건. **PM 임시 선호 JBTM, Owner 매수승인 없음**.
