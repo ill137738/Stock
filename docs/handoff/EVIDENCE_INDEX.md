@@ -8,7 +8,7 @@
 | E02 | VERIFIED_PRIMARY | 가금·소·돼지 소비 전망, 아시아·중남미·MENA 신규 가금 수요; 아프리카 육류 소비 +32% 전망(총량), 수입/닭의 FCR·생산 주기 | 2026-06-29 https://www.oecd.org/en/publications/oecd-fao-agricultural-outlook-2026-2035_47874669-en/full-report/meat_149b4ca3.html |
 | E03 | VERIFIED_PRIMARY | 1인당 수산식품 소비 21.4kg→21.9kg(2035), 양식 확대/실질가격 전망; 세계 인구당 물량과 총량 혼동 금지 | 2026-06-29 https://www.oecd.org/en/publications/oecd-fao-agricultural-outlook-2026-2035_47874669-en/full-report/fish-and-other-aquatic-products-for-human-consumption_be23d26b.html |
 | E04 | VERIFIED_PRIMARY | JBTM 2026 Q3 SEC 10-Q: 총매출 9개월 +4.3%/organic +1.8%/FX +2.5%; Protein 3Q $469m, +6.3%, EBITDA 마진 22.4%; 부문 정의/지역별 수치 | 2026-11-03 https://ir.jbtmarel.com/sec-filings/all-sec-filings/content/0001628280-26-069624/jbt-20260930.htm |
-| E05 | COMPANY_CLAIM | JBTM Investor Day, 2025 장비 수주 비중 poultry 44%, seafood 7%, 글로벌 설치/서비스/AXIN/표준화/미래 재무목표. 대외 독립적 고객 ROI 아님 | 2026-03 https://www.sec.gov/Archives/edgar/data/1433660/000143366026000071/exhibit991-jbtmarel2026i.htm |
+| E05 | COMPANY_CLAIM | JBTM Investor Day, 2025 장비 수주 비중 poultry 44%, meat 16%, beverages/juices 7%, seafood 6% (원본 슬라이드 9 확인, 과거 오기 정정), 글로벌 설치/서비스/AXIN/표준화/미래 재무목표. 대외 독립적 고객 ROI 아님 | 2026-03 https://www.sec.gov/Archives/edgar/data/1433660/000143366026000071/exhibit991-jbtmarel2026i.htm |
 | E06 | COMPANY_CLAIM | JBTM 어류 whitefish 선별·필레·포장/AXIN 제품 제공 | 조회일 2026-11-15 https://jbtmarel.com/en/fish-and-seafood/whitefish/ |
 | E07 | VERIFIED_PRIMARY | KO fairlife 초여과 우유 공식 FAQ: 단백질 +50%, 당 -50%, 우유에 분말 첨가하지 않음; 제품별 상이 | 조회일 2026-11-15 https://fairlife.com/frequently-asked-questions/ |
 | E08 | PREVIOUS_CHAT | KO 2026 Q3 fairlife 약 40억 달러 소매판매 근접·두 자릿수 성장·공장 증설. 대화에서 인용됨; **매출/회계 정의·현재 상황 후속 원문 독립 대조 필요** | https://investors.coca-colacompany.com/ |
@@ -115,3 +115,12 @@ Crosscheck ratios and reconciliation in [comparative audit](JBTM_VS_PAHC_DECISIO
 | E67 | MANAGEMENT_TRANSCRIPT / INVESTMENT_NOT_PROVEN | JBTM CEO Q3 2026 fish subbusiness margin 5–10% (merger 2025 -5 to -10%) vs mature Protein segment 22.4%; industry shift future advantage may be lower-profit. This is **not Obin's sourced assertion** | https://www.investing.com/news/transcripts/earnings-call-transcript-jbt-marel-tops-eps-in-q3-2026-as-shares-rise-93CH-4996032 |
 
 Full distinction between Obin-attributed headline and PM own analysis: [independent note](JBTM_ANDREW_OBIN_BEAR_CASE_20261115.md).
+
+
+## E68–E71: 2035 단백질 수요→JBTM 매출 성장 민감도
+| ID | 등급 | 입증 내용 | 원문 |
+|---|---|---|---|
+| E68 | VERIFIED_PRIMARY | OECD–FAO 2026–35: 세계 가금육 소비량 +20%(연 약 1.84%), 소고기 +8%, 돼지고기 +4%, 기준 2023–25 | https://www.oecd.org/en/publications/oecd-fao-agricultural-outlook-2026-2035_47874669-en/full-report/meat_149b4ca3.html |
+| E69 | VERIFIED_PRIMARY | 2035 전체 수산식품 소비 +12%(연 약 1.14%), 양식 생산 +18%(연 약 1.67%), 1인당 소비 21.4→21.9kg(10년 총 +2.6%) | https://www.oecd.org/en/publications/oecd-fao-agricultural-outlook-2026-2035_47874669-en/full-report/fish-and-other-aquatic-products-for-human-consumption_be23d26b.html |
+| E70 | COMPANY_DISCLOSURE | Investor Day slide 9: 2025 equipment orders poultry 44%, meat 16%, beverages/juices 7%, seafood 6%; 50% recurring vs nonrecurring sales 별도. Slide 86: market growth 3–4pp, revenue synergies ~1pp, key initiatives 1–2pp → 2025–28 organic CAGR 5–7% 회사 목표 | https://www.sec.gov/Archives/edgar/data/1433660/000143366026000071/exhibit991-jbtmarel2026i.htm |
+| E71 | CALCULATED_HYPOTHESIS | FY2026 매출 가이던스 $3.975B 출발, 2035 가정 성장 CAGR 1.33% / 3.96% / 5.80% → 가상 매출 $4.48B / $5.64B / $6.60B. 시장 CAPEX 탄력성/서비스/점유율 확대는 검증되지 않은 PM 가정 | [전체 산식](JBTM_PROTEIN_DEMAND_2035_MODEL_20261115.md) |
