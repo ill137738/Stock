@@ -66,3 +66,6 @@
 
 ## 2026-11-15 신규 독립 리서치: 지상·우주 AI 데이터센터 냉각
 - [AI_DATACENTER_COOLING_EARTH_ORBIT_SCREEN_20261115.md](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREEN_20261115.md) — 냉각 기술(지상 Direct-to-Chip/CDU/열교환/드라이쿨러 vs 궤도 열파이프·방열판), GAO/BCG 성숙도, Google Suncatcher 2026-10 시험, 상장사 VRT/MOD/NVT/RDW/FLEX/PH 및 중국 경쟁 Envicool, 2026-11-13 주가·실적·밸류에이션, MOD 삼성 인수설 급등·사업분리. **기존 JBTM/PAHC 연구와 별도 트랙**; 매수 승인 없음.
+
+## 2026-11-15 AI 냉각 R1: 국방 공급망/실제 데이터센터 비중/ARK 우주 경제성 정밀 비교
+- [AI_COOLING_TRUSTED_SUPPLY_CHAIN_ARK_ORBIT_DEEPDIVE_20261115.md](AI_COOLING_TRUSTED_SUPPLY_CHAIN_ARK_ORBIT_DEEPDIVE_20261115.md) — VRT→NVT→MOD→RDW 우선순위 심층: 미국 규제 적용범위와 중국 Envicool 반례, VRT FY2025 데이터센터 85% vs Thermal 제품 30%, NVT FY2025 DC ~$1B/전사 $3.9B, MOD 분할 이후 데이터센터 부문 약 60.6% 임시계산과 DC 영업마진, AMD Q3 DC 63.9% +97%, ARK의 $100/kg·우주 compute 25% 저렴 조건부 가설 vs BCG 1.5× 지상 원가 추정, 우주 방열 규모·신뢰성·위험. 미래 MOD 11/18 Investor Day 사전기록.
