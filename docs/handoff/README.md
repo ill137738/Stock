@@ -1,6 +1,6 @@
 # STOCK — 후임 PM 인수인계 시작점
 
-**Repository**: `ill137738/Stock` | **Owner**: 최종 투자 의사결정자 | **기준일**: 2026-11-15 KST | **Status**: `CORE_3_JBTM_PAHC_KO / RESEARCH_ONLY / NO_BUY_APPROVAL`
+**Repository**: `ill137738/Stock` | **Owner**: 최종 투자 의사결정자 | **기준일**: 2026-11-15 KST | **Status**: `CORE_2_JBTM_PAHC / RESEARCH_ONLY / NO_BUY_APPROVAL`
 
 ## 최초 열람 순서 (필수)
 1. [CURRENT_STATE](CURRENT_STATE.md) — 확정/가정/보류 및 현재 단일 최우선 연구
@@ -13,7 +13,7 @@
 8. [PM_SESSION_PROTOCOL](PM_SESSION_PROTOCOL.md) — 독립 감사/문서 갱신/프로젝트 격리
 
 ## 최우선 연구 경계 (Owner 2026-11-15 확정)
-**JBTM + PAHC + KO 세 기업만 심층 연구 대상.** CALM은 이전 연구 및 프리미엄 계란/와플 관련 반증을 보존하되 핵심에서 제외. BRBR·TSN·ZTS·AQB 등은 원래 논의를 복원하기 위한 비교 자료이며 별도 승인 전 핵심으로 승격 금지. 출처/상태는 [DECISIONS](DECISIONS.md) S-D18–S-D20을 최우선으로 한다.
+**JBTM + PAHC 두 기업만 심층 연구 대상.** KO/fairlife는 젖소 유래 원료·메탄 배출과 원료 전환의 경직성, KO 전사 희석 우려 때문에 Owner가 핵심에서 제외(2026-11-15). 우유의 향후 수요 감소가 확정됐다는 뜻은 아님. CALM·KO·BRBR·TSN·ZTS·AQB 등은 비교·이력 자료로만 유지. [DECISIONS](DECISIONS.md) S-D21–S-D22가 앞선 S-D18–S-D20보다 최신이며 우선한다.
 
 ## 프로젝트 경계
 - **이 저장소만 담당**. 교육 홈페이지·투자 서비스 자동화 봇·Unreal·Hermes·캐릭터 봇의 운영 문서나 권한을 여기에 가져오지 않는다.
