@@ -54,3 +54,6 @@
 
 ## JBTM 10년 성장·축산 메탄 규제·가공제품 분화·마진 감사 (2026-11-15)
 - [JBTM_DECADE_GROWTH_METHANE_SKU_MARGIN_20261115.md](JBTM_DECADE_GROWTH_METHANE_SKU_MARGIN_20261115.md): 2014~2024 식품기술 매출 CAGR 10.46%(인수·회계기준 포함/유기성장 아님), 2026 유기 성장 1.8%와의 주의사항, 메탄 정책 시 소고기/돼지→가금·수산 수요 이동 2개 추가 충격 시나리오, 제품 SKU 분화 및 자동화 고객 사례, 2028 영업이익률·조정 EBITDA 민감도. 모든 가상 수치 회사 전망과 분리.
+
+## 2026-11-15 유기 성장률과 소인원 자동화 심층 구분
+- [JBTM_ORGANIC_GROWTH_LABOR_AUTOMATION_20261115.md](JBTM_ORGANIC_GROWTH_LABOR_AUTOMATION_20261115.md): 2026 1~9월 +4.3% = organic +1.8%p + FX +2.5%p, FY2026 예상 매출 +4.0~5.3% (6%는 현 가이던스 상단 밖). 2020 코로나 JBT FoodTech 매출 -7.1% vs 2021 +13.4%, 팬데믹의 단기 CAPEX 충격/장기 자동화 투자 구분.
