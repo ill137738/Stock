@@ -50,3 +50,11 @@
 | E32 | EXTERNAL_SURVEY | 미국 반려동물 가구 95M, 산업 $158B(2025)/$165B(2026 전망), 소규모 로봇 반려동물 태도 조사 N=163은 시장대체율 아님 | https://americanpetproducts.org/2026-state-of-the-industry ; https://link.springer.com/article/10.1007/s12369-026-01453-4 |
 
 더 자세한 맥락과 오류 방지는 [보강 연구](RESEARCH_NOTE_20261115_CALM_JBTM_PAHC_ZTS.md).
+
+## E33–E35: CALM 프리미엄·냉동가공 실제 제품 검증 (2026-11-15)
+| ID | 등급 | 검증 | 원문 |
+|---|---|---|---|
+| E33 | VERIFIED_PRIMARY | CALM 2026 10-K: Specialty=Eggland's Best(협동조합 브랜드), 4Grain, Farmhouse, organic/cage-free/영양강화; Prepared=조리 계란 패티/오믈렛/랩/팬케이크/와플, Van's·Crepini | https://www.sec.gov/Archives/edgar/data/16160/000156276226000080/calm2026053010K.htm |
+| E34 | COMPANY_CLAIM | Eggland's Best 영양성분 비교: 대형 1개 단백질 6g vs 일반 6g; 오메가3·비타민 수치 브랜드 자체 비교로 독립 실측 전 확정 평가 금지 | https://www.egglandsbest.com/superior-nutrition/eb-eggs-vs-ordinary-eggs |
+| E35 | VERIFIED_PRIMARY | CALM 2027FY Q1 영업손익 일반계란 -$71.045M, Specialty +$14.937M, Prepared +$7.842M; 현재 신사업이 사이클 충격 미상쇄 | https://investors.calmainefoods.com/news-releases/news-release-details/cal-maine-foods-reports-first-quarter-fiscal-2027-results |
+| E36 | COMPANY_SITE | Echo Lake=완전조리 냉동 계란패티, 접은 계란/오믈렛; Van's 와플/팬케이크, Crepini 계란랩. 특정 Van's 제품은 계란 없는 글루텐프리 제품임 | https://www.calmainefoods.com/prepared-foods ; https://crepini.com/pages/packages |
