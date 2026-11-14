@@ -80,3 +80,8 @@
 - [AI_DATACENTER_COOLING_EARTH_ORBIT_SCREEN_20261115.md](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREEN_20261115.md)에 **지상/우주 냉각 상이한 물리 법칙·상업화**와 최신 2026 Q3/YTD, VRT/MOD/NVT/RDW/FLEX/PH 성과, 중국 Envicool, 삼성–MOD 인수설을 첫 스크리닝으로 봉인. 기존 JBTM/PAHC R1·의사결정 이력 **수정·삭제하지 말 것**. Owner 신규 테마 제안에 따른 병렬 리서치, NO_BUY_APPROVAL.
 - 냉각 전용 실제 매출/가동·수주 구조: VRT 사업별 Thermal 상세 매출, MOD 2026-10-01 spin 이후 pro forma FY2027 GAAP·FCF 및 $4B capacity LTA 최소 주문 의무, NVT 데이터센터 액체냉각 세부 마진/최종 제품 가격, 경쟁 중국 Envicool의 Google 거래 체결 여부. 2026–29 장기 성장/마진 가정과 현재 EV/EBIT, 정상화 FCF 수익률을 동일 분모로 재계산.
 - RDW Q-Rad 소형 위성 방열과 100kW~MW 우주 AI 열설계는 완전히 다른 규모. 실제 100kW+ 계약·우주 운용 열제거 성능 증거 없는 '우주 데이터센터 고성장 확정' 판정 금지. VRT/MOD/NVT 우주 매출 **0 confirmed** 기준.
+
+## 2026-11-15 AI 냉각 R1 신뢰 공급망·기업별 실질 매출·ARK 비교 기록
+- [AI_COOLING_TRUSTED_SUPPLY_CHAIN_ARK_ORBIT_DEEPDIVE_20261115.md](AI_COOLING_TRUSTED_SUPPLY_CHAIN_ARK_ORBIT_DEEPDIVE_20261115.md) 추가. VRT 85% data-center 고객/30% thermal 제품, NVT 2025 DC ~$1B / 전사 $3.9B, MOD 2026-10분할 이후 continuing 세그먼트 DC ~$439.7M / (439.7+285.5) ~60.6% 참고, RDW 우주방열 실증만. AMD 2026Q3 데이터센터 사업 비중63.9%, growth+97%. 미국 중국산 냉각 일괄금지 아님과 OT 보안 가치 분리.
+- 우주 DC ARK parity ~$300/kg→$100/kg 25% 싸다는 주장은 발사비/위성무게/성공률 가정, BCG 현재 2.5–3x / 5–10년 현실 1.5x / 극단 시 1.1x 및 GAO 기술 미검증과 대조 완료. 우주 옵션을 지상 냉각매출에 더하지 말 것.
+- 가장 확실한 기일 **2026-11-18 10:00 ET MOD Analyst and Investor Day**: 분할 후 장기 매출·마진·FCF 목표, $4B capacity LTA 실주문 계약조건, 삼성 인수설 확인/무산 여부 원문 기록 필요. VRT 2025 투자자 PDF portfolio remainder 이미지 판독 및 2026 재검증, VRT/NVT 제품별 cooling 매출 실제 분해와 중국 경쟁/시스템 보안, EV·FCF 동일 분모 가치평가 계속. 기존 JBTM/PAHC 연구 작업 원장 보존.
