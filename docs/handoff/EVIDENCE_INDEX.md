@@ -149,3 +149,12 @@ Full distinction between Obin-attributed headline and PM own analysis: [independ
 | E86 | COMPANY_CLAIM | JBTM 2026 Investor Day labor shortages/scarce skilled operators support automation ROI; ATHENA certain process steps >60% reduced labor in specific company case, not plant-wide outcome | https://www.sec.gov/Archives/edgar/data/1433660/000143366026000071/exhibit991-jbtmarel2026i.htm |
 
 상세 계산·유기 성장 정의·팬데믹 상반 효과: [JBTM_ORGANIC_GROWTH_LABOR_AUTOMATION_20261115.md](JBTM_ORGANIC_GROWTH_LABOR_AUTOMATION_20261115.md).
+
+## E87–E91 — 2026-11-15 JBTM 장기 10% organic 가능 조건 / GAAP EBIT 민감도
+| ID | 상태 | 내용 | 원문 |
+|---|---|---|---|
+| E87 | COMPANY_DISCLOSURE | 2025 2028 예상 organic 5–7% CAGR(시장 3–4pp, 매출 시너지 ~1pp, 전략 1–2pp), 조정 EBITDA 마진 2028 20%(영업이익 아님), 비용시너지 연환산 2027말 $150M 총계 | https://www.sec.gov/Archives/edgar/data/1433660/000143366026000071/exhibit991-jbtmarel2026i.htm |
+| E88 | COMPANY_DISCLOSURE | 신흥시장 인도네시아 후가공 $3M / 브라질 통합 조리식품 $4M·portioning $1M 등 주문 사례, LATAM·APAC 성장 기대, 설치 200k+대 및 aftermarket capture ~40%→목표 50%+ | https://www.sec.gov/Archives/edgar/data/1433660/000143366026000071/exhibit991-jbtmarel2026i.htm |
+| E89 | VERIFIED_PRIMARY | 2026 9mo JBTM Protein $1.396B/전체 $2.911B (~47.96%), Prepared $1.515B (~52.04%). 2026-09 Q3 GAAP EBIT margin 10.1%, TTM ~7.3%. Adj EBITDA 목표를 GAAP 목표로 변환 불가 | https://www.sec.gov/Archives/edgar/data/1433660/000162828026069624/jbt-20260930.htm |
+| E90 | CALCULATED_HYPOTHESIS | FY2026 가이던스 $3.975B에서 9년 2035 기간 Protein/Prepared 유기 CAGR 3/2→전사 2.49%, 7/3→5.07%, 10/5→7.63%; 전사 10% 위해 Prepared 4%일 때 Protein 14.46%. 해당 성장과 GAAP EBIT 9/11/13/14%는 임의 입력의 모델, 회사 전망이 아님 | [산식·근거](JBTM_EMERGING_MARKETS_10PCT_GROWTH_MARGIN_UNDERWRITING_20261115.md) |
+| E91 | VERIFIED_PRIMARY | 2026 9개월 $2.911B 성장 reported +4.3% / organic +1.8%; FY2026 매출전망 $3.950–4.000B, adjusted EBITDA margin 17.25–17.50%. FY2026 EPS GAAP $4.30–4.60 vs adjusted $8.10–8.40, 대규모 인수 상각 조정 → EBIT 마진과 20% EBITDA 차이 | https://ir.jbtmarel.com/news/press-releases/detail/544/jbt-marel-corporation-reports-third-quarter-2026-results-and-announces-increased-share-repurchase-authorization |
