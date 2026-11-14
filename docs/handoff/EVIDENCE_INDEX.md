@@ -158,3 +158,15 @@ Full distinction between Obin-attributed headline and PM own analysis: [independ
 | E89 | VERIFIED_PRIMARY | 2026 9mo JBTM Protein $1.396B/전체 $2.911B (~47.96%), Prepared $1.515B (~52.04%). 2026-09 Q3 GAAP EBIT margin 10.1%, TTM ~7.3%. Adj EBITDA 목표를 GAAP 목표로 변환 불가 | https://www.sec.gov/Archives/edgar/data/1433660/000162828026069624/jbt-20260930.htm |
 | E90 | CALCULATED_HYPOTHESIS | FY2026 가이던스 $3.975B에서 9년 2035 기간 Protein/Prepared 유기 CAGR 3/2→전사 2.49%, 7/3→5.07%, 10/5→7.63%; 전사 10% 위해 Prepared 4%일 때 Protein 14.46%. 해당 성장과 GAAP EBIT 9/11/13/14%는 임의 입력의 모델, 회사 전망이 아님 | [산식·근거](JBTM_EMERGING_MARKETS_10PCT_GROWTH_MARGIN_UNDERWRITING_20261115.md) |
 | E91 | VERIFIED_PRIMARY | 2026 9개월 $2.911B 성장 reported +4.3% / organic +1.8%; FY2026 매출전망 $3.950–4.000B, adjusted EBITDA margin 17.25–17.50%. FY2026 EPS GAAP $4.30–4.60 vs adjusted $8.10–8.40, 대규모 인수 상각 조정 → EBIT 마진과 20% EBITDA 차이 | https://ir.jbtmarel.com/news/press-releases/detail/544/jbt-marel-corporation-reports-third-quarter-2026-results-and-announces-increased-share-repurchase-authorization |
+
+## E92–E99: JBTM 중국 경쟁·2026 커버리지·수산 주문 비중 재정의
+| ID | 상태 | 내용 | URL |
+|---|---|---|---|
+| E92 | VERIFIED_PRIMARY | JBTM FY2025 SEC 10-K: 중국 Square Technology/Nantong Freezing 등 경쟁사와 가격압박, 프리미엄 기술·글로벌 사후서비스 차별화 주장. 중국 제조시설 존재 | https://ir.jbtmarel.com/sec-filings/all-sec-filings/content/0001433660-26-000053/jbt-20251231.htm |
+| E93 | EXHIBITION_INDEPENDENT | Square Technology 중국 상장 공업 냉동설비 제조사 IFFA 2025 전시업체, 냉동/가공장비 진출 | https://iffa.messefrankfurt.com/frankfurt/en/exhibitor-search.detail.html/square-technology-group-coltd.html |
+| E94 | SUPPLIER_CLAIM | Qingdao Raniche 자동 도계·내장제거·냉각·절단 10,000+ birds/hour 공급 주장, 동남아/중동/아프리카 판매 주장. JBT와의 제어된 성능 비교 증거 아님 | https://m.made-in-china.com/company-raniche/info.html |
+| E95 | JBT_CUSTOMER_STORY | 2026-07-07 Xinsheng Shandong(China) JBTM four ACM-NT cut-up + eight AMF-i deboning systems 신규 설치 발표, 기존 2011 고객. 회사 발표, 중국 전체 시장점유율 입증 불가 | https://cms.jbtmarel.com/en/customer-stories/xinsheng-boxing-automates-cut-up-and-deboning/ |
+| E96 | ANALYST_AGGREGATOR | StockAnalysis 2026-11-13 JBTM cap ~$6.41B, 9명 Buy, GAAP trailing P/E 33.5; TipRanks 지난 3개월 6명 4/1/1. 제외/기간 차이, 과소인지 단정 금지 | https://stockanalysis.com/stocks/jbtm/ ; https://www.tipranks.com/stocks/jbtm/forecast |
+| E97 | ANALYST_ESTIMATE | Yahoo normalized FY2026 EPS $8.22, FY2027 $9.36, 각 9명 시장 추정. 이익 성장 ~13.9%, GAAP EPS와 동일하다고 주장 금지 | https://finance.yahoo.com/quote/JBTM/analysis/ |
+| E98 | OFFICIAL_PRESENTATION_TWO_VINTAGES | **2025-only** Investor Day slide 9 equipment orders poultry 44%, seafood 6%, beverage 7%; **2025 plus 2026 YTD through June 30** September 23 updated presentation slide 3 poultry 45%, seafood 7%, beverages 6%. 서로 다른 기간이며 둘 다 장비 주문 구성, **매출 구성 아님** | https://www.sec.gov/Archives/edgar/data/1433660/000143366026000071/exhibit991-jbtmarel2026i.htm ; https://view.news.eu.nasdaq.com/view?id=b9750c4ca87ec7f4ab21438f5e8e023c1&lang=en&src=listed |
+| E99 | MODEL_HYPOTHETICAL | FY2027 **정규화/조정** EPS $9.36을 11배/13.4배/18배 적용 시 주당 ~$103/$125/$168.5 (교육용 리레이팅 위험, 애널리스트 목표가 아님). 하이프는 펀더멘털 성장 없이 지속 불가 | [독립 보고서](JBTM_CHINA_COMPETITION_GROWTH_RERATING_20261115.md) |
