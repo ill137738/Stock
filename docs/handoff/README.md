@@ -63,3 +63,6 @@
 
 ## 2026-11-15 중국 저가 가공설비 경쟁/성장주 재평가 분석
 - [JBTM_CHINA_COMPETITION_GROWTH_RERATING_20261115.md](JBTM_CHINA_COMPETITION_GROWTH_RERATING_20261115.md) — Square Technology/Raniche 중국 경쟁 위협과 산둥 Xinsheng 2026 JBTM 고급 설비 수주, 신규 가치평가·애널리스트 커버리지 9명 vs 최근 3개월 6명, 하이프/지속 성장 구분, 2025년 seafood 장비수주 6% 및 **2025+2026 상반기** 기준 seafood 7%의 서로 다른 분모를 보완.
+
+## 2026-11-15 신규 독립 리서치: 지상·우주 AI 데이터센터 냉각
+- [AI_DATACENTER_COOLING_EARTH_ORBIT_SCREEN_20261115.md](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREEN_20261115.md) — 냉각 기술(지상 Direct-to-Chip/CDU/열교환/드라이쿨러 vs 궤도 열파이프·방열판), GAO/BCG 성숙도, Google Suncatcher 2026-10 시험, 상장사 VRT/MOD/NVT/RDW/FLEX/PH 및 중국 경쟁 Envicool, 2026-11-13 주가·실적·밸류에이션, MOD 삼성 인수설 급등·사업분리. **기존 JBTM/PAHC 연구와 별도 트랙**; 매수 승인 없음.
