@@ -37,7 +37,7 @@
 ## 4. Products and relative protein transition flexibility
 - PAHC FY2026 sales ($M): MFAs and other **810.728 (53.4%)**, Mineral Nutrition **282.341 (18.6%)**, Nutritional Specialties **195.072 (12.9%)**, Vaccines **156.419 (10.3%)**, industrial Performance Products **73.533 (4.8%)**. “MFA” contains antibacterial and anticoccidial products plus some non-drug/ethanol processing aids: **not all is antibiotic**.
 - PAHC FDA/Brazil antimicrobial regulation risk is concrete (Brazil virginiamycin FY2026 sales ~$27M; U.S. Mecadox ~$21M and withdrawal *proposed*, not final). Non-antibiotic vaccines/health supplements may compensate, but there is no disclosed proof they can fully offset exposure. Some PAHC specialty nutrition serves **dairy cows** (OmniGen, Animate): not fully immune to cattle methane pressure. Aquaculture business is real but **fish sales/profit undisclosed**.
-- JBTM 2026 nine months ~51% “recurring” revenue from **parts, services, equipment rebuilds/leases, subscriptions**; **not pure AI software recurring**. Protein Solutions $1.396B/total $2.911B (48%); Prepared Food and Beverage $1.515B (52%): not a pure protein business. Seafood was ~7% of equipment orders in the earlier period; no proof market shift automatically boosts JBTM margins.
+- JBTM 2026 nine months ~51% “recurring” revenue from **parts, services, equipment rebuilds/leases, subscriptions**; **not pure AI software recurring**. Protein Solutions $1.396B/total $2.911B (48%); Prepared Food and Beverage $1.515B (52%): not a pure protein business. Seafood was **6% of 2025 equipment orders** (7% was beverages/juices; corrected 2026-11-15); no proof market shift automatically boosts JBTM margins.
 - JBTM risk: customer's capital spending cycles, machine design/installation cost, competitors, Marel acquisition integration, organic growth only +1.8%, 2026 Q3 revenue -0.7%, $1.694B gross debt. PAHC risk: regulatory approvals and animal-specific uses, commodity mineral business, concentrated family control, inventory and cash turnover.
 
 ## 5. Underwriting judgment and reversal gates
@@ -97,3 +97,7 @@ Primary filings: https://www.sec.gov/Archives/edgar/data/1433660/000143366026000
 **Disqualifiers/risks**: future organic 1–2%, integration synergies saturate, PFB food/beverage (~52% of 2026Q3 revenue) weak, fish smaller and lower profit than poultry, AI monetization incomplete, buybacks raise EPS without increasing enterprise profit, capex cycles/competitors. **No high-growth designation or buy approval**.
 
 Sources: https://www.sec.gov/Archives/edgar/data/1433660/000162828026069624/jbt-20260930.htm ; https://ir.jbtmarel.com/news/press-releases/detail/544/jbt-marel-corporation-reports-third-quarter-2026-results-and-announces-increased-share-repurchase-authorization ; https://www.sec.gov/Archives/edgar/data/1433660/000143366026000071/exhibit991-jbtmarel2026i.htm ; https://finance.yahoo.com/quote/JBTM/analysis/
+
+
+## Seafood end-market denominator erratum (2026-11-15)
+2025 **equipment orders**: Poultry 44%, Meat 16%, Beverages/Juices 7%, **Seafood 6%** per JBT Marel 2026 Investor Day slide 9; earlier 7% seafood was slide misassignment. Orders category shares **not consolidated revenue**; all company fish-market growth valuations must use corrected denominator. See [2035 structural model](JBTM_PROTEIN_DEMAND_2035_MODEL_20261115.md).
