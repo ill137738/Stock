@@ -58,3 +58,12 @@
 | E34 | COMPANY_CLAIM | Eggland's Best 영양성분 비교: 대형 1개 단백질 6g vs 일반 6g; 오메가3·비타민 수치 브랜드 자체 비교로 독립 실측 전 확정 평가 금지 | https://www.egglandsbest.com/superior-nutrition/eb-eggs-vs-ordinary-eggs |
 | E35 | VERIFIED_PRIMARY | CALM 2027FY Q1 영업손익 일반계란 -$71.045M, Specialty +$14.937M, Prepared +$7.842M; 현재 신사업이 사이클 충격 미상쇄 | https://investors.calmainefoods.com/news-releases/news-release-details/cal-maine-foods-reports-first-quarter-fiscal-2027-results |
 | E36 | COMPANY_SITE | Echo Lake=완전조리 냉동 계란패티, 접은 계란/오믈렛; Van's 와플/팬케이크, Crepini 계란랩. 특정 Van's 제품은 계란 없는 글루텐프리 제품임 | https://www.calmainefoods.com/prepared-foods ; https://crepini.com/pages/packages |
+
+## E37–E41 — KO/fairlife 상류 메탄 규제·원유 의존 검증 (2026-11-15)
+| ID | 등급 | 주장/검증 범위 | 원문 |
+|---|---|---|---|
+| E37 | VERIFIED_PRIMARY | fairlife는 낙농협동조합 원유 조달·자체 젖소/농장 미보유; 초여과 실제 우유 기반·단백질 +50% | https://fairlife.com/frequently-asked-questions/ |
+| E38 | VERIFIED_PRIMARY | 코카콜라 FY2025 Form 10-K: dairy 주원료 우유, fairlife는 소수 협동조합에서 원유 조달 집중, 대체 공급업체 가능하다는 회사의 견해. 이는 비용·가격 완전 방어의 독립 입증이 아님 | https://investors.coca-colacompany.com/filings-reports/all-sec-filings/content/0001628280-26-010047/ko-20251231.htm |
+| E39 | VERIFIED_PRIMARY | 2026 캘리포니아 CARB 낙농·축산 메탄 2013년 대비 2030년 40% 감축 목표 및 2028년 규정 검토·2030년 가능 도입을 위한 정보 수집. 규제 **최종 시행 확정**으로 해석 금지 | https://ww2.arb.ca.gov/public-comments/information-solicitation-inform-dairy-and-livestock-sb1383 |
+| E40 | VERIFIED_PRIMARY | 덴마크 녹색 3자 협정에 따른 2030년 가축 메탄 등 배출세 계획, 2035년 세율 인상; 덴마크 정책 ≠ 미국 전국법 | https://klimaraadet.dk/da/virkemiddel/generel-ensartet-drivhusgasafgift |
+| E41 | VERIFIED_PRIMARY | OECD-FAO 2026-2035: 세계 우유 생산 연평균 약 +2% 전망, 우유 수요 중기 증가; '메탄 규제로 우유 수급 붕괴 확정'이라는 주장 불가 | https://www.oecd.org/en/publications/oecd-fao-agricultural-outlook-2026-2035_47874669-en/full-report/dairy-and-dairy-products_5e1ae8f8.html |
