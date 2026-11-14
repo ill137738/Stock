@@ -78,3 +78,14 @@
 | E46 | VERIFIED_PRIMARY | FY2026 Brazil virginiamycin $27M & Mecadox $21M, Brazil 2026-04-27 performance-use restriction; FY2027Q1 Brazil virginiamycin sales -$5.2M due regulations, FDA pending | https://www.sec.gov/Archives/edgar/data/1069899/000110465926101493/pahc-20260630x10k.htm ; https://www.sec.gov/Archives/edgar/data/1069899/000110465926122692/pahc-20260930x10q.htm |
 | E47 | MARKET_SECONDARY_DATED | PAHC 2026-11-13 NASDAQ 종가 $35.97, 시총 ~$1.46B, EV ~$2.17B, P/E. 모든 가격은 미래 시점 재조회 필수 | https://stockanalysis.com/stocks/pahc/ ; https://stockanalysis.com/stocks/pahc/statistics/ |
 | E48 | COMPANY_CLAIM | ~세계 MFA 시장 2위 기업이라는 회사 평가; 공시 제품 종류/영업망 90개국/과거 50+ 가금 백신 제품군 및 수산 Phi-Shield 취급, **수산 순수 매출·AI 기여/고객 FCR 수치는 분리공개 없음** | https://www.sec.gov/Archives/edgar/data/1069899/000110465926101493/pahc-20260630x10k.htm |
+
+## E49–E53 — 2026-11-15 JBTM/PAHC 동일 TTM 비교
+| ID | 근거 상태 | 원문 / 체크포인트 | 링크 |
+|---|---|---|---|
+| E49 | VERIFIED_PRIMARY | JBTM FY2025 CFO $341.7M, capex $103.6M / company-defined FCF $249.8M; 2025 Marel 통합 영향 | https://ir.jbtmarel.com/sec-filings/all-sec-filings/content/0001433660-26-000053/jbt-20251231.htm |
+| E50 | VERIFIED_PRIMARY | JBTM 2026 9mo CFO $320M/capex $77M vs 2025 9mo CFO $224M/capex $70M; organic growth +1.8%, 51% recurring parts/services/leasing/SW. TTM basic FCF = $327.1M (calculated) | https://ir.jbtmarel.com/sec-filings/all-sec-filings/content/0001628280-26-069624/jbt-20260930.htm |
+| E51 | VERIFIED_PRIMARY | PAHC FY2026 ending inventory $534.883M vs prior $444.425M; finished goods $312.959M vs $253.817M; management cites tariff/demand/acquired Zoetis. BFI 90.3% votes vs ~48.2% economic | https://www.sec.gov/Archives/edgar/data/1069899/000110465926101493/pahc-20260630x10k.htm |
+| E52 | VERIFIED_PRIMARY | PAHC 2026-09-30 inventory $567.139M, +$33.898M inventory cashflow use Q1; Chicago Heights preclosure/production transfer planned. TTM CFO−CAPEX ~$21.67M; no evidence all accumulated inventory is obsolete | https://www.sec.gov/Archives/edgar/data/1069899/000110465926122692/pahc-20260930x10q.htm |
+| E53 | MARKET_SECONDARY_DATED | 2026-11-13 JBTM close $125.54 / cap ~$6.41B and PAHC close $35.97 / cap ~$1.46B. Price dynamic; company 2026 guidance for adjusted vs GAAP separately | https://www.marketscreener.com/quote/stock/JBT-MAREL-CORPORATION-3860953/ ; https://stockanalysis.com/stocks/pahc/ |
+
+Crosscheck ratios and reconciliation in [comparative audit](JBTM_VS_PAHC_DECISION_ANALYSIS_20261115.md); source numbers are period-specific and not forward estimates.
