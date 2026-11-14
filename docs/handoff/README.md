@@ -41,3 +41,6 @@
 
 ## 2026-11-15 JBTM vs PAHC 정량 비교
 - [JBTM_VS_PAHC_DECISION_ANALYSIS_20261115.md](JBTM_VS_PAHC_DECISION_ANALYSIS_20261115.md): 동일 TTM 현금흐름·시가총액·가이던스 배수, PAHC 재고 증가 원인, 가족 의결권 약 90.3%, 동물성 단백질 투입재의 범위, JBTM 상대 우위/반증 조건. **PM 임시 선호 JBTM, Owner 매수승인 없음**.
+
+## 2026-11-15 애널리스트 컨센서스/추천 정확도 검증
+- [ANALYST_CONSENSUS_RANKINGS_20261115.md](ANALYST_CONSENSUS_RANKINGS_20261115.md) — JBTM/PAHC TipRanks·S&P/FT 범위 차이, 전문가별 최신 투자의견, 전체 성공률·순위와 **해당 종목만의 적중률 구분**, 적중률 높은 매도견해 및 표본 편향, PM 독립 판단. 시간이 지나면 순위·목표가 재조회 필수.
