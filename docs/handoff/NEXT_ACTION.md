@@ -75,3 +75,8 @@
 ## 중국 경쟁 및 성장 리레이팅 독립 검증 계획 — 2026-11-15
 - [JBTM_CHINA_COMPETITION_GROWTH_RERATING_20261115.md](JBTM_CHINA_COMPETITION_GROWTH_RERATING_20261115.md): Square/Nantong/Raniche 및 2026 Xinsheng 중국 고객의 고급 JBT 설비 추가 사례를 확인; 중국 경쟁 과소평가하지 말고 R1에서 가격·공장 가동률·정육수율·서비스 TCO 동일분모 비교 추진. 성장주 미발견 가설은 9명 전체 EPS 추정, 최근 3개월 TipRanks 6명, GAAP/adjusted P/E를 포함해 수정.
 - 2025 seafood 장비 주문 6%, 2025+2026H1 seafood 주문 7% **모두 맞는 시점별 수치**로 정리. 후임은 후자 7%를 2025 단독 자료 오류와 혼동하지 말 것. "하이프"가 매출/마진/실제 AI 매출 증명을 대체하지 않음. 단일 JBTM R1 작업 ID 변경 금지, NO_BUY_APPROVAL.
+
+## 2026-11-15 신규 독립 AI 냉각 테마 후속 연구 원장
+- [AI_DATACENTER_COOLING_EARTH_ORBIT_SCREEN_20261115.md](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREEN_20261115.md)에 **지상/우주 냉각 상이한 물리 법칙·상업화**와 최신 2026 Q3/YTD, VRT/MOD/NVT/RDW/FLEX/PH 성과, 중국 Envicool, 삼성–MOD 인수설을 첫 스크리닝으로 봉인. 기존 JBTM/PAHC R1·의사결정 이력 **수정·삭제하지 말 것**. Owner 신규 테마 제안에 따른 병렬 리서치, NO_BUY_APPROVAL.
+- 냉각 전용 실제 매출/가동·수주 구조: VRT 사업별 Thermal 상세 매출, MOD 2026-10-01 spin 이후 pro forma FY2027 GAAP·FCF 및 $4B capacity LTA 최소 주문 의무, NVT 데이터센터 액체냉각 세부 마진/최종 제품 가격, 경쟁 중국 Envicool의 Google 거래 체결 여부. 2026–29 장기 성장/마진 가정과 현재 EV/EBIT, 정상화 FCF 수익률을 동일 분모로 재계산.
+- RDW Q-Rad 소형 위성 방열과 100kW~MW 우주 AI 열설계는 완전히 다른 규모. 실제 100kW+ 계약·우주 운용 열제거 성능 증거 없는 '우주 데이터센터 고성장 확정' 판정 금지. VRT/MOD/NVT 우주 매출 **0 confirmed** 기준.
