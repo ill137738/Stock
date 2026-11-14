@@ -37,3 +37,16 @@
 4. JBTM Investor Day 숫자는 회사 계획(`COMPANY_CLAIM`), 10-Q 실제 결과와 섞지 말 것.
 5. 이전 AI 답변은 출처가 아니라 분석의 역사. 오류가 발생한 경우 `DECISIONS`에 `SUPERSEDED`로 보존.
 6. 외부 링크는 탐색 편의를 위한 원문 URL이며 API key, 사내 소스, 사용자 개인 정보 첨부 금지.
+
+## E26–E32: 2026-11-15 후속 조사 출처
+| ID | 등급 | 입증하는 사실 | 원문 |
+|---|---|---|---|
+| E26 | VERIFIED_PRIMARY | CALM FY2027 Q1 일반계란 가격 -59.3%/물량 -0.7%, 전체 매출/손실 및 Specialty/Prepared 구조, 현금+단기투자 $767.592M | https://calmainefoods.gcs-web.com/news-releases/news-release-details/cal-maine-foods-reports-first-quarter-fiscal-2027-results |
+| E27 | VERIFIED_PRIMARY | CALM 2026-08-29 SEC 10-Q 부문 매출/이익 재조정 및 공시 | https://www.sec.gov/Archives/edgar/data/16160/000156276226000113/calm-20260829.htm |
+| E28 | VERIFIED_PRIMARY | JBTM 사우디 Almarai 2026년 다어종 3개 어류 가공라인 계약(회사 발표 계약, 설치 완료 증명 아님) | https://jbtmarel.com/en/news/jbt-marel-and-almarai-sign-multimillion-euro-contract/ |
+| E29 | COMPANY_CLAIM | JBTM 가금/생선 등 장비 주문 비중과 제조/서비스 레버리지의 Investor Day 주장 | https://www.sec.gov/Archives/edgar/data/1433660/000143366026000071/exhibit991-jbtmarel2026i.htm |
+| E30 | VERIFIED_PRIMARY | PAHC 2027FY Q1 매출 $386.8M, 수산·가금·중국/브라질 수요 변동과 일부 규제 위험 | https://investors.pahc.com/press-releases/press-release-details/2026/Phibro-Animal-Health-Corporation-Reports-First-Quarter-Results-Maintains-Financial-Guidance/default.aspx |
+| E31 | VERIFIED_PRIMARY | ZTS 2026Q3/9개월 반려동물 -4%, 가축 +11% / 반려 로봇 인과관계 미제시 | https://news.zoetis.com/press-releases/press-release-details/2026/Zoetis-Announces-Third-Quarter-2026-Results-Highlights-Progress-Advancing-Innovation-Across-Diversified-Portfolio-and-Narrows-Full-Year-2026-Revenue-Guidance-Raises-Full-Year-2026-Adjusted-EPS-Guidance/ |
+| E32 | EXTERNAL_SURVEY | 미국 반려동물 가구 95M, 산업 $158B(2025)/$165B(2026 전망), 소규모 로봇 반려동물 태도 조사 N=163은 시장대체율 아님 | https://americanpetproducts.org/2026-state-of-the-industry ; https://link.springer.com/article/10.1007/s12369-026-01453-4 |
+
+더 자세한 맥락과 오류 방지는 [보강 연구](RESEARCH_NOTE_20261115_CALM_JBTM_PAHC_ZTS.md).
