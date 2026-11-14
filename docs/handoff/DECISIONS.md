@@ -47,3 +47,12 @@
 | S-D17 | OWNER_HYPOTHESIS | PAHC는 다축종·양식 건강/영양 제품을 판매하므로 동물성 단백질 믹스 변화 대응력 가능. 자동 제품 전환/허가 재활용은 미입증. | UNVERIFIED |
 
 실제 매수/비중/가격 승인 **없음**. [보강 연구](RESEARCH_NOTE_20261115_CALM_JBTM_PAHC_ZTS.md) 참고.
+
+## 2026-11-15 Owner 최신 확정 선택 — 과거 후보 논의 상위 우선
+| ID | 성격 | 확정 내용 | 적용 |
+|---|---|---|---|
+| S-D18 | OWNER_DECISION | **핵심 연구 대상은 JBTM + PAHC + KO, 3개로 확정.** JBTM과 PAHC는 단백질 생산/가공 혁신, KO는 fairlife 섭취/프리미엄화. | ACTIVE; 과거 'CALM도 검토'보다 최신 지시 우선 |
+| S-D19 | OWNER_DECISION | **CALM은 핵심 후보에서 제외하여 보류/비교 자료로만 유지.** 영양강화 계란의 단백질 6g은 일반 계란과 같고, 와플 등 가공식품은 단백질 혁신 경쟁우위가 불명확하다는 평가. | `CALM_ARCHIVED_COMPARATOR`, S-D15 superseded |
+| S-D20 | OWNER_DECISION | BRBR, TSN/Cobb, ZTS, PPC 등은 과거 분석 보존·비교 후보로만 취급. 사용자 승인 없이 핵심 유니버스를 확대하지 말 것. | ACTIVE |
+
+**중요:** 3개 종목을 *연구* 대상으로 정했으며 매수·포트폴리오 비중·매수가격·목표 수익률의 승인 **0건**. 과거 S-D15의 CALM 연구 진행 선호는 이 최신 결정(S-D19)에 의해 종료됨. E33–E35 참조.
