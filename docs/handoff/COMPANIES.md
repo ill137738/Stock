@@ -2,7 +2,10 @@
 
 **용도:** 한 기업당 사업모델·가설·해자·리스크·다음 검증만 한 번 기록. 전체 상태는 CURRENT_STATE, 확정 판단은 DECISIONS, 근거 URL은 EVIDENCE_INDEX. 아래 우선순위는 **연구 순서**이지 매수/목표주가 순위가 아니다.
 
-## A. 미국 상장 우선 후보
+## A. 미국 상장 후보 원장
+
+> **상태 상단 덮어쓰기 규칙 (Owner 2026-11-15): 핵심 심층 연구는 JBTM / PAHC / KO 세 기업.** 아래 기업별 기존 번호는 *과거 분석을 보존하기 위한 번호*이지 현재 투자 우선순위가 아니다. CALM은 비교 보류. [DECISIONS S-D18–S-D20](DECISIONS.md) 참조.
+
 
 ### 1. JBT Marel — JBTM — 심층 조사 핵심
 - 사업: 2025년 Marel 통합 뒤 글로벌 가금류·돼지·소·어류 1차 가공(선별/절단/뼈 제거/정육/필레/검사), 식품 후가공·포장·물류자동화 장비와 서비스·소프트웨어. 2026년 보고 부문 `Protein Solutions`, `Prepared Food and Beverage Solutions`.
@@ -47,7 +50,7 @@
 - 수산용 PHARMAQ 사업도 있으나 대형 반려동물 헬스케어 이익의 영향을 크게 받음. 과거 가금 2024 527M→2025 432M은 **감소**; 수산 242M→286M은 증가. ZTS 전체 기술력과 닭 생산성 투자 노출은 다르다.
 - 다음: 제품별 방역/백신 ROI, 어종·지역별 성장, 인수한 사료약제 사업 매각 영향, 가금 사업 둔화 원인.
 
-### 7. Cal-Maine Foods — CALM — 계란 고유 시장
+### 7. Cal-Maine Foods — CALM — `CALM_ARCHIVED_COMPARATOR` (핵심 제외)
 - 일반 계란 생산·유통, cage-free/organic/영양강화 등 프리미엄 계란, 가공·조리식품(계란 패티/오믈렛/하드보일드/와플 등). 2026 FY 매출 약 2.912B USD: 일반 약 1.310B, 전문/프리미엄 약 1.049B, Prepared Foods 약 245M, 기타 약 308M.
 - 소비자 단백질/가격 경쟁력과 규모의 경제, 가공식품 확대/브랜드 프리미엄 가설. 미국 내 계란 상품가격/조류인플루엔자/사료/규제/유통 압력이 핵심.
 - 계란은 육계와 계통·소비 쓰임새 다름. 소규모 산란은 쉬워도 대규모 방역/선별/유통은 진입장벽 존재. JBTM의 육계 도계가 CALM 계란 산업 전체 자동화와 동일하지 않음.
@@ -75,3 +78,8 @@
 
 ## C. 후보 선정 원칙
 기업별 비교 항목: `END_MARKET_GROWTH / SPECIFIC_REVENUE_PURITY / CUSTOMER_ROI / IP_OR_DATA_MOAT / RECURRING_REVENUE / GROSS_MARGIN / INCREMENTAL_ROIC / FCFF / SHARE_COUNT / MANAGEMENT_EXECUTION / VALUATION / COUNTRY_AND_LIQUIDITY`. 원자료를 같은 공시기간·통화로 정렬하고 결측을 UNKNOWN 표기. `BUY/HOLD/SELL` 결론은 전혀 승인된 바 없음.
+
+## CALM 제품 구체화 (2026-11-15, Owner 핵심 제외 판정)
+- **Specialty**: Eggland's Best(브랜드 협동조합/가맹 관계), Farmhouse, 4Grain. 사육방식/비타민·오메가3 강화로 프리미엄 차별화; Eggland's Best 일반 대형계란은 단백질 6g으로 보통 계란과 동일. 양식/육계 대비 획기적 단백질 생산기술 아님.
+- **Prepared**: Echo Lake Foods의 냉동 조리계란 패티/오믈렛/접은 계란 등 식품서비스 B2B; Van's 냉동 와플/팬케이크(글루텐프리 포함, 제품에 따라 무계란); Crepini 저탄수 계란랩. 'Prepared=전부 계란 단백질 제품'은 잘못된 해석.
+- 2027FY Q1 실제 사업부 영업이익: 일반계란 -$71.045M, Specialty +$14.937M, Prepared +$7.842M. B2B 식품서비스 생산성은 존재하나 이익을 방어하기에 부족하고, 유통/브랜드/가격 경쟁우위 독립 검증되지 않음. E33–E35 참고.
