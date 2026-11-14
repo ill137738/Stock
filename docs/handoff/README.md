@@ -44,3 +44,6 @@
 
 ## 2026-11-15 애널리스트 컨센서스/추천 정확도 검증
 - [ANALYST_CONSENSUS_RANKINGS_20261115.md](ANALYST_CONSENSUS_RANKINGS_20261115.md) — JBTM/PAHC TipRanks·S&P/FT 범위 차이, 전문가별 최신 투자의견, 전체 성공률·순위와 **해당 종목만의 적중률 구분**, 적중률 높은 매도견해 및 표본 편향, PM 독립 판단. 시간이 지나면 순위·목표가 재조회 필수.
+
+## 2026-11-15 JBTM 매도 애널리스트 반론 독립 감사
+- [JBTM_ANDREW_OBIN_BEAR_CASE_20261115.md](JBTM_ANDREW_OBIN_BEAR_CASE_20261115.md) — Obin 3/27 매도 사유(공개 헤드라인: 공격적 마진 목표·실행 위험), 10/23 $118 최신 식별 목표, 11/05 Sell 재확인, 2028 목표 대비 2026 실적과 반론, 원문 리포트 미확보 가드.
