@@ -71,3 +71,7 @@
 ## 2026-11-15 연 10% organic 매출 및 지속영업마진 조건 검토 완료
 - [신흥국 대형 자동화/성장-마진 시나리오](JBTM_EMERGING_MARKETS_10PCT_GROWTH_MARGIN_UNDERWRITING_20261115.md). 장기 기본 4~6%, 강한 실행 7~8%, 10%+ 초강세는 Product 14.5%/Prepared 4% 등 실행 필요. 자체 확률/시장 컨센서스 미입증, 조건부 감도분석.
 - 후임 R1은 고도화 설비 신규 주문/계약·공장당 ROI(신흥국 저임금 가정), 실현된 가격/서비스 점유율, 지역별 고객 매출 기여, GAAP 영업이익 정상화(2028 조정 EBITDA 20%와 별도), 시너지 종료 후 가격 결정력과 ROIC에 집중. 기존 R1 작업 ID·두 종목 범위 보존. NO_BUY_APPROVAL.
+
+## 중국 경쟁 및 성장 리레이팅 독립 검증 계획 — 2026-11-15
+- [JBTM_CHINA_COMPETITION_GROWTH_RERATING_20261115.md](JBTM_CHINA_COMPETITION_GROWTH_RERATING_20261115.md): Square/Nantong/Raniche 및 2026 Xinsheng 중국 고객의 고급 JBT 설비 추가 사례를 확인; 중국 경쟁 과소평가하지 말고 R1에서 가격·공장 가동률·정육수율·서비스 TCO 동일분모 비교 추진. 성장주 미발견 가설은 9명 전체 EPS 추정, 최근 3개월 TipRanks 6명, GAAP/adjusted P/E를 포함해 수정.
+- 2025 seafood 장비 주문 6%, 2025+2026H1 seafood 주문 7% **모두 맞는 시점별 수치**로 정리. 후임은 후자 7%를 2025 단독 자료 오류와 혼동하지 말 것. "하이프"가 매출/마진/실제 AI 매출 증명을 대체하지 않음. 단일 JBTM R1 작업 ID 변경 금지, NO_BUY_APPROVAL.
