@@ -61,3 +61,23 @@
 - **Moat verdict:** JBTM **plausibly stronger in integrated equipment switching costs, process engineering/software, installed base and replacement parts/service relationship**, but stronger *quantified* company-wide moat is **not independently proven**. 2026 Q3 recurring revenue: Protein $239M and Prepared/Food/Beverage $263M = $502M / $994M ≈50.5% — **spares/aftermarket/services/equipment leases AND subscriptions, not 50% AI SaaS**. PAHC has country-/product-specific regulatory registrations, commercial formulations, distribution and recurrent consumables, but generic substitution, antimicrobial rules and product commodity competition. Regulatory barriers can create **strong moats in some PAHC lines**; no blanket ranking product-by-product.
 - If the Owner's preference is durable engineering switching costs and broad food-protein adaptation, JBTM is the **current preferred investment research candidate**; high margin PAHC is not evidence of lower moat. JBTM's +1.8% organic 9-month growth and −0.7% Q3 revenue still fail to establish moat pricing power or high growth. No purchase recommendation.
 - Source primary: https://www.sec.gov/Archives/edgar/data/1433660/000162828026069624/jbt-20260930.htm ; https://www.sec.gov/Archives/edgar/data/1069899/000110465926122692/pahc-20260930x10q.htm ; https://www.sec.gov/Archives/edgar/data/1069899/000110465926101493/pahc-20260630x10k.htm ; https://ir.jbtmarel.com/sec-filings/all-sec-filings/content/0001433660-26-000053/jbt-20251231.htm
+
+
+## 10. Clarification: trailing-12-month YoY revenue vs trailing-12-month GAAP operating margin (2026-11-15)
+**Same metric definitions and endpoint**: Latest TTM = 2025 annual + 2026 Jan-Sep − 2025 Jan-Sep (JBTM), FY2026 annual + 2026 Sep quarter − 2025 Sep quarter (PAHC). Prior TTM = respective FY2024/FY2025 annual + subsequent period − earlier corresponding period.
+
+| GAAP measure, TTM ending 2026-09-30 | JBTM | PAHC |
+|---|---:|---:|
+| Latest TTM sales | **$3,919.0M** | **$1,540.974M** |
+| Previous TTM sales (ending 2025-09-30) | $3,257.8M | ~$1,399.708M |
+| **TTM sales growth YoY** | **+20.3%** | **+10.1%** |
+| Latest TTM GAAP operating income | **$286.3M** | **$192.775M** |
+| **Latest TTM GAAP operating margin** | **7.3%** | **12.5%** |
+| Latest Jul-Sep quarterly sales growth YoY | **−0.7%** | **+6.3%** |
+| Latest Jul-Sep quarterly GAAP operating margin | **10.1%** | **12.8%** |
+
+**Source arithmetic**: JBTM 2025 sales 3,798.2 − 2025 9M 2,790.2 + 2026 9M 2,911.0 = 3,919.0; 2025 operating 189.4 − 2025 9M 117.1 + 2026 9M 214.0 = 286.3; previous 2024 annual sales 1,716.0 − 2024 9M 1,248.4 + 2025 9M 2,790.2 = 3,257.8. PAHC FY2026 revenue 1,518.093 − Q1 FY2026 363.893 + Q1 FY2027 386.774 = 1,540.974; operating 194.396 − 51.260 + 49.639 = 192.775; previous TTM = FY2025 1,296.215 − 2024 Sep Q1 FY2025 ~260.4 + Sep 2025 Q1FY2026 363.893 ≈1,399.708.
+
+**Interpretation**: JBTM TTM +20.3% largely includes Marel merger base-period mismatch; its 2026 January–September organic growth only **+1.8%**. PAHC TTM +10.1% includes differing acquired Zoetis MFA portfolio ownership timing. Neither TTM headline growth is a proven sustainable organic CAGR. PAHC's GAAP operating margin is **higher**, though its TTM simple FCF conversion is weaker as discussed above.
+
+Primary filings: https://www.sec.gov/Archives/edgar/data/1433660/000143366026000053/jbt-20251231.htm ; https://www.sec.gov/Archives/edgar/data/1433660/000162828026069624/jbt-20260930.htm ; https://www.sec.gov/Archives/edgar/data/1433660/000143366025000065/jbt-20250930.htm ; https://www.sec.gov/Archives/edgar/data/1069899/000110465926101493/pahc-20260630x10k.htm ; https://www.sec.gov/Archives/edgar/data/1069899/000110465926122692/pahc-20260930x10q.htm ; https://investors.pahc.com/press-releases/press-release-details/2025/Phibro-Animal-Health-Corporation-Reports-First-Quarter-Results-Updates-Financial-Guidance/default.aspx
