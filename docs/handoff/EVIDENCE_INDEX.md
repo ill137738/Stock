@@ -67,3 +67,14 @@
 | E39 | VERIFIED_PRIMARY | 2026 캘리포니아 CARB 낙농·축산 메탄 2013년 대비 2030년 40% 감축 목표 및 2028년 규정 검토·2030년 가능 도입을 위한 정보 수집. 규제 **최종 시행 확정**으로 해석 금지 | https://ww2.arb.ca.gov/public-comments/information-solicitation-inform-dairy-and-livestock-sb1383 |
 | E40 | VERIFIED_PRIMARY | 덴마크 녹색 3자 협정에 따른 2030년 가축 메탄 등 배출세 계획, 2035년 세율 인상; 덴마크 정책 ≠ 미국 전국법 | https://klimaraadet.dk/da/virkemiddel/generel-ensartet-drivhusgasafgift |
 | E41 | VERIFIED_PRIMARY | OECD-FAO 2026-2035: 세계 우유 생산 연평균 약 +2% 전망, 우유 수요 중기 증가; '메탄 규제로 우유 수급 붕괴 확정'이라는 주장 불가 | https://www.oecd.org/en/publications/oecd-fao-agricultural-outlook-2026-2035_47874669-en/full-report/dairy-and-dairy-products_5e1ae8f8.html |
+
+## E42–E48: PAHC 심층 2026-11-15 재무/규제/지배구조 (원문+계산은 [PAHC_DEEP_DIVE_20261115.md](PAHC_DEEP_DIVE_20261115.md))
+| ID | 등급 | 주장·검증 | 공식 원문 |
+|---|---|---|---|
+| E42 | VERIFIED_PRIMARY | FY2026 매출 $1.518B, MFA·기타 $810.728M/백신 $156.419M/특수영양 $195.072M/미네랄 $282.341M, 동물건강 부문 EBITDA/마진, R&D $24.551M, FY2026 CFO/Capex; 인수사업 2026 $358.2M vs 2025 $208.2M, 가족 Class B 10배 투표권 | https://www.sec.gov/Archives/edgar/data/1069899/000110465926101493/pahc-20260630x10k.htm |
+| E43 | VERIFIED_PRIMARY | FY2027 Q1 동물건강 매출/부문 EBITDA, 지역별 매출, CFO $26.082M/capex $18.782M, 재고·이자 비용·분기 이익 계산 | https://www.sec.gov/Archives/edgar/data/1069899/000110465926122692/pahc-20260930x10q.htm |
+| E44 | COMPANY_GUIDANCE | 2026-11-04 FY2027 회사 전망: 매출 $1.55–1.60B, 조정 EBITDA $258–268M, GAAP EPS $2.98–3.22, adjusted $3.41–3.59, 회사 설명 LTM FCF $21.7M/debt $739.6M | https://investors.pahc.com/press-releases/press-release-details/2026/Phibro-Animal-Health-Corporation-Reports-First-Quarter-Results-Maintains-Financial-Guidance/default.aspx |
+| E45 | VERIFIED_PRIMARY | FDA carbadox/Mecadox regulatory testing method withdrawn 2023; marketing approvals *not necessarily fully withdrawn*, pending process; FDA concerns on residue monitoring | https://www.fda.gov/animal-veterinary/product-safety-information/questions-and-answers-regarding-carbadox |
+| E46 | VERIFIED_PRIMARY | FY2026 Brazil virginiamycin $27M & Mecadox $21M, Brazil 2026-04-27 performance-use restriction; FY2027Q1 Brazil virginiamycin sales -$5.2M due regulations, FDA pending | https://www.sec.gov/Archives/edgar/data/1069899/000110465926101493/pahc-20260630x10k.htm ; https://www.sec.gov/Archives/edgar/data/1069899/000110465926122692/pahc-20260930x10q.htm |
+| E47 | MARKET_SECONDARY_DATED | PAHC 2026-11-13 NASDAQ 종가 $35.97, 시총 ~$1.46B, EV ~$2.17B, P/E. 모든 가격은 미래 시점 재조회 필수 | https://stockanalysis.com/stocks/pahc/ ; https://stockanalysis.com/stocks/pahc/statistics/ |
+| E48 | COMPANY_CLAIM | ~세계 MFA 시장 2위 기업이라는 회사 평가; 공시 제품 종류/영업망 90개국/과거 50+ 가금 백신 제품군 및 수산 Phi-Shield 취급, **수산 순수 매출·AI 기여/고객 FCR 수치는 분리공개 없음** | https://www.sec.gov/Archives/edgar/data/1069899/000110465926101493/pahc-20260630x10k.htm |
