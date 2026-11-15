@@ -90,3 +90,6 @@
 
 ## 2026-11-15 MRVL 광통신 구조적 성장/광DSP 해자·CPO 자기잠식/경쟁사 감사
 - [MRVL_OPTICAL_MOAT_COPPER_WALL_CPO_COMPETITION_20261115.md](MRVL_OPTICAL_MOAT_COPPER_WALL_CPO_COMPETITION_20261115.md): 구리 신호 손실·속도/거리 의존 광통신 전환, NVIDIA Rubin NVL72 구리와 장거리 CPO 공존, LightCounting 광트랜시버 CY2025 $26.8B(+74%), 2026 성장 전망, Gartner MRVL 광연결 선도, JPMorgan DSP share >70% **비공식 추정**과 광모듈 전체 비중 엄격 구별. **LPO/CPO의 DSP 리타이머 생략으로 기존 MRVL 매출 잠식 가능**(LightCounting/NVIDIA), Broadcom Taurus 400G/lane·NVIDIA CPO·Cisco Acacia·Coherent 3가지 DSP 수용·중국 모듈 제조·Credo AEC 경쟁. 2026-11 MRVL/LITE 합병 **미완료**, InP laser·광학제어 통합 장점과 merchant DSP 고객 충돌 위험. 매수 승인 없음.
+
+## 2026-11-15 MRVL 최신 AI·우주 광통신·NVIDIA 협력·LITE 비선형 시너지
+- [MRVL_AI_ORBIT_NVDA_LITE_SYNERGY_SENSITIVITY_20261115.md](MRVL_AI_ORBIT_NVDA_LITE_SYNERGY_SENSITIVITY_20261115.md) — **NVIDIA 2026-03 MRVL $2B 전환우선주 직접투자(전환 시 ~21.78M주, 최초 ~$91.84), NVLink Fusion·실리콘 포토닉스 협력**과 NVIDIA의 Lumentum/Coherent **각 $2B 별도 비독점 투자**를 대조, 구글 우주 10Tbps 링크 설계 vs 지상 800Gbps 실증, NASA 레이저 vs RF SWaP 및 Rocket Lab Mynaric 우주용 단말 대비 MRVL 반도체 강점. LITE 인수 기존 주주 67%·$1B+ 비용시너지의 실질 per-share 지분 효과(현 연율 조정 EBIT 기준 ~-2%→+12% 가능하나 미달성)와 2031 시나리오 주가 역산, 매수 승인 없음.
