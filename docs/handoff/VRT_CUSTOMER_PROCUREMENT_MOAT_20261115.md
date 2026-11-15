@@ -1,0 +1,50 @@
+# VRT customer procurement economics: what is genuinely unique vs commoditized? (Stock PM, Nov 15, 2026)
+
+**Scope:** Separate new VRT customer technical-purchasing question, do not change the JBTM/PAHC research and no buy authorization. Status `MOAT_VERIFIED_IN_SCOPE / TECHNICAL_SUPERIORITY_HEAD_TO_HEAD_UNKNOWN / NO_BUY_APPROVAL`.
+
+## Executive answer
+Vertiv has no demonstrated technology that *only it can supply* in CDUs, liquid loops or chillers. **Best supported purchasing edge is breadth + experience**: global whole-power-to-thermal integration, large after-install service/engineering network, prefabricated construction shortening site commissioning, product reliability and feedback from installed base, and early NVIDIA DSX functional qualification. These often matter more to a hyperscaler than unit-level CDU sticker price, but **competition from Schneider/Motivair, nVent, CoolIT, Boyd, Delta, STULZ, etc. prevents a monopoly inference**.
+
+### Competitive basis
+- VRT FY2025 10-K explicitly states primary competitive parameters reliability/quality/price/service/customer relationships, niche competitors Delta, STULZ, JCI, Socomec, large multi-category Schneider, Eaton, Legrand, Huawei; no exclusive warranty or customer requirement proven.
+- Independent Dell’Oro report public press release Jan 8 2026 says Vertiv **leads liquid cooling market**; CoolIT, nVent, Boyd established share; AAON growing quickly on hyperscaler custom design. Dell’Oro full shares/benchmark datasets paywalled; former Vertiv staff analyst noted potential perception of bias, not disqualifying, but validate independent. **Segment leadership not categorical performance edge**.
+- **VRT 2.3MW CoolChip CDU** first NVIDIA **DSX Ready** Sep 21 2026; uses supplier's NVIDIA *self-qualification suite*, not independent fault study, exclusive deal or a signed NVIDIA capacity purchase. Multiple others including LG, LiquidStack, Schneider have subsequently qualified CDU models; first mover status is transient.
+- **Schneider Electric/Motivair** Jan 2026 launched **2.5MW MCDU-70** (10MW+ bank as redundancy), and Sep 23 2026 released **WCDU up to 3.5MW** integrating air and water, first shipping select regions October 2026; preorder US early 2027. **CDU maximum MW does not by itself establish superiority**: compare kW, primary/secondary flow, delta T, approach temperature, pump W/kW, redundancy, filtration and coolant compatibility.
+- **nVent** Oct 13 2026 AMD Helios dual rear-door RDHx integrated with DC-power, residual air heat after direct chip liquid. A company may select NVT for precise rack integration even if VRT broad facility partner. Competition is differentiated by *buying level*, not fixed one-dimensional ranking.
+
+### What customer buys & why select VRT
+| Buyer requirement | Vertiv offering | Expected economics | Evidence caveat |
+|---|---|---|---|
+| Physical cooling heat removal in high-density GPU rows | CDU 2300 + secondary loop pumps/manifolds, heat rejection & cooling plant | minimizes design/integration risk; validated DSX functional specs | doesn't establish lowest PUE / energy cost vs alternatives |
+| Power & cooling as one system | switchgear, UPS, power distribution, rack & cold plates/chillers, controls in Vertiv integrated design | fewer contractor interfaces, one accountable vendor, potential deployment scheduling efficiency | Schneider and Eaton also integrated; actual project total cost must be compared |
+| Fast site install | prefab SmartRun overhead busway, cooling plumbing & containment; OneCore scalable modules | **company marketing claims up to 85% less onsite installation time and up to 40% reduction in aisle-based infrastructure deployment CAPEX**, not whole facility savings | no independently audited same-project customer ROI verified |
+| Rapid recovery/continuous uptime | 2025 annual report >300 centers, ~5,000 field service engineers, custom spare parts and maintenance / commissioning | less downtime impact, faster SLAs, spare parts availability, service recurring sales | cannot infer outage MTBF/MTTR advantage vs Schneider from headcount alone |
+| Long lifecycle & operations feedback | recurrent installed-base service, liquid coolant quality, engineering redeployment, improvements informed by problems | high switching cost, failure-mode discovery, higher customer lifetime value | 2026 Baird management *claims* advantage, not independently proven retention |
+| NVIDIA-like architecture roadmap | CoolChip DSX Ready and reference architecture integration | reduced qualification burden vs unqualified newcomers | DSX is self-qualification functional suite, not purchasing exclusivity |
+
+### Reliability value framework
+Uptime Institute 2025 annual survey: among **94 respondents that experienced significant outage**, **20% said most recent outage cost >$1M**, 37% $100k–$1M, 43% < $100k. This *respondent distribution is not an annual probability or VRT’s failure rate*. 
+Simple illustrative *not empirical* economic calculus: an AI data center pays **+$500k premium** for integrated infrastructure, and it plausibly lowers **expected** all-in outage loss $100k annually (by fewer outages or faster repair). Over 10 years with a 10% annual discount, present value avoided cost ~$614k, premium economically justified **before** potential energy and scheduling savings. Without independently verified avoided downtime, this cannot be claimed as realized VRT customer ROI. 
+Alternatively $1M loss per severe incident and 10 percentage point annual reduction in incident probability yields $100k/y expectancy, but no data demonstrate such large reduction. Hypothetical only.
+
+### Actual demonstration of value
+- **Vertiv SmartRun brochure** (2026): 85% onsite time and 40% aisle infra deployment cost *maximum* company claims; inspect baseline and scope, **do not** say entire data center construction/opex -85%/-40%.
+- Vertiv 2026 Q3 revenue $4.313B 61% YoY reported, 55% organic, GAAP EBIT margin 22.8% and adjusted op 25.2%. Strong growth and profitability consistent with customers buying solutions, **not proof of unique technology or price premium**, since hyperscaler construction is booming and merger contributions ~6pp.
+- VRT 2026 Q3 product gross margin ~37%, service gross margin ~44.1%, GAAP services sales $675.7M / total $4.313B = 15.7%. Service related recurring opportunity, but service is field labor-based and no independently verified percentage locked-in contracts.
+- VRT management Baird Nov 10 2026 recognizes **crowded CDU market** and argues global install base + field learning and rapid engineering feedback loop helps reliability, response and redesign. Explicitly distinguish statements of management from head-to-head studies.
+
+### Falsification / due diligence
+VRT moat deteriorates if Schneider or nVent shows same/better full-system TCO, credible customer SLA service coverage, faster installation at comparable or lower bid prices, higher actual uptime, or OEM customers internalize cooling. For each competitive tender require **same rack GPU heat-load and PUE conditions**, CDU & cold-plate design, power input per MW thermal, redundancy failure rates, service MTTR/availability, capex installed, physical labor/commissioning, upgrades, aftersales attach, 3–5 year cumulative gross profit and retained business vs other OEMs.
+For investors require cooling-specific market share and organic orders, pricing and gross margins instead of general growth, service attachment/renewal, EV/GAAP EBIT or FCF vs global rival, repeated 2027+ execution. **Do not add orbital AI DC revenue** absent contract and in-space qualified radiator loop.
+
+## Official + independent URLs
+- SEC 2025 Vertiv 10-K competition/service: https://www.sec.gov/Archives/edgar/data/1674101/000167410126000008/vrt-20251231.htm
+- Dell'Oro 2026 leader & rival set: https://www.delloro.com/newsroom/data-center-liquid-cooling-market-to-approach-7-billion-by-2029-as-ai-deployments-accelerate/
+- Vertiv Sep DSX Ready / actual self-qualification: https://www.vertiv.com/en-emea/about/news-and-events/news-releases/2026/vertiv-coolant-distribution-unit-qualified-as-nvidia-dsx-ready-for-ai-factory-infrastructure/
+- Schneider 2.5MW CDU Jan 2026: https://www.se.com/us/en/about-us/newsroom/news/press-releases/motivair-by-schneider-electric-announces-new-cdu-with-capability-to-scale-to-10mw-and-beyond-for-nextgen-ai-factories-69705c3655f8517e99086bbd/
+- Schneider 3.5MW WCDU Sep 23 2026: https://www.se.com/ww/en/about-us/newsroom/news/press-releases/schneider-electric-launches-new-motivair-coolant-distribution-unit-integrating-liquid-and-air-cooling-for-more-flexible-data-center-deployments-6ab39628a845186897090d0c/
+- NVT AMD Oct 13 2026: https://investors.nvent.com/press-releases/press-release-details/2026/nVent-and-AMD-Collaborate-on-Cooling-for-AMD-Helios-Rackscale-Solution/default.aspx
+- SmartRun official May 2026 PDF marketing claims: https://www.vertiv.com/494bd5/globalassets/shared/vertiv-smartrun-brochure_.pdf
+- Uptime Institute 2025 annual survey report: https://datacenter.uptimeinstitute.com/rs/711-RIA-145/images/2025.Annual.Survey.Report.pdf?version=0
+- VRT Baird Nov 10 2026 transcript: https://stockanalysis.com/stocks/vrt/transcripts/780847-baird-2026-global-industrial-conference/
+- Vertiv Oct 28 2026 FY26 Q3: https://www.sec.gov/Archives/edgar/data/1674101/000162828026067707/q32026exhibit991vrt10282026.htm
