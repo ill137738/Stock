@@ -106,3 +106,7 @@
 ## 2026-11-15 VRT vs MRVL 동일기준 가치평가 1차 판정
 - [VRT_VS_MRVL_RISK_ADJUSTED_5YEAR_UNDERWRITING_20261115.md](VRT_VS_MRVL_RISK_ADJUSTED_5YEAR_UNDERWRITING_20261115.md)에 사용자의 두 종목 우열 질의에 대한 **VRT 현재 위험조정 선호**를 판정함. MRVL 장기광반도체 해자·매출상방 더 크지만 2026 11월 LITE $115B deal 67/33% 합병 미완료/Google warrant/SBC 큰 위험, 2026-08 실적 MRVL H1 CFO$1,244.3M CAPEX$282.4M SBC$533.8M; VRT 2026-09 9mo CFO$2,660.6M CAPEX incl SW$430.3M SBC$50.5M. 비교 기간 차이 및 주당 owner FCF 기준 우선. 2031 동일 15%/PFCF25x hurdle 계산은 **예시/전망 아님**, MRVL LITE 합병 원장 승인 전까지 목표가격/결정 사용 금지. 신규 거래 승인 없음.
 - 후속: MRVL 12/01 FY27Q3 최종 발표 후 매출·GAAP SBC 현금·고객선수금 갱신, LITE 통합 성공/미완성 양 시나리오 FY28–31 완전희석 GAAP NOPAT/FCF·위험프리미엄, VRT 2027 normalised cash conversion/multi-stage DCF. 동일 비용자본·성장 축소·종가 기준 기대수익 비교, 고객별 공급계약 실현률·인수 시너지 검증. 미확인 orbital AI 데이터센터 매출0 유지. 기존 다른 연구 트랙 분리.
+
+## 2026-11-15 MRVL 광통신 독점 지위/광기술 전환 구조 심사
+- [MRVL_OPTICAL_MOAT_COPPER_WALL_CPO_COMPETITION_20261115.md](MRVL_OPTICAL_MOAT_COPPER_WALL_CPO_COMPETITION_20261115.md)에 '구리 물리 병목 → 광연결 확대' 긍정 논리, 2025 광트랜시버 전체 +74% 객관 수요, MRVL Gartner 선도·JPMogan DSP 70%+ **애널리스트 추정**, 진정한 대체 Broadcom optical DSP·NVIDIA CPO·Cisco/Acacia·Coherent, 마벨 핵심 **merchant DSP LPO/CPO retimerless 자기잠식 위험**, LITE InP/레이저 통합과 DSP 고객 경쟁 충돌 위험, 2028H1 미완료 합병을 감사·기록. NO_BUY_APPROVAL.
+- 후속 독립 조사 항목: 2027년 800G/1.6T 양산 단위당 광DSP ASP/매출·share, LPO/CPO로 줄어든 DSP 수량 대비 MRVL 신규 포토닉 엔진 판매보전, MRVL 2026 FY27 실제 분기별 광부문 유기매출 (custom ASIC 구분), Broadcom Taurus/Coherent 3 supplier design wins, LITE 제조·laser 공급 중립 유지, 완전희석 owner FCF·합병 성공/실패 두 시나리오. 자동 매매 및 추가 우주 매출 산입 금지.
