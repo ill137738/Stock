@@ -110,3 +110,7 @@
 ## 2026-11-15 MRVL 광통신 독점 지위/광기술 전환 구조 심사
 - [MRVL_OPTICAL_MOAT_COPPER_WALL_CPO_COMPETITION_20261115.md](MRVL_OPTICAL_MOAT_COPPER_WALL_CPO_COMPETITION_20261115.md)에 '구리 물리 병목 → 광연결 확대' 긍정 논리, 2025 광트랜시버 전체 +74% 객관 수요, MRVL Gartner 선도·JPMogan DSP 70%+ **애널리스트 추정**, 진정한 대체 Broadcom optical DSP·NVIDIA CPO·Cisco/Acacia·Coherent, 마벨 핵심 **merchant DSP LPO/CPO retimerless 자기잠식 위험**, LITE InP/레이저 통합과 DSP 고객 경쟁 충돌 위험, 2028H1 미완료 합병을 감사·기록. NO_BUY_APPROVAL.
 - 후속 독립 조사 항목: 2027년 800G/1.6T 양산 단위당 광DSP ASP/매출·share, LPO/CPO로 줄어든 DSP 수량 대비 MRVL 신규 포토닉 엔진 판매보전, MRVL 2026 FY27 실제 분기별 광부문 유기매출 (custom ASIC 구분), Broadcom Taurus/Coherent 3 supplier design wins, LITE 제조·laser 공급 중립 유지, 완전희석 owner FCF·합병 성공/실패 두 시나리오. 자동 매매 및 추가 우주 매출 산입 금지.
+
+## 2026-11-15 MRVL 가정: AI 미래와 우주옵션의 실질 가치, LITE 1+1>3 가능성
+- [MRVL_AI_ORBIT_NVDA_LITE_SYNERGY_SENSITIVITY_20261115.md](MRVL_AI_ORBIT_NVDA_LITE_SYNERGY_SENSITIVITY_20261115.md) 마벨 NVLink Fusion/NVIDIA 직접 $2B 전환우선주 및 LITE/COHR 병행 투자와 비독점 구조, 우주 Suncatcher 10Tbps 설계 vs 800Gbps 지상 실험, NASA 광단말 대 RF SWaP·RKLB Mynaric 우주용 단말 차별, 2028H1 예정 LITE 통합 시너지 $1B+와 기존 MRVL 67% 지분몫 제한, 2031 고성장 필요 FCF 밸류에이션 감도분석 완료. **'AI가 미래'라는 믿음만으로 현재 MRVL 저평가 확정 금지**. 보유 종목 변경·매수/매도 자동권고 없음.
+- 후속 오프라인 연구: (1) MRVL+LITE 합병 시/미성사 시 **실제 완전희석 현금흐름/주**—NVIDIA ~21.78M 전환우선주, Google ~58.97M 조건부 warrants, employee SBC 모두 포함—(2) NVIDIA direct procurement vs ODM/custom XPU 공급계약 구분과 고객 비독점 멀티소스 (3) 2027 1.6T·NPO/CPO 실제 attach·공급자 점유·ASP (4) LITE $1B cost synergies 달성비율 & module 고객이탈, capex/통합비용, 2028 close 승인 (5) orbital 매출 확정 전 0 baseline. 
