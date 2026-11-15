@@ -153,3 +153,7 @@
 - NVT FY2025 매출 약 $3.9B 중 데이터센터 약 **$1B (~25%)**; Infrastructure 전체 45%에는 유틸리티 포함됨. NVT도 AMD Helios RDHx 공동개발, Minnesota 액체냉각 40만 sqft 증설로 진짜 기술력 있는 경쟁사. VRT NVIDIA DSX Ready 2.3MW CDU와 대형 전력·냉각 통합 아키텍처.
 - **FY26 Q3** VRT organic +55%/GAAP EBIT margin 22.8%, NVT organic +44%/GAAP 18.6%. **FY26 전체** VRT organic 가이던스 37–39% vs NVT 38–39%: 전사 추세 속도 단순 우열 금지. 2026-11-13 VRT $202.07 vs NVT $114.69, 각 FY26 회사 adjusted EPS 중간값 $7.15/$5.375로 비교시 **약 28.3배 vs 21.3배**, VRT 프리미엄 약 33%; 주당가격 그 자체 비교 금지.
 - **우주 방열**: VRT/NVT 어느 쪽도 상용 우주 AI 데이터센터 방열판 매출·수주 검증 안 됨. 칩 내부 냉각루프 기술의 가능성만 있고 진공 복사 방열 대형 전개 구조는 다른 기술. GAO/BCG 미검증·시간 지연, 우주 지상 대체 시 VRT 지상 인프라 사업에는 미래 하방도 가능. 현재 우주 관련 매출 0의 보수적 가정. CORE JBTM/PAHC 별도 기록 보존, 냉각 테마 리서치만 보충, NO_BUY_APPROVAL.
+
+## ARK Invest 포트폴리오 모방투자 독립 검토 — 2026-11-15
+- 상세 [ARK 투자신호 감사](ARK_PORTFOLIO_COPYCAT_AS_RESEARCH_SIGNAL_20261115.md): ARKK 2026-10-31 NAV 최근 1년 -9.08%, 3년 CAGR +32.11%, 5년 -7.62%, 10년 +15.90%; S&P 500 동일 기간 +12.11%, +23.40%, +12.06%, +15.44%. 2020 +152.82%/2022 -66.97% 극단적 변동성. 2026 발표 Morningstar 2025말 종료 10년 **투자자 실제 자금손실 추정 $5B**(시간가중 펀드 수익률과 다름), 투자 타이밍 문제.
+- ARK 2026-11 월 ARKK Tesla/Space Exploration/Tempus etc top 10 약 50%; 집중위험. 공식 장중 시그널 아님: ARK 이메일은 종가 후 공유, ETF creation/redemption·IPO 제외, exact fill price 미공개, 공식 일일 보유 CSV가 13F보다 빠름. ARKQ/ARKX 테마 매수 ≠ 우주 데이터센터 방열 매출 입증. 전기·열관리 VRT/NVT **개별 매출·FCF·EV/EBIT 검증 후 자체 매수가격** 요구. ARK 매매 추종 금지, 리서치 아이디어 탐색에만 활용하는 PM 권고. 기존 분석·NO_BUY_APPROVAL 유지.
