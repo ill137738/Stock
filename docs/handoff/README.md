@@ -93,3 +93,6 @@
 
 ## 2026-11-15 MRVL 최신 AI·우주 광통신·NVIDIA 협력·LITE 비선형 시너지
 - [MRVL_AI_ORBIT_NVDA_LITE_SYNERGY_SENSITIVITY_20261115.md](MRVL_AI_ORBIT_NVDA_LITE_SYNERGY_SENSITIVITY_20261115.md) — **NVIDIA 2026-03 MRVL $2B 전환우선주 직접투자(전환 시 ~21.78M주, 최초 ~$91.84), NVLink Fusion·실리콘 포토닉스 협력**과 NVIDIA의 Lumentum/Coherent **각 $2B 별도 비독점 투자**를 대조, 구글 우주 10Tbps 링크 설계 vs 지상 800Gbps 실증, NASA 레이저 vs RF SWaP 및 Rocket Lab Mynaric 우주용 단말 대비 MRVL 반도체 강점. LITE 인수 기존 주주 67%·$1B+ 비용시너지의 실질 per-share 지분 효과(현 연율 조정 EBIT 기준 ~-2%→+12% 가능하나 미달성)와 2031 시나리오 주가 역산, 매수 승인 없음.
+
+## 2026-11-15 신규 방산/우주 기업 비교 — KAI vs 한화에어로스페이스
+- [KAI_VS_HANWHA_AEROSPACE_DEFENSE_SPACE_UNDERWRITING_20261115.md](KAI_VS_HANWHA_AEROSPACE_DEFENSE_SPACE_UNDERWRITING_20261115.md): 한국항공우주(047810) KF-21/FA-50/헬기 양산·수출 vs 한화에어로스페이스(012450) K9·천무 세계 수주, 누리호 발사체·한화오션·한화시스템 연결, **2026Q3/1~9월 매출·이익률·수주잔고와 2027년 지배주주 EPS 예상 배수**. 2026-08 한화그룹 KAI 지분 **15.89%(한화에어로 9.90% 직접)**, 공정위 승인이나 지배력 확보/민영화 확정 아님. 누리호 2026-10-07 5차 성공(한화 주관/KAI 위탁 총조립), 우주 2026H1 매출 비중 약 0.83%로 AI 궤도 데이터센터 직접수혜 확정 불가. NO_BUY_APPROVAL.
