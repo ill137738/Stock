@@ -75,3 +75,6 @@
 
 ## 2026-11-15 ARK 포트폴리오 모방투자 타당성 및 AI 냉각 리서치 활용
 - [ARK_PORTFOLIO_COPYCAT_AS_RESEARCH_SIGNAL_20261115.md](ARK_PORTFOLIO_COPYCAT_AS_RESEARCH_SIGNAL_20261115.md) — 공식 ARKK/ARKQ/ARKX 성과·2026년 편입 종목, ARKK 2020 +153%/2022 -67%·2026-10 최근 5년 연 -7.62% vs S&P +12.06%·10년 +15.90% vs S&P +15.44%, Morningstar 2025말 종료 10년 투자자 손실 추정 ~50억 달러, 실시간 ARK 일일 매매공시 한계와 ARK를 **아이디어 발굴원**으로만 활용해야 하는 이유. VRT/NVT 매수/매도 권한 발생하지 않음.
+
+## 2026-11-15 VRT 기업 경쟁력·재무·밸류에이션 심층감사
+- [VRT_DEEP_DIVE_AI_INFRASTRUCTURE_20261115.md](VRT_DEEP_DIVE_AI_INFRASTRUCTURE_20261115.md): VRT FY2025 데이터센터 매출 85%, 전체 포트폴리오 Power 35% / Thermal 30% / IT 20% / Integrated 8% / Services 7%; Q3 FY26 organic sales +55%, GAAP EBIT margin 22.8%, 장비/서비스 gross margin 37.0%/44.1%, FY2026 조정 FCF ~$2.7B·연 유기성장 38% 회사 가이던스. May 2026 Investor Day FY2025–2030 유기 매출 CAGR **20–22%, FY2030 adj op margin 27%+** 목표(달성실적 아님). 2030 성장-마진-EV 배수 감도분석, 경쟁 Schneider/Eaton/Huawei/Envicool, 반도체 고온 워터루프 기술대체, 현 주가 높은 기대, **우주 공급 미확인**. 매수 승인 없음.
