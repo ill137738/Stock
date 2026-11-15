@@ -81,3 +81,6 @@
 
 ## 2026-11-15 VRT 고객의 구매 선택 요인·경쟁사 실물 대조
 - [VRT_CUSTOMER_PROCUREMENT_MOAT_20261115.md](VRT_CUSTOMER_PROCUREMENT_MOAT_20261115.md): VRT의 **독점 CDU 기술 없음**, Dell’Oro 액체냉각 분야 선도기업, NVIDIA DSX Ready 2.3MW(자가 기능 검증/독점 아님), Schneider Motivair 2.5MW+3.5MW·nVent AMD Helios, SmartRun 현장 설치 최대 -85%/aisle infra 구축비 최대 -40%(회사 주장), 5,000+ 서비스엔지니어/300+ 센터, Uptime Institute 장애비용 조사와 고객 TCO/공사기간·지원 위험의 구매합리성 및 독립 ROI 검증 부족을 분리.
+
+## 2026-11-15 신규 심층비교: Marvell 광통신 MRVL vs Vertiv 냉각 VRT
+- [MRVL_VS_VRT_AI_OPTICAL_INTERCONNECT_LUMENTUM_20261115.md](MRVL_VS_VRT_AI_OPTICAL_INTERCONNECT_LUMENTUM_20261115.md): Gartner 2026 AI 광연결 선도 MRVL, AI 맞춤 반도체 선도 Broadcom, VRT 냉각·전력 대비 기술해자/실적/장기 목표 비교. **2026-11-02 MRVL–Lumentum $115B(발표일 기업가치) 지분교환 4.5 MRVL/1 LITE, 기존 주주 pro forma 67% 보유, 2028H1 마감 예정·미완료**, Google 조건부 최대 58.97M 주 신주인수권, 10월 MRVL 2031 $70–90B 목표는 **인수 발표 전 독립 예상**, FY27 Q3 가결산 ~3.15B(최종 12/01 예정), 현재 MRVL 높은 PSR·인수 후 주당 FCF 불확실성을 기록. 기존 AI 냉각 및 JBTM/PAHC 분리, 매수 승인 없음.
