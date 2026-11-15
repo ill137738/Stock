@@ -263,3 +263,11 @@ Detailed [AI cooling independent screen](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREE
 | E147 | MRVL_COMPLETED_TECH_MA | Celestial AI Photonic Fabric Feb2 2026 인수 완료, FY28H2 최초 매출/FY28Q4 annualized $500M → FY29 Q4 $1B run-rate 자체 예상, 실현 수치 아님 | https://www.marvell.com/company/newsroom/marvell-completes-acquisition-of-celestial-ai.html |
 | E148 | MRVL_LATEST_PRELIMINARY | Nov2 MRVL FY27Q3 2026-10-31 매출 가이던스 중간값 **$3.150B +/-2% 예비**, 최종 실적 2026-12-01 예정, 매출/이익 완료 공시와 구분 | https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity |
 | E149 | PRICE_UNDERWRITING | Nov13 2026 MRVL $156.76/mcap~$137.63B/PSR14.56/trailing GAAP PE52.67 vs VRT $202.07/mcap$77.81B/PSR5.93/GAAP PE37.78; MRVL 10/14 $245.28→11/13 -36% approx; per share cashflows after LITE 33% ownership not yet modeled. No conclusion 'cheap' from 36% decline | https://stockanalysis.com/stocks/mrvl/ ; https://stockanalysis.com/stocks/vrt/statistics/ ; [full PM report](MRVL_VS_VRT_AI_OPTICAL_INTERCONNECT_LUMENTUM_20261115.md) |
+
+## E150–E153 — 우주 DC 광통신 실현 가능성과 MRVL 수혜 미확정
+| ID | 근거등급 | 정확한 의미 | 출처 |
+|---|---|---|---|
+| E150 | GOOGLE_RESEARCH_DESIGN | Project Suncatcher optical ISL 목표 **10Tbps/링크** (설계·추산), 지상 DWDM 트랜시버 COTS 기술 응용. 실험실 800Gbps 단방향 / 1.6Tbps 양방향 성공; 우주 10Tbps 실전송 아님. PDF page3 스크린샷 검증 | https://services.google.com/fh/files/misc/suncatcher_paper.pdf |
+| E151 | GOOGLE_OFFICIAL_PLANNED | 2026-09-24 구글 2027년 위성 2대 레이저 통신 시험 예정, 아직 완공되지 않은 우주 데이터센터/상용 광학 공급시장 | https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/ |
+| E152 | MRVL_OFFICIAL_PORTFOLIO | FY2026 Marvell 10-K 광DSP/PAM4/coherent·SerDes·CPO·silicon photonics/드라이버, *aerospace and defense* 범용 커스텀 ASIC 공급능력. **Google Suncatcher 광학 공급사로 지정되었다는 증거는 아님** | https://investor.marvell.com/sec-filings/all-sec-filings/content/0001835632-26-000011/mrvl-20260131.htm |
+| E153 | ROCKETLAB_PRIMARY | Rocket Lab **2026-04-14** Mynaric 인수 완료, 우주 광학 CONDOR 단말 기술 보유. 수 Gbps급 장거리 비행단말과 구글 단거리 10Tbps 설계는 엄격히 구분 | https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-completes-mynaric-acquisition-adding-laser-optical |
