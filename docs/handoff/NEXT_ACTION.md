@@ -88,3 +88,6 @@
 
 ## 2026-11-15 VRT vs NVT 심층 감사 완료
 - [VRT_VS_NVT_ORBITAL_OPTIONALITY_20261115.md](VRT_VS_NVT_ORBITAL_OPTIONALITY_20261115.md)에서 VRT 85% 데이터센터 FY25와 NVT 약 25%, VRT thermal broader #1 표기, NVIDIA vs AMD rack partnerships, FY26 조정 EPS P/E 28.3 vs 21.3, Q3 성장 대비 FY 성장 가이던스 거의 동일하다는 점과 궤도 데이터센터 수주 부재를 출처 검증. 후속 게이트: 각각 **냉각사업만의 매출/마진**, 실제 2027년 납품 계약과 주문 질, 독립적인 시장점유율, 2027~29 정규화 EV/EBIT/현금흐름, VRT 우주용 thermal qualification contract 존재 여부. 기존 owner 범위 변경·거래 실행 없음.
+
+## 2026-11-15 ARK 포트폴리오 따라 투자 관련 답변 완료
+- [ARK_PORTFOLIO_COPYCAT_AS_RESEARCH_SIGNAL_20261115.md](ARK_PORTFOLIO_COPYCAT_AS_RESEARCH_SIGNAL_20261115.md)에서 ARKK 장단기 성과, Morningstar 투자자 자금흐름 손실, 일별 매매공시의 부분성/체결가격 한계, 테마 연구 활용·모방투자 금지 기준을 봉인. 자동 매수·매도/보유종목 추종 신호를 발생시키지 말 것. 필요 시 VRT/NVT 독립 가치평가의 추가 근거로 ARK Big Ideas만 상충 근거와 함께 사용. NO_BUY_APPROVAL 유지.
