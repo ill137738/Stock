@@ -78,3 +78,6 @@
 
 ## 2026-11-15 VRT 기업 경쟁력·재무·밸류에이션 심층감사
 - [VRT_DEEP_DIVE_AI_INFRASTRUCTURE_20261115.md](VRT_DEEP_DIVE_AI_INFRASTRUCTURE_20261115.md): VRT FY2025 데이터센터 매출 85%, 전체 포트폴리오 Power 35% / Thermal 30% / IT 20% / Integrated 8% / Services 7%; Q3 FY26 organic sales +55%, GAAP EBIT margin 22.8%, 장비/서비스 gross margin 37.0%/44.1%, FY2026 조정 FCF ~$2.7B·연 유기성장 38% 회사 가이던스. May 2026 Investor Day FY2025–2030 유기 매출 CAGR **20–22%, FY2030 adj op margin 27%+** 목표(달성실적 아님). 2030 성장-마진-EV 배수 감도분석, 경쟁 Schneider/Eaton/Huawei/Envicool, 반도체 고온 워터루프 기술대체, 현 주가 높은 기대, **우주 공급 미확인**. 매수 승인 없음.
+
+## 2026-11-15 VRT 고객의 구매 선택 요인·경쟁사 실물 대조
+- [VRT_CUSTOMER_PROCUREMENT_MOAT_20261115.md](VRT_CUSTOMER_PROCUREMENT_MOAT_20261115.md): VRT의 **독점 CDU 기술 없음**, Dell’Oro 액체냉각 분야 선도기업, NVIDIA DSX Ready 2.3MW(자가 기능 검증/독점 아님), Schneider Motivair 2.5MW+3.5MW·nVent AMD Helios, SmartRun 현장 설치 최대 -85%/aisle infra 구축비 최대 -40%(회사 주장), 5,000+ 서비스엔지니어/300+ 센터, Uptime Institute 장애비용 조사와 고객 TCO/공사기간·지원 위험의 구매합리성 및 독립 ROI 검증 부족을 분리.
