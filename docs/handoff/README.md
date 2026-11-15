@@ -84,3 +84,6 @@
 
 ## 2026-11-15 신규 심층비교: Marvell 광통신 MRVL vs Vertiv 냉각 VRT
 - [MRVL_VS_VRT_AI_OPTICAL_INTERCONNECT_LUMENTUM_20261115.md](MRVL_VS_VRT_AI_OPTICAL_INTERCONNECT_LUMENTUM_20261115.md): Gartner 2026 AI 광연결 선도 MRVL, AI 맞춤 반도체 선도 Broadcom, VRT 냉각·전력 대비 기술해자/실적/장기 목표 비교. **2026-11-02 MRVL–Lumentum $115B(발표일 기업가치) 지분교환 4.5 MRVL/1 LITE, 기존 주주 pro forma 67% 보유, 2028H1 마감 예정·미완료**, Google 조건부 최대 58.97M 주 신주인수권, 10월 MRVL 2031 $70–90B 목표는 **인수 발표 전 독립 예상**, FY27 Q3 가결산 ~3.15B(최종 12/01 예정), 현재 MRVL 높은 PSR·인수 후 주당 FCF 불확실성을 기록. 기존 AI 냉각 및 JBTM/PAHC 분리, 매수 승인 없음.
+
+## 2026-11-15 VRT vs MRVL — 동일한 주당 현금흐름 기준 교차섹터 투자가치 감사
+- [VRT_VS_MRVL_RISK_ADJUSTED_5YEAR_UNDERWRITING_20261115.md](VRT_VS_MRVL_RISK_ADJUSTED_5YEAR_UNDERWRITING_20261115.md): 2026-11-13 기준 **VRT 위험조정 선호(현재 실적·현금 수익률), MRVL 광반도체 해자·미래 상방 강하나 LITE 대규모 미완료 지분교환**. 원가·재무·SBC·희석, Google 조건부 warrant, 2026 FY2027 MRVL vs VRT FCF 원장 분모 불일치, 2031년 15% 연 수익률 달성용 **주당 완전희석 FCF 역산**, 고배수/합병 시나리오 검증. 매매 승인 없음.
