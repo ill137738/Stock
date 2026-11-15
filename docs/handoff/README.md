@@ -87,3 +87,6 @@
 
 ## 2026-11-15 VRT vs MRVL — 동일한 주당 현금흐름 기준 교차섹터 투자가치 감사
 - [VRT_VS_MRVL_RISK_ADJUSTED_5YEAR_UNDERWRITING_20261115.md](VRT_VS_MRVL_RISK_ADJUSTED_5YEAR_UNDERWRITING_20261115.md): 2026-11-13 기준 **VRT 위험조정 선호(현재 실적·현금 수익률), MRVL 광반도체 해자·미래 상방 강하나 LITE 대규모 미완료 지분교환**. 원가·재무·SBC·희석, Google 조건부 warrant, 2026 FY2027 MRVL vs VRT FCF 원장 분모 불일치, 2031년 15% 연 수익률 달성용 **주당 완전희석 FCF 역산**, 고배수/합병 시나리오 검증. 매매 승인 없음.
+
+## 2026-11-15 MRVL 광통신 구조적 성장/광DSP 해자·CPO 자기잠식/경쟁사 감사
+- [MRVL_OPTICAL_MOAT_COPPER_WALL_CPO_COMPETITION_20261115.md](MRVL_OPTICAL_MOAT_COPPER_WALL_CPO_COMPETITION_20261115.md): 구리 신호 손실·속도/거리 의존 광통신 전환, NVIDIA Rubin NVL72 구리와 장거리 CPO 공존, LightCounting 광트랜시버 CY2025 $26.8B(+74%), 2026 성장 전망, Gartner MRVL 광연결 선도, JPMorgan DSP share >70% **비공식 추정**과 광모듈 전체 비중 엄격 구별. **LPO/CPO의 DSP 리타이머 생략으로 기존 MRVL 매출 잠식 가능**(LightCounting/NVIDIA), Broadcom Taurus 400G/lane·NVIDIA CPO·Cisco Acacia·Coherent 3가지 DSP 수용·중국 모듈 제조·Credo AEC 경쟁. 2026-11 MRVL/LITE 합병 **미완료**, InP laser·광학제어 통합 장점과 merchant DSP 고객 충돌 위험. 매수 승인 없음.
