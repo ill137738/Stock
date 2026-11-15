@@ -177,3 +177,7 @@
 - MRVL FY2026 실적 $8.2B, **인수 발표 전 2026-10-06 경영진** FY28 ~$20B/ FY31 ~$70–90B(DC67.5–87.5B) 최고도로 공격적 전망, signed backlog/실제 현금 아님. FY27Q3 **preliminary** 매출 $3.15B +/-2%, 12/01 최종 실적 전 당기 이익 확정 금지.
 - 11/13 종가 MRVL $156.76 (mcap $137.6B, PSR~14.56, GAAP PE~52.7; FY2026–27 P/E 통일 어려움) vs VRT $202.07(mcap$77.81B PSR5.93, trailing GAAP37.8). MRVL 10/14 종가 $245.28→11/13 $156.76 **약 -36%** drawdown, 저평가 확정 아님. MRVL 2Q GAAP vs adjusted EPS 큰 차이, 2025 자동차 이더넷 사업 매각 비경상 이익/최근 인수 무형자산 등 고려. **비교 감도상 IR 후속 검토 전 VRT 선호를 MRVL로 즉시 교체하지 않음**.
 - PM 결론: 반도체 IP·광연결 기술해자는 MRVL에 상승여력, VRT는 실현된 고마진·현금흐름 가시성 강점. MRVL은 광매출 초고성장 외 **대형 M&A 가격·희석, 경쟁 Broadcom/NVIDIA, customer in-sourcing**까지 고위험. 우주 데이터센터 관련 양사 매출 미검증. 테마별 독립 연구 지속, NO_BUY_APPROVAL.
+
+## MRVL 우주 AI 데이터센터 광연결 관련성 vs 실제 공급확정 (2026-11-15)
+- Google Project Suncatcher 논문 **위성 간 목표 약 10Tbps**, 지상 데이터센터 DWDM/COTS 광트랜시버 적용 가능성, **실험실 실제 800Gbps 단방향(1.6Tbps 쌍방향)**만 달성; 2027년 2위성 레이저 시험 **예정/미완료**. Marvell의 광DSP/SerDes·실리콘 포토닉스와 제품 기술적으로 직접 관련성이 높으나 **MRVL의 구글 우주 AI 고객 선정·유상 주문·우주용 인증은 확인되지 않음**. 기존 구글 TPU ASIC 상업계약을 우주 계약과 혼동 금지.
+- 우주 전문 비교 **Rocket Lab RKLB 2026-04-14 Mynaric 인수 완료**, CONDOR 실제 우주 광학 단말기 공급기술. 기존 장거리 소수 Gbps 연결과 구글 단거리 초고속 10Tbps 목표는 다른 아키텍처. MRVL는 반도체 부품/잠재 OEM 기술, RKLB는 단말기/광학/우주 자격 공급자로 구분. 자세한 자료 [MRVL vs VRT 광인터커넥트 보완](MRVL_VS_VRT_AI_OPTICAL_INTERCONNECT_LUMENTUM_20261115.md); 현재 궤도 데이터센터 직접 매출 **0 확인** 및 NO_BUY_APPROVAL 유지.
