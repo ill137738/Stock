@@ -95,3 +95,6 @@
 ## 2026-11-15 VRT AI 데이터센터 인프라 심층감사 완료
 - [VRT_DEEP_DIVE_AI_INFRASTRUCTURE_20261115.md](VRT_DEEP_DIVE_AI_INFRASTRUCTURE_20261115.md): 사업 분해(FY25 DC85%/Thermal30%), Dell'Oro/ABI 경쟁 독립 근거, 2026Q3 유기 성장55%·GAAP EBIT22.8%·서비스 GM44.1%, FY2030 회사 목표 유기20–22%/adj EBIT margin27%+ 및 GAAP 구분, FY2026 가이던스 대비 밸류에이션·장기 주가 감도, 신흥 경쟁·공급망·AI 고객 CAPEX·우주 매출0 기준 봉인. JBTM/PAHC Core2와 냉각 별도 테마 체계 유지. **NO_BUY_APPROVAL**.
 - 후속 기존 단일 AI cooling R1 감사 항목: VRT 냉각 전용 매출/마진(30%는 FY25 포트폴리오), 고객별 CapEx와 공급계약 실제 영구성, Q3 $100–150M 전기 이연 매출 정상화, 2027년 수주/GAAP FCF vs 조정 FCF, 냉각판과 CDU 비중/설치 서비스비율, Chinese/US components qualification, 2030 EV/adj EBIT 배수 vs NVT 동일 분모. 새로운 승인 없이 매수/매도나 우주매출 반영 금지.
+
+## 2026-11-15 VRT 냉각장비 경쟁상 우위 실측 감사
+- [VRT_CUSTOMER_PROCUREMENT_MOAT_20261115.md](VRT_CUSTOMER_PROCUREMENT_MOAT_20261115.md)에 기존 VRT 인프라 통합 시너지와 **무엇이 배타적이지 않은지**를 기록. Schneider Motivair 2.5/3.5MW, nVent AMD Helios, NVIDIA DSX Ready 비독점, SmartRun 최대치 공식 프로모션의 제한적 적용 범위와 글로벌 서비스망, Uptime 비용 근거 별도 저장. 고객이 더 높은 가격을 지불할 필수 이유는 동일 열부하 조건의 **전체 TCO·설치기간·장애/MTTR·성능과 계약**으로 추가 검증 필요. 같은 회사의 전망/제품홍보를 독립 실측성능으로 승격시키지 말 것. 원래 AI_COOLING/Stock/PAHC-JBTM 분리 정책 및 NO_BUY_APPROVAL 유지.
