@@ -113,4 +113,8 @@
 
 ## 2026-11-15 MRVL 가정: AI 미래와 우주옵션의 실질 가치, LITE 1+1>3 가능성
 - [MRVL_AI_ORBIT_NVDA_LITE_SYNERGY_SENSITIVITY_20261115.md](MRVL_AI_ORBIT_NVDA_LITE_SYNERGY_SENSITIVITY_20261115.md) 마벨 NVLink Fusion/NVIDIA 직접 $2B 전환우선주 및 LITE/COHR 병행 투자와 비독점 구조, 우주 Suncatcher 10Tbps 설계 vs 800Gbps 지상 실험, NASA 광단말 대 RF SWaP·RKLB Mynaric 우주용 단말 차별, 2028H1 예정 LITE 통합 시너지 $1B+와 기존 MRVL 67% 지분몫 제한, 2031 고성장 필요 FCF 밸류에이션 감도분석 완료. **'AI가 미래'라는 믿음만으로 현재 MRVL 저평가 확정 금지**. 보유 종목 변경·매수/매도 자동권고 없음.
-- 후속 오프라인 연구: (1) MRVL+LITE 합병 시/미성사 시 **실제 완전희석 현금흐름/주**—NVIDIA ~21.78M 전환우선주, Google ~58.97M 조건부 warrants, employee SBC 모두 포함—(2) NVIDIA direct procurement vs ODM/custom XPU 공급계약 구분과 고객 비독점 멀티소스 (3) 2027 1.6T·NPO/CPO 실제 attach·공급자 점유·ASP (4) LITE $1B cost synergies 달성비율 & module 고객이탈, capex/통합비용, 2028 close 승인 (5) orbital 매출 확정 전 0 baseline. 
+- 후속 오프라인 연구: (1) MRVL+LITE 합병 시/미성사 시 **실제 완전희석 현금흐름/주**—NVIDIA ~21.78M 전환우선주, Google ~58.97M 조건부 warrants, employee SBC 모두 포함—(2) NVIDIA direct procurement vs ODM/custom XPU 공급계약 구분과 고객 비독점 멀티소스 (3) 2027 1.6T·NPO/CPO 실제 attach·공급자 점유·ASP (4) LITE $1B cost synergies 달성비율 & module 고객이탈, capex/통합비용, 2028 close 승인 (5) orbital 매출 확정 전 0 baseline.
+
+## 2026-11-15 KAI vs 한화에어로스페이스 한국 방산·우주 비교
+- [KAI_VS_HANWHA_AEROSPACE_DEFENSE_SPACE_UNDERWRITING_20261115.md](KAI_VS_HANWHA_AEROSPACE_DEFENSE_SPACE_UNDERWRITING_20261115.md)로 2026Q3·1~9월 실적, 한화 지상방산 vs KAI **전체 수주잔고 범위**, 한화오션/한화시스템 회계 포함, KF21 2026-09 본납품, 누리호 5차 성공 및 2026-11 순천 생산시설, 한화그룹 KAI 15.89% 소유(직접 한화에어로9.90%), 2027 EPS 동일 증권사 estimate 복리/지배주주 별도 감사를 정리했다. 우선 리서치 **한화(기존 실적/우주 launch), KAI(KF21/FA50 수출 추가옵션)**. NO_BUY_APPROVAL.
+- 차기 기존 연구 업무: 2026 FY 실제 4Q K9·천무 폴란드 납품/지역별 마진 및 본사 RSP 손실·Philly/Ocean capex, 한화 지배주주귀속 정상화 FCF(비지배 소유지분/지분중복) vs KAI 2027 KF21/LAH 인도·FA50 해외 주문·고객선수금/수출채권 이라크 회수. 한국 방산 국가 수출허가/환율/주가 과거고점 저평가 오인 방지. 우주 데이터센터 직접 매출0 유지. 신규 거래 승인 없음.
