@@ -72,3 +72,6 @@
 
 ## 2026-11-15 VRT vs NVT 지상 DC 직접매출과 우주방열 옵션
 - [VRT_VS_NVT_ORBITAL_OPTIONALITY_20261115.md](VRT_VS_NVT_ORBITAL_OPTIONALITY_20261115.md): VRT FY2025 데이터센터 85%, NVT 약 10억 달러/전사 약 39억 달러(~25%); VRT 냉각/전력 시스템 통합·Dell'Oro 인용 열관리 #1 vs NVT AMD Helios 부품/랙과 전력 부품; 2026 Q3 유기 55%/44%, **FY26 organic 가이던스는 37–39%/38–39%로 유사**, GAAP 영업이익률 22.8/18.6%, 2026 조정 EPS 예상 PER 28.3/21.3배. 궤도 AI 데이터센터 방열 수주 양사 모두 확인 불가, 우주 기술 이식은 별도 검증.
+
+## 2026-11-15 ARK 포트폴리오 모방투자 타당성 및 AI 냉각 리서치 활용
+- [ARK_PORTFOLIO_COPYCAT_AS_RESEARCH_SIGNAL_20261115.md](ARK_PORTFOLIO_COPYCAT_AS_RESEARCH_SIGNAL_20261115.md) — 공식 ARKK/ARKQ/ARKX 성과·2026년 편입 종목, ARKK 2020 +153%/2022 -67%·2026-10 최근 5년 연 -7.62% vs S&P +12.06%·10년 +15.90% vs S&P +15.44%, Morningstar 2025말 종료 10년 투자자 손실 추정 ~50억 달러, 실시간 ARK 일일 매매공시 한계와 ARK를 **아이디어 발굴원**으로만 활용해야 하는 이유. VRT/NVT 매수/매도 권한 발생하지 않음.
