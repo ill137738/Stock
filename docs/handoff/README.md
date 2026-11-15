@@ -69,3 +69,6 @@
 
 ## 2026-11-15 AI 냉각 R1: 국방 공급망/실제 데이터센터 비중/ARK 우주 경제성 정밀 비교
 - [AI_COOLING_TRUSTED_SUPPLY_CHAIN_ARK_ORBIT_DEEPDIVE_20261115.md](AI_COOLING_TRUSTED_SUPPLY_CHAIN_ARK_ORBIT_DEEPDIVE_20261115.md) — VRT→NVT→MOD→RDW 우선순위 심층: 미국 규제 적용범위와 중국 Envicool 반례, VRT FY2025 데이터센터 85% vs Thermal 제품 30%, NVT FY2025 DC ~$1B/전사 $3.9B, MOD 분할 이후 데이터센터 부문 약 60.6% 임시계산과 DC 영업마진, AMD Q3 DC 63.9% +97%, ARK의 $100/kg·우주 compute 25% 저렴 조건부 가설 vs BCG 1.5× 지상 원가 추정, 우주 방열 규모·신뢰성·위험. 미래 MOD 11/18 Investor Day 사전기록.
+
+## 2026-11-15 VRT vs NVT 지상 DC 직접매출과 우주방열 옵션
+- [VRT_VS_NVT_ORBITAL_OPTIONALITY_20261115.md](VRT_VS_NVT_ORBITAL_OPTIONALITY_20261115.md): VRT FY2025 데이터센터 85%, NVT 약 10억 달러/전사 약 39억 달러(~25%); VRT 냉각/전력 시스템 통합·Dell'Oro 인용 열관리 #1 vs NVT AMD Helios 부품/랙과 전력 부품; 2026 Q3 유기 55%/44%, **FY26 organic 가이던스는 37–39%/38–39%로 유사**, GAAP 영업이익률 22.8/18.6%, 2026 조정 EPS 예상 PER 28.3/21.3배. 궤도 AI 데이터센터 방열 수주 양사 모두 확인 불가, 우주 기술 이식은 별도 검증.
