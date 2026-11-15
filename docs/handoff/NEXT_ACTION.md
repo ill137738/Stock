@@ -85,3 +85,6 @@
 - [AI_COOLING_TRUSTED_SUPPLY_CHAIN_ARK_ORBIT_DEEPDIVE_20261115.md](AI_COOLING_TRUSTED_SUPPLY_CHAIN_ARK_ORBIT_DEEPDIVE_20261115.md) 추가. VRT 85% data-center 고객/30% thermal 제품, NVT 2025 DC ~$1B / 전사 $3.9B, MOD 2026-10분할 이후 continuing 세그먼트 DC ~$439.7M / (439.7+285.5) ~60.6% 참고, RDW 우주방열 실증만. AMD 2026Q3 데이터센터 사업 비중63.9%, growth+97%. 미국 중국산 냉각 일괄금지 아님과 OT 보안 가치 분리.
 - 우주 DC ARK parity ~$300/kg→$100/kg 25% 싸다는 주장은 발사비/위성무게/성공률 가정, BCG 현재 2.5–3x / 5–10년 현실 1.5x / 극단 시 1.1x 및 GAO 기술 미검증과 대조 완료. 우주 옵션을 지상 냉각매출에 더하지 말 것.
 - 가장 확실한 기일 **2026-11-18 10:00 ET MOD Analyst and Investor Day**: 분할 후 장기 매출·마진·FCF 목표, $4B capacity LTA 실주문 계약조건, 삼성 인수설 확인/무산 여부 원문 기록 필요. VRT 2025 투자자 PDF portfolio remainder 이미지 판독 및 2026 재검증, VRT/NVT 제품별 cooling 매출 실제 분해와 중국 경쟁/시스템 보안, EV·FCF 동일 분모 가치평가 계속. 기존 JBTM/PAHC 연구 작업 원장 보존.
+
+## 2026-11-15 VRT vs NVT 심층 감사 완료
+- [VRT_VS_NVT_ORBITAL_OPTIONALITY_20261115.md](VRT_VS_NVT_ORBITAL_OPTIONALITY_20261115.md)에서 VRT 85% 데이터센터 FY25와 NVT 약 25%, VRT thermal broader #1 표기, NVIDIA vs AMD rack partnerships, FY26 조정 EPS P/E 28.3 vs 21.3, Q3 성장 대비 FY 성장 가이던스 거의 동일하다는 점과 궤도 데이터센터 수주 부재를 출처 검증. 후속 게이트: 각각 **냉각사업만의 매출/마진**, 실제 2027년 납품 계약과 주문 질, 독립적인 시장점유율, 2027~29 정규화 EV/EBIT/현금흐름, VRT 우주용 thermal qualification contract 존재 여부. 기존 owner 범위 변경·거래 실행 없음.
