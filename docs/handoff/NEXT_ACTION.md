@@ -98,3 +98,7 @@
 
 ## 2026-11-15 VRT 냉각장비 경쟁상 우위 실측 감사
 - [VRT_CUSTOMER_PROCUREMENT_MOAT_20261115.md](VRT_CUSTOMER_PROCUREMENT_MOAT_20261115.md)에 기존 VRT 인프라 통합 시너지와 **무엇이 배타적이지 않은지**를 기록. Schneider Motivair 2.5/3.5MW, nVent AMD Helios, NVIDIA DSX Ready 비독점, SmartRun 최대치 공식 프로모션의 제한적 적용 범위와 글로벌 서비스망, Uptime 비용 근거 별도 저장. 고객이 더 높은 가격을 지불할 필수 이유는 동일 열부하 조건의 **전체 TCO·설치기간·장애/MTTR·성능과 계약**으로 추가 검증 필요. 같은 회사의 전망/제품홍보를 독립 실측성능으로 승격시키지 말 것. 원래 AI_COOLING/Stock/PAHC-JBTM 분리 정책 및 NO_BUY_APPROVAL 유지.
+
+## 2026-11-15 MRVL 광통신이 VRT 냉각보다 낫나 — 새 독립 감사지시
+- [MRVL_VS_VRT_AI_OPTICAL_INTERCONNECT_LUMENTUM_20261115.md](MRVL_VS_VRT_AI_OPTICAL_INTERCONNECT_LUMENTUM_20261115.md)에 **Gartner MRVL 광연결 선도**, FY27Q2 DC 79%, 2026-10 FY31 매출 70–90B 단독 경영진 목표, **2026-11-02 LITE $115B(공시 발표기준) 지분교환 계약 67%/33% 미래 주주 소유구조**, Google 조건부 신주인수권 최대 58.97M 주/2033 $120B 매출 연동, FY27Q3 preliminary $3.15B 및 12/01 최종실적 대기, GAAP-vs-adjusted 큰 괴리와 11/13 시총+PSR 비교를 독립 검토했다. **MRVL은 새로운 AI 반도체 투자 후보이지 VRT 매수 상위안 자동 대체 아님**. 별개 테마 PM 유지, NO_BUY_APPROVAL.
+- 후속 승인불필요 **분석만**: LITE 합병 완료/실패 2가지 각각 **pro forma FY28–31 완전희석 EPS/GAAP EBIT/owner FCF**, 대형 고객 구글 조건부 $120B 성과 연동, Celestial AI 실제 매출, 광 DSP vs CPO 고유 매출 및 광학/맞춤 ASIC별 마진, 경쟁 Broadcom/NVIDIA, VRT 동일 AI CAPEX 성장률에서 가격대비 기대수익. 12/01 MRVL FY27Q3 실제 실적 공개 후 원장 갱신(자동 모니터링 설정/매매는 별도 권한).
