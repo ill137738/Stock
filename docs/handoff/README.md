@@ -96,3 +96,6 @@
 
 ## 2026-11-15 신규 방산/우주 기업 비교 — KAI vs 한화에어로스페이스
 - [KAI_VS_HANWHA_AEROSPACE_DEFENSE_SPACE_UNDERWRITING_20261115.md](KAI_VS_HANWHA_AEROSPACE_DEFENSE_SPACE_UNDERWRITING_20261115.md): 한국항공우주(047810) KF-21/FA-50/헬기 양산·수출 vs 한화에어로스페이스(012450) K9·천무 세계 수주, 누리호 발사체·한화오션·한화시스템 연결, **2026Q3/1~9월 매출·이익률·수주잔고와 2027년 지배주주 EPS 예상 배수**. 2026-08 한화그룹 KAI 지분 **15.89%(한화에어로 9.90% 직접)**, 공정위 승인이나 지배력 확보/민영화 확정 아님. 누리호 2026-10-07 5차 성공(한화 주관/KAI 위탁 총조립), 우주 2026H1 매출 비중 약 0.83%로 AI 궤도 데이터센터 직접수혜 확정 불가. NO_BUY_APPROVAL.
+
+## 2026-11-16 KAI 인수 기대와 우주·항공 수익모델 추가 감사
+- [KAI_HANWHA_TAKEOVER_PREMIUM_KLEO_BUSINESS_MODELS_20261116.md](KAI_HANWHA_TAKEOVER_PREMIUM_KLEO_BUSINESS_MODELS_20261116.md) — 한화그룹 KAI 경영참여 지분 15.89%(한화에어로 직접 9.90%), 공정위 2026-08 승인 vs 수출입은행 2026-10-20 **현재 지분 매각계획 없음**·KAI CEO 독과점 우려, 정부 블록딜 vs 일반주주 공개매수 인수프리미엄 분리. KAI 2025 항공기/헬기/민항기/우주제조 수익 분류, 위성 2–5호 제작과 제노코 편입, 2026-09 ASL K-LEO 통신위성 **MOU(실계약 아님)**. Hanwha Systems 2023 OneWeb 군통신 사업 별개, 2026-10 SAR 군집사업 Hanwha Systems 3,349.7억원 **우선협상대상자(본계약 미체결)** vs KAI 입찰 4,603억원(부가세 포함). 우주 데이터센터·Starlink 가입료 자동 수혜 금지. NO_BUY_APPROVAL.
