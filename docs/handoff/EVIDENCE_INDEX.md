@@ -324,3 +324,18 @@ Detailed [AI cooling independent screen](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREE
 | E188 | KAI_PRODUCT_REALITY | KAI KF21 2026-09-22 first operational flight/delivery, FAA 2027 operational planning, FA50 Malaysia/Poland/Philippines growth, LAH parts delayed and Iraq allowances = earnings risk | https://en.yna.co.kr/view/AEN20260922002200315 ; https://www.yna.co.kr/view/AKR20261103148500003 |
 | E189 | BROKER_FORECAST_UNAUDITED | 삼성증권 2026-10-30 한화 지배 EPS2027E 47,169원, 2026-11-04 KAI 지배 EPS2027E 4,579원, 2026-11-13 종가 적용 13.6x vs22.8x. PDF 텍스트 추출 사용, screenshot tool cache miss, estimate **not achieved fact** | https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=2010%2F2026102916053709K_02_08.pdf&inlineYn=Y&saveKey=research.pdf ; https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=2010%2F2026110310273364K_02_06.pdf&inlineYn=Y&saveKey=research.pdf |
 | E190 | PM_COMPARISON | 한화는 existing export prime + space launch integrator, but 2026Q3 export mix / subsidiary earnings / net share value / finance risks; KAI fighter export production inflection with margin and forecast capex/FCF risks. Neither direct orbital DC AI beneficiary | [full assessment](KAI_VS_HANWHA_AEROSPACE_DEFENSE_SPACE_UNDERWRITING_20261115.md) |
+
+## E191–E201 — KAI/Hanwha 지분 인수와 우주사업 현금화 (2026-11-16)
+| ID | 등급 | 근거 | 원문 |
+|---|---|---|---|
+| E191 | HANWHA_INTENT | 2026-05 한화 KAI 목적 경영참여로 변경, 정부 KAI 민영화 시 인수/통합 검토. 인수 확정이 아님 | https://www.yna.co.kr/view/AKR20260504126151008 ; https://www.yna.co.kr/view/AKR20260616142051008 |
+| E192 | FTC_HOLDING | 2026-08-31 한화그룹 KAI 15.89%(Hanwha Aero9.90/Systems4.98/Aero USA1.01), 수은26.41%, 국민연금8.75%, FTC 해당 지분취득 승인했지만 현 KAI 지배권 미취득, 추가 취득/임원겸임 재심사 | https://www.yna.co.kr/view/AKR20260831112100002 |
+| E193 | GOVERNMENT_NEGATIVE | **2026-10-20 수출입은행장 현재 KAI 지분 매각 계획 없고 인수 협의도 없음**, KAI 대표 한화 통제 독과점/산업생태계 우려, 미래는 유보 | https://www.yna.co.kr/amp/view/AKR20261020088152002 |
+| E194 | MARKET_EVENT | 2026-03-16 한화 지분 매입 공개 후 KAI +4.65% 종가/+9.14% 장중, 이미 일부 기대 반영 가능, 반복 수익률 예측 아님 | https://www.yna.co.kr/view/AKR20260316036051008 |
+| E195 | KAI_PRIMARY_IR | FY2025 연결 매출 ₩3.696379T vs **별도** 사업분류 ₩3.625239T: T50/KF21 38.28%, KUH/LAH17.58%, 군수 기타16.88%, 기체부품/민수·수출기타27.26%; 기타는 우주만의 매출 아님 | https://m.koreaaero.com/KO/Ir/FinancialReport.aspx |
+| E196 | KAI_Q3_2026 | KAI 2026Q3 연결 매출₩1.0643T +51.6%/영업익₩79.4B+31.9%/OPM7.5%, KF21 9월 인도·FA50 수출 / 2026 매출목표₩5T(미실현) | https://www.etnews.com/20261103000396 |
+| E197 | KARI_KAI_SATELLITES | KAI 차세대중형위성 #2–5 제작주관, #2 2026-05-03 발사 성공, 관측·수자원·농림·우주기술, KAI는 위성 OEM/제조계약 기반임 | https://www.kari.re.kr/kor/contents/44 ; https://www.ngii.go.kr/nlsc/nsintro/intro1 |
+| E198 | KAI_ASL_MOU_ONLY | KAI 2026-09-15 벨기에 AerospaceLab K-LEO 통신위성 공동개발/양산/JV 가능 MOU; 2035 국가사업 참여 목표, 계약 매출/직접통신 가입료 아님 | https://www.yna.co.kr/view/AKR20260915159900003 |
+| E199 | KAI_SUBSIDIARY | KAI 2025Q3 제노코 연결 편입, 위성통신 X-band 송신기·S-band transponder 등, 2025 연결일 이후 사업 보고 매출 351.13억원(연간 전체 아님) | https://kind.krx.co.kr/external/2026/03/18/002088/20260318009747/11011.htm |
+| E200 | HANWHA_ONEWEB_CONTRACT | 한화시스템 공식 2026Q1 보고서 2023 398억원 OneWeb 기반 군 저궤도 통신 개발 협약, ESA 전자안테나/OBP/ISL R&D, 통신 사업자 등록·국경간 승인; 사업협약 vs 전세계 Starlink 가입자 운영 구분 | https://kind.krx.co.kr/external/2026/05/13/000812/20260513001815/11011.htm |
+| E201 | HANWHA_KAI_DIRECT_SAT_COMPETITION | 2026-10 SAR 군집 입찰 한화시스템 ₩3684.7억원 incl VAT vs KAI ₩4603억원 incl VAT, 한화 공식 2026-10-30 **우선협상 ₩3349.7억원 ex VAT**, 본계약은 미공시; 직접 경쟁·가격압박·인수 독과점우려 | https://samara.kr/disclosure/20261030801362 ; https://www.bidnara.com/bids/v/award/7803838 ; [report](KAI_HANWHA_TAKEOVER_PREMIUM_KLEO_BUSINESS_MODELS_20261116.md) |
