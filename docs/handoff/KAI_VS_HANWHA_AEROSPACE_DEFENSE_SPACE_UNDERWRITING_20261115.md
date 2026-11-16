@@ -52,3 +52,31 @@ No buy/sell implied. If user invests to capture AI datacenter *as opposed to geo
 12. [Hanwha 2026H1 DART full segment and space 0.83% revenue](https://samara.kr/disclosure/20260814003198)
 13. [Hanwha 2026-11-13 quote 641,000/KRX 33.05T mcap](https://todaystk.kr/stock/012450/price)
 14. [KAI 2026-11-13 104,200/KRX 10.16T mcap](https://todaystk.kr/stock/047810/price)
+
+## 2026-11-16 major PM correction: Hanwha 1.7% in 2026Q3 is NOT K9 normal or annual margin; KAI KF-21 unit economics not public
+Owner correctly challenged conflation. **Official 2025 FY Hanwha Land Systems** sales ₩8.1331T, op profit ₩2.0129T => **24.75%** (Hanwha 2026-02-09 press release). 2026 Land Systems actual quarters:
+| Period | sales, ₩100M | EBIT ₩100M | OPM |
+|---|---:|---:|---:|
+| 2025 FY | 81,331 | 20,129 | 24.7% |
+| 2025Q3 | 21,098 | 5,725 | 27.1% |
+| 2026Q1 | 12,211 | 2,087 | 17.1% |
+| 2026Q2 | 21,075 | 5,330 | 25.3% |
+| 2026Q3 | 12,455 | 217 | **1.7%** |
+| 2026 first 9mo | 45,741 | 7,634 | **16.69%** (own sum not company separately reported) |
+Quarterly 2026Q3 is an **outlier vs historical**, but 2026 9mo margin below 2025 24.7%, so do NOT claim full recovery without Q4 actual. **Hanwha 3Q earning call confirms**: domestic sales 52% ₩651.9B with near-BEP/negative margin; export 48% ₩593.6B including lower margin Australia/Egypt and small Poland; higher-margin Poland K9/Chunmoo concentrated in Q4 after some Q2 advanced deliveries; **one-offs ₩30B Daejeon accident + ₩16B other provision = ₩46B** (sometimes rounded ₩50B) and FX negative. Adding only ₩46B => (₩21.7B + ₩46B)/₩1.2455T = **~5.44%** (NOT a true steady-state 20–25%). Third-party sector analyst notes that even correcting for one-offs leaves unexpectedly weak margin vs similar-revenue Q1; contract-level margins undisclosed; the reason is not independently proven to be all temporary. Hanwha hopes 2026Q4 Poland shipments bring recoveries; no 2026Q4 actual as of Nov16. Product K9-specific gross/operating margin **NOT DISCLOSED**; Land Systems includes Chunmoo, domestic, other defense.
+K9 global self-propelled howitzer export share **around 48% in 2000–2017 (SIPRI historical quoted Yonhap 2026-08)**; securities analyst quotes South Korea 50.2% for **2020–24** (different scope). Historical global export market lead ≠ 2026 verified installed universe 50% and not monopoly or contractual ability to price any country >20%.
+**KAI and KF-21 separation:** KAI **2025 consolidated** revenue ₩3.6964T op₩269.2B = **7.28%**; **2026Q1 ~6.1%, Q2 4.1%, Q3 7.5%** (₩1.0643T rev/₩79.4B EBIT), **2026 first 9mo rev₩3.3249T/EBIT₩195.0B =5.86%**. **Individual KF-21 operating margin has not been publicly identified**; cannot assert 7.5% is KF-21 contract-specific. 2026Q3 overall includes approx ₩30B Iraq and other allowances, and FX changes to expected foreign component costs; without one-offs ~10.3% quarter simplistic arithmetic, not proof sustained/KF-21 profit. 2026Q1 company analyst notes FA-50 Poland production **high development/test, low margin mix**, and U.S. imported parts exposure. KF-21 2024 June KAI DAPA first batch (~₩1.961T) *includes 408.1B won of KAI development-stage business investment*, and 2024 Dec separate PBL ₩124.3B performance-based contract—cost allocation and support economics matter; no public unit margin. 2026 Sep22 initial domestic KF-21 delivery, still actual global mass KF-21 export unproven: 2026 Nov11 Indonesia meeting yielded **no signed purchase contract**, possible rollover to 2027+ (Yonhap). Competitive platform based on domestically developed aircraft, sensors, supply/price vs Western jets but **GE F414 engine US-origin license and export permissions**, Block I/Block II and air-to-ground capabilities phased, sustainment and production scale challenges. Distinguish tactical capability from contracted margins.
+**Comparative conclusions**: Hanwha Land Systems historically much higher EBIT margin than KAI whole group and >20% from export-rich mix, but Hanwha Aero Holdings combines loss-making aerospace engine RSP and minority-held Ocean/Systems and financing; shareholder cashflow != Land op margin. 2026Q3 Land 1.7% was bad and should not be minimized despite one-offs. KAI KF-21 may be competitive despite company OPM5–8%; still need 2027 normalized KAI standalone product line gross margins, DAPA 40/60/80 annual deliveries hypothetical forecast, after-sales cash, export contract, inventory/costs. Hanwha FY2026 Q4 is **key falsification test** for temporary-mix thesis: actual Poland shipments / Land OPM to historical vs another weak print. Historical product lead does NOT imply each contract yields same % profit. No buy order/approval.
+
+### Primary evidence
+Hanwha 2025FY release https://www.hanwhaaerospace.com/kor/media/newsroom/view.do?seq=600
+Hanwha FY26 Q2 release https://www.hanwha.co.kr/newsroom/media_center/news/news_view.do?seq=16046
+Hanwha FY26 Q3 release https://m.hanwhaaerospace.com/kor/media/newsroom/view.do?seq=664
+Hanwha Q3 Earnings Call direct PDF text (screenshot via web cache MISS, Korean full transcript HTML cross-check): https://www.hanwhaaerospace.com/files/down.do?id=ca76cc30-f8dd-4929-a3a7-fc4ff1554181 ; https://www.thelec.kr/news/articleView.html?idxno=64575
+KAI official historical financials https://m.koreaaero.com/KO/Ir/FinancialReport.aspx
+KAI 2026Q3 KB Securities analysis https://kbthink.com/securities-view.html?docId=20261103144013187K
+KAI Sep 2026 deliveries and Q3 https://www.yna.co.kr/amp/view/AKR20261103148500003
+KAI KF21 first production and PBL contract disclosure https://kind.krx.co.kr/external/2026/01/21/000648/20260121001780/10002.htm
+Indonesia Nov11 2026 no KF21 export contract https://www.yna.co.kr/view/AKR20261111089700504
+SIPRI historical 48% K9 quoted news https://www.yna.co.kr/view/AKR20260831074351003
+Independent analyst skepticism https://www.investchosun.com/site/data/html_dir/2026/10/30/2026103080085.html
