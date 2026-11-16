@@ -99,3 +99,6 @@
 
 ## 2026-11-16 KAI 인수 기대와 우주·항공 수익모델 추가 감사
 - [KAI_HANWHA_TAKEOVER_PREMIUM_KLEO_BUSINESS_MODELS_20261116.md](KAI_HANWHA_TAKEOVER_PREMIUM_KLEO_BUSINESS_MODELS_20261116.md) — 한화그룹 KAI 경영참여 지분 15.89%(한화에어로 직접 9.90%), 공정위 2026-08 승인 vs 수출입은행 2026-10-20 **현재 지분 매각계획 없음**·KAI CEO 독과점 우려, 정부 블록딜 vs 일반주주 공개매수 인수프리미엄 분리. KAI 2025 항공기/헬기/민항기/우주제조 수익 분류, 위성 2–5호 제작과 제노코 편입, 2026-09 ASL K-LEO 통신위성 **MOU(실계약 아님)**. Hanwha Systems 2023 OneWeb 군통신 사업 별개, 2026-10 SAR 군집사업 Hanwha Systems 3,349.7억원 **우선협상대상자(본계약 미체결)** vs KAI 입찰 4,603억원(부가세 포함). 우주 데이터센터·Starlink 가입료 자동 수혜 금지. NO_BUY_APPROVAL.
+
+## 2026-11-16 NATO/EU 재무장 글로벌 방산 성장주 Top5
+- [EUROPE_REARMAMENT_GLOBAL_DEFENSE_TOP5_20261116.md](EUROPE_REARMAMENT_GLOBAL_DEFENSE_TOP5_20261116.md): NATO 2035 GDP5% 목표(핵심3.5/안보1.5), EU SAFE €150B 대출(확정 무기주문 아님), SAFE 비EU 원산지 부품 35% 제한과 한화의 현지화 필요성 검증. **유럽 재무장 직접 수혜 Top5 RHM>한화에어로>KOG>Saab>Leonardo**(사업 직접성/성장성, 주가 기대수익률 예측순 아님). 2026년 11월 13일 종가·최근 Q3 실적·수주잔고 성격, Rheinmetall 운영FCF -€1.698B, 한화 지상방산 Q3 OPM1.7%, Kongsberg Maritime 2026-04 분리, Saab 예상PER~35배, Leonardo IDV 편입 등 가치/현금흐름 리스크, BAE Systems 안정형 대안을 포함. NO_BUY_APPROVAL.
