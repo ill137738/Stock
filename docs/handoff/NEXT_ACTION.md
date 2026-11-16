@@ -118,3 +118,7 @@
 ## 2026-11-15 KAI vs 한화에어로스페이스 한국 방산·우주 비교
 - [KAI_VS_HANWHA_AEROSPACE_DEFENSE_SPACE_UNDERWRITING_20261115.md](KAI_VS_HANWHA_AEROSPACE_DEFENSE_SPACE_UNDERWRITING_20261115.md)로 2026Q3·1~9월 실적, 한화 지상방산 vs KAI **전체 수주잔고 범위**, 한화오션/한화시스템 회계 포함, KF21 2026-09 본납품, 누리호 5차 성공 및 2026-11 순천 생산시설, 한화그룹 KAI 15.89% 소유(직접 한화에어로9.90%), 2027 EPS 동일 증권사 estimate 복리/지배주주 별도 감사를 정리했다. 우선 리서치 **한화(기존 실적/우주 launch), KAI(KF21/FA50 수출 추가옵션)**. NO_BUY_APPROVAL.
 - 차기 기존 연구 업무: 2026 FY 실제 4Q K9·천무 폴란드 납품/지역별 마진 및 본사 RSP 손실·Philly/Ocean capex, 한화 지배주주귀속 정상화 FCF(비지배 소유지분/지분중복) vs KAI 2027 KF21/LAH 인도·FA50 해외 주문·고객선수금/수출채권 이라크 회수. 한국 방산 국가 수출허가/환율/주가 과거고점 저평가 오인 방지. 우주 데이터센터 직접 매출0 유지. 신규 거래 승인 없음.
+
+## 2026-11-16 KAI 인수 가능성 / 우주·항공 사업모델 분리 리서치
+- [KAI_HANWHA_TAKEOVER_PREMIUM_KLEO_BUSINESS_MODELS_20261116.md](KAI_HANWHA_TAKEOVER_PREMIUM_KLEO_BUSINESS_MODELS_20261116.md) 저장: 정부 2026-10-20 수출입은행 지분 매각 현재 **NO_PLAN**, 공정위 KAI 실질 지배 미확보, 한화 지분 총15.89%의 M&A 우주 시너지 옵션과 지분 이중계산 위험, KAI 2025 사업군별 매출·2026Q3 항공기 양산 핵심 실적, KAI 차세대중형위성 #2–5·2025 자회사 제노코, 2026-09 K-LEO AerospaceLab **MOU only** 및 한화시스템 기존 OneWeb 군 통신 개발계약 vs 스타링크 직접 가입자사업 구분. **2026-10-30 군 SAR 위성 입찰 한화시스템 우선협상(계약미체결)**, KAI와 실경쟁·정부 반독점 우려. NO_BUY_APPROVAL 유지.
+- 후속: (1) 한화그룹 KAI 최신 5%공시·FTC 지배 및 Eximbank 공식 매각 절차/매각 조건만 확인, 정책 확률 임의 산출 금지 (2) KAI KF21/FA50 2027~28 실제 납품·마진/지배주주 FCF 및 새 수출 수주 (3) KAI K-LEO MOU가 정식 정부 RFP, 선정·공급계약으로 전환 여부 (4) SAR 한화시스템 최종계약/판매이익률 및 KAI 경쟁수주 (5) 별도 위성 매출/영업이익 검증. 매수/매도 미지시, 다른 투자 프로젝트 독립 유지.
