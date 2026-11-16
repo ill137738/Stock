@@ -122,3 +122,7 @@
 ## 2026-11-16 KAI 인수 가능성 / 우주·항공 사업모델 분리 리서치
 - [KAI_HANWHA_TAKEOVER_PREMIUM_KLEO_BUSINESS_MODELS_20261116.md](KAI_HANWHA_TAKEOVER_PREMIUM_KLEO_BUSINESS_MODELS_20261116.md) 저장: 정부 2026-10-20 수출입은행 지분 매각 현재 **NO_PLAN**, 공정위 KAI 실질 지배 미확보, 한화 지분 총15.89%의 M&A 우주 시너지 옵션과 지분 이중계산 위험, KAI 2025 사업군별 매출·2026Q3 항공기 양산 핵심 실적, KAI 차세대중형위성 #2–5·2025 자회사 제노코, 2026-09 K-LEO AerospaceLab **MOU only** 및 한화시스템 기존 OneWeb 군 통신 개발계약 vs 스타링크 직접 가입자사업 구분. **2026-10-30 군 SAR 위성 입찰 한화시스템 우선협상(계약미체결)**, KAI와 실경쟁·정부 반독점 우려. NO_BUY_APPROVAL 유지.
 - 후속: (1) 한화그룹 KAI 최신 5%공시·FTC 지배 및 Eximbank 공식 매각 절차/매각 조건만 확인, 정책 확률 임의 산출 금지 (2) KAI KF21/FA50 2027~28 실제 납품·마진/지배주주 FCF 및 새 수출 수주 (3) KAI K-LEO MOU가 정식 정부 RFP, 선정·공급계약으로 전환 여부 (4) SAR 한화시스템 최종계약/판매이익률 및 KAI 경쟁수주 (5) 별도 위성 매출/영업이익 검증. 매수/매도 미지시, 다른 투자 프로젝트 독립 유지.
+
+## 2026-11-16 EU rearmament Top5 — 성장기업 선별 후속
+- [EUROPE_REARMAMENT_GLOBAL_DEFENSE_TOP5_20261116.md](EUROPE_REARMAMENT_GLOBAL_DEFENSE_TOP5_20261116.md)에 NATO 기본 목표/실제 방산 예산/SAFE 공동조달과 비EU 산지 제한을 구별하고, RHM·Hanwha·Kongsberg·Saab·Leonardo 순서의 **유럽 재무장 기업수혜**와 현 주가 고려 **한화·Leonardo 우선 상세 가치평가**, cashflow 안정형 BAE 후순위 비교를 정리함. 순위는 실제 확정 매매판정 또는 미래 수익률 순위가 아님. 다섯 기업 모두 같은 2026-11-13 종가로 통일. 유럽 방산 긴장 상승 ≠ 유럽 전체 정전·무역붕괴 필연. NO_BUY_APPROVAL.
+- 다음 감사 항목: RHM 생산·인증지연 해결과 inventory→FCF 회수, Hanwha 폴란드 Q4 실납품 및 EU 현지 부품 공장/SAFE 자격, KOG Maritime spin 후 분기 재작성 EPS·NSM/NASAMS 수율, Saab Gripen 구매자 financing·고PER 축소, Leonardo IDV 회계반영 분리/MBDA joint profit/순차입금 감소, BAE 고객 선수금 제외 owner FCF; FY2027–2031 동일 국가 인플레이션과 재무할인율/원화환율을 적용한 GAAP 지배주주 FCF/주식 5년 역산. 신규 자동거래/주문 없음.
