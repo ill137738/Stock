@@ -102,3 +102,9 @@
 
 ## 2026-11-16 NATO/EU 재무장 글로벌 방산 성장주 Top5
 - [EUROPE_REARMAMENT_GLOBAL_DEFENSE_TOP5_20261116.md](EUROPE_REARMAMENT_GLOBAL_DEFENSE_TOP5_20261116.md): NATO 2035 GDP5% 목표(핵심3.5/안보1.5), EU SAFE €150B 대출(확정 무기주문 아님), SAFE 비EU 원산지 부품 35% 제한과 한화의 현지화 필요성 검증. **유럽 재무장 직접 수혜 Top5 RHM>한화에어로>KOG>Saab>Leonardo**(사업 직접성/성장성, 주가 기대수익률 예측순 아님). 2026년 11월 13일 종가·최근 Q3 실적·수주잔고 성격, Rheinmetall 운영FCF -€1.698B, 한화 지상방산 Q3 OPM1.7%, Kongsberg Maritime 2026-04 분리, Saab 예상PER~35배, Leonardo IDV 편입 등 가치/현금흐름 리스크, BAE Systems 안정형 대안을 포함. NO_BUY_APPROVAL.
+
+
+## 2026-11-17 새 독립 연구 트랙 — 미용의료 수출과 미국 데이터센터 전력기기
+- [파마리서치 vs 클래시스·리쥬란 글로벌/미국 진출 가설](PHARMARESEARCH_VS_CLASSYS_REJURAN_US_MARKET_THESIS_20261117.md): Owner의 한국 미용 검증→해외 전파 및 PN 병행시술 가설, PM 파마리서치 상대 선호, 73.1% 제한 표본 오인 방지, 특허·FDA·현금흐름·브랜드 재주문 검증 항목. **NO_BUY_APPROVAL**.
+- [한국 전력기기·미국 AI 데이터센터 공급망 1차 스크리닝](KOREA_POWER_EQUIPMENT_US_AI_DATACENTER_SUPPLY_CHAIN_20261117.md): 고압 변압기 vs 데이터센터 중저압·UPS 공급사 분리, 한국/미국/중국 조달 경쟁, 2026-08 EO 14421의 적용 범위, 국내 3사와 ETN/GEV, 현지화 및 후속 비교 과제. **NO_BUY_APPROVAL**.
+- 이들은 기존 JBTM/PAHC **단백질 Core2 연구 결정을 대체하지 않는 별도 테마**. 사용자 요청 순서상 차기 채팅 분석은 전력기기이며 투자 승인은 없음.
