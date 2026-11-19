@@ -51,3 +51,13 @@
 5. Price SpaceX valuation/ability to invest only with current filings and actual trading/listing status; do not assume SpaceX equals 'guaranteed toll'.
 
 **Investment status:** `RESEARCH_ONLY / NO_BUY_APPROVAL`.
+
+## 2026-11-19 1,368줄 업로드 대화에서 보완된 범위
+
+**추가 원문:** [한화 자체 발사체 논의 224–461행](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt#L224-L461), [Starship 재사용·우주 AI 논의 1–224행](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt#L1-L224).
+- **주주가치 구분**: 시제 제작·첫 궤도 발사·상업 발사·반복 손익분기·재사용 원가 우위를 순차 게이트로 분리. 국내 군사/초저궤도 위성 **주권 발사 수요**가 한화에 더 현실적인 첫 시장이라는 종전 PM 평가 기록. 국방사업 K9/천무/탄약 수출 대비 2027–29 출시 효과는 옵션성.
+- **원문 2026 1~9월 비교:** 한화 연결매출 ~21.1조원 vs 별도 설명상 우주사업 매출 약 1,549억원. **서로 다른 연결범위/분모 가능성**으로 `PREVIOUS_CHAT` 및 `ACCOUNTING_SCOPE_HOLD`; 35조원 지상방산 수주잔고와 우주 매출 중복 주의.
+- **가상 단위경제성:** 발사 1회 100억원 가정 시 5/10/30회 연매출 500/1,000/3,000억원. 매출 확정 전망 아님. 한화시스템 내부 발사 용역은 연결제거 관계 확인. 2026–2040 23조원 투입이 실제 집행되면 추가 요구 FCF/ROIC가 커짐.
+- **SpaceX 비교 보완:** Falcon9 1단 재사용·Starship 상단부 2026-11-14 회수라는 과거 AI 주장 등 재사용 단계는 [별도 복원 문서](SPACEX_STARSHIP_REUSE_SUNCATCHER_ORBITAL_AI_FULL_DIALOGUE_20261119.md)의 `UNVERIFIED` 게이트 적용. 한화 독자 초기 HLV는 소모식, 별도 정부 주도 재사용 시연체는 HLV 상용 원가에 합산하지 않음.
+- **우주 데이터센터 투자 옵션:** Google TPU 궤도 실증·BCG 400m² 및 TCO 2.5–3x/1.5x 수치가 원문에 있었으나 이번 회차 **원자료 검증 미실시**. 안전하게 `PREVIOUS_CHAT` 기록. 기술적 가능성과 장기 **주가에 선반영된 기대**를 별도로 추정.
+- 이 문서의 이전 공식 근거와 새 업로드 원문의 미검증 구체 사건을 혼합해 `VERIFIED_PRIMARY`로 포장하지 않는다. `NO_BUY_APPROVAL`.
