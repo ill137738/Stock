@@ -133,3 +133,12 @@
 - [탈세계화/고금리/생산성 혁신 연구](FRAGMENTATION_INFLATION_PRODUCTIVITY_SECTOR_THESIS_20261119.md): 산업 자동화·전력기기·방산·반도체·에너지·사이버보안 교차 섹터, 원가절감의 고객 ROI와 공급사 value capture, 고금리 투자 회수기간, 시나리오별 기업 5~10개 동일한 owner FCF/ROIC/밸류에이션, 과거 IMF/IFR/IEA 수치 재조회. **산업 순위와 현재 매수가격 순위 구별**.
 - **Owner 2026-11-19 진행 의무:** Stock 투자 답변마다 문서 커밋 및 read-back 보고. [PM_SESSION_PROTOCOL](PM_SESSION_PROTOCOL.md) 참고. 커밋 실패·미반영 상태를 완료로 위장 금지.
 - 기존 `STOCK-R1-JBTM-ECONOMICS-MOAT-VALUATION-20261115`는 **단일 최우선 활성 업무로 그대로 보존**. Owner의 별도 명령 없는 범위/매수 승인 자동 변경 없음.
+
+## 2026-11-19 전체 대화 복구 후 추가 병렬 검증 큐 (단일 최우선 JBTM ID 불변)
+
+- [Starship/우주 TPU·Suncatcher](SPACEX_STARSHIP_REUSE_SUNCATCHER_ORBITAL_AI_FULL_DIALOGUE_20261119.md): 2026-11-14 상단 Ship42 타워 회수 **원문 주장** 공식 SpaceX·FAA 검증, 실제 두 단의 동일 임무 회수/재비행 여부, Google Suncatcher 2026-10 발사·추론 검증, BCG 400m²·2.5–3x/1.5x TCO의 PDF 원문 검증. 100t/100GW/100만t 경영진 목표 현실성 분리.
+- [삼성SDI ESS](SAMSUNG_SDI_ESS_AI_DC_US_SUPPLY_CHAIN_20261119.md): 2026Q3 매출·OPM, 미국 ESS 60GWh 누적수주 정의, 인디애나 LFP/UPS·BBU 데이터센터 직접 비중, CAPEX·현금흐름·고객 수주 증빙, 전고체 샘플과 양산 구별.
+- [Tesla/중국 로보택시](TESLA_CYBERCAB_WAYMO_CHINA_ROBOTAXI_ECONOMICS_20261119.md): Cybercab 2026 생산/유료운행·독일 공장·NHTSA 등 이전 답변의 **구체 날짜 재검증**, 중국 LiDAR/차량제조 원가 vs AV 전체 운영비, Pony/Baidu/WAYMO 비교, 2027년 차량당 cash contribution 및 실제 규제·안전성/주가 배수.
+- [LS 미국 공장](LS_ELECTRIC_US_MANUFACTURING_PROFITABILITY_20261119.md): Utah/Texas 미국 현지제조 원가·제품별 OEM/수입 분업, 2030 CAPA, 실제 북미사업 영업익/ROIC, DC 수주의 순매출 인식과 마진·재투자 요구.
+- [한국 전력기기 3사](KOREA_POWER_EQUIPMENT_TOP3_VALUATION_EO_CHINA_US_20261119.md): HD/LS/효성+ETN/GEV 동기 2027–28 EPS·SBC/주식수·FCF·ROIC·2028~30 CAPA; 2026-11-17 과거 PER 분모/가격 재조회, 중국 저압 변압기 비중·EO 14421 적용 검증, 순위 변경 사유/반증 이력 보존.
+- **매 투자 답변 종료 게이트:** 답변에서 다룬 주제·종목·신규 숫자·반론의 목록이 문서에 모두 있는지 대조 → 변경 파일 커밋 → read-back → 사용자 보고. [프로토콜](PM_SESSION_PROTOCOL.md). `NO_BUY_APPROVAL`.
