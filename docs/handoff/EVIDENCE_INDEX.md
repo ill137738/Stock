@@ -352,3 +352,23 @@ Detailed [AI cooling independent screen](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREE
 | E-MACRO-01 | 분절·인플레이션·고금리 수혜산업 + 생산성 디스인플레이션 가설 | [Owner 가설 기록](FRAGMENTATION_INFLATION_PRODUCTIVITY_SECTOR_THESIS_20261119.md) | `OWNER_RESEARCH_DIRECTION`, 확정 시장 전망이 아님. 지난 대화 IMF/WTO/IFR/IEA 수치는 재검증 필요 |
 
 이 항목은 신규 사실의 출처 계보이며 기존 E01–E번호 체계를 변경하거나 선행 문서의 확인 등급을 소급 승격하지 않는다.
+
+## 2026-11-19 전체 이전 대화 원문 1,368줄 — 검증상태 분리 및 인용 체인
+
+**Source:** [사용자가 제공한 채팅 원문 전문](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt), 1,368 lines, UTF-8 text. **`SOURCE_TRANSCRIPT` = 사실 검증 완료 아님**. 단일 공식 URL이 없고 이미지 캡션·언론 도메인만 포함된 진술은 `PREVIOUS_CHAT`으로 표시한다.
+
+| ID | 기존 대화의 논점/숫자 | 이전 원문 위치 | 현재 검증 등급 / 다음 원문 |
+|---|---|---|---|
+| E-DIALOG-01 | 2026-11-14 Starship Ship42/Flight15 상단부 첫 타워 회수, 1단 해상 전환 | [L6-L43](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt#L6-L43) | `PREVIOUS_CHAT_UNVERIFIED`; SpaceX 공식·FAA flight records |
+| E-DIALOG-02 | Starship V3 100t to orbit, 100GW 우주 AI 연간 100만t/수천 발사 구상 | [L119-L125](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt#L119-L125) | `PREVIOUS_CHAT_COMPANY_TARGET`; 정확한 SEC 문서·발표 날짜 확인 |
+| E-DIALOG-03 | Google Suncatcher TPU 2026-10-01 발사·10-30 궤도 추론 성공 | [L127-L141](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt#L127-L141) | `PREVIOUS_CHAT_UNVERIFIED`; Google official blog + space mission |
+| E-DIALOG-04 | BCG 100kW 방열판 약 400m², 우주 AI TCO 현재 2.5–3x·미래 1.5x | [L145-L170](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt#L145-L170) | `PREVIOUS_CHAT_REVERIFY`; BCG primary report, assumptions |
+| E-DIALOG-05 | 한화 HLV 2028년 계획, 23조원 2040년 투자, 가상 5/10/30회 발사 매출 | [L224-L461](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt#L224-L461) | `PLAN / HYPOTHETICAL`; 별도 E-HLV-01/02 & 한화 DART/2026Q3 |
+| E-DIALOG-06 | 삼성SDI 2026Q3 매출 4조6856억/영업익 4078억, 미국 ESS 60GWh | [L462-L544](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt#L462-L544) | `PREVIOUS_CHAT`; 삼성SDI 2026Q3 IR/금감원·ESS 계약 |
+| E-DIALOG-07 | Baidu RT6 <$30k, Pony.ai 7세대 시스템 -70%, 목표 차량 <23만 CNY, 차량 손익분기 | [L545-L680](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt#L545-L680) | `PREVIOUS_CHAT / COMPANY_CLAIM`; Baidu/Pony.ai 공시+IEA 원문 |
+| E-DIALOG-08 | Cybercab 2026Q2 생산·09/03 Austin 상용·11/16 독일 €3B·2029 100만 CAPA, NHTSA 조사 | [L681-L850](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt#L681-L850) | `PREVIOUS_CHAT_UNVERIFIED`; Tesla filings/NHTSA docket/Reuters |
+| E-DIALOG-09 | LS Utah·Texas 미국 생산, Utah $168M/3배 CAPA, 2026Q3 연결 12.4% OPM | [L851-L977](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt#L851-L977) | `PREVIOUS_CHAT`; LS 미국 지사/2026Q3 IR, 미국 공장 단독 margin UNKNOWN |
+| E-DIALOG-10 | HD/LS/효성 2026Q3 연결 OPM24.1/12.4/14.0%, 2027E PER 11.7/18.5/13.5, 순위 변경 | [L978-L1215](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt#L978-L1215) | `PREVIOUS_CHAT_VALUATION_HOLD`; 2026-11-17 가격, 증권사 EPS 및 주식수 재조회 |
+| E-DIALOG-11 | 미국 대형 변압기 한국 강점, 중국 저압 수입 비중 54%, EO14421/69kV, Eaton/GEV 경쟁 | [L1164-L1368](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt#L1164-L1368) | `PREVIOUS_CHAT_PARTLY_CROSS_REFERENCED`; USITC/USCC/WhiteHouse/ETN/GEV 1차 자료 재조회 |
+
+**Integrity rules:** (a) 과거 채팅의 '공식'이라는 단어는 실제 1차원문 링크·기간/분모가 확인되기 전 확증으로 승격 금지. (b) 링크가 없는 이미지 캡션의 주장은 citation이 아님. (c) **랭킹은 시점별 PM 의견**이며 Owner 매수결정 아님.
