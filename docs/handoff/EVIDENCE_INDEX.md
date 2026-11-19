@@ -369,3 +369,16 @@ Detailed [AI cooling independent screen](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREE
 | E208 ETH fee revenue pressure | Ethereum H1 2026 gross revenue $127M vs H1 2025 $414M(-69.3%); 네트워크 사용과 ETH 보유자 가치포착 구분 | `THIRD_PARTY_RESEARCH` [21Shares 2026](https://www.21shares.com/en-row/insights/ethereum-h1-2026-earnings-analysis) — 해당 provider 집계 기준/주주수익 아님 |
 
 기존 위 통합자료에서 2026-11-14 Starship 회수 전체를 `UNVERIFIED`로 둔 기록은 **당시 편집 과정의 미검증 표기**이다. E205는 상단부 회수 **보도 사실만** 새로 확인한 것이며, 상세 비행번호/반복 재비행은 보류한다.
+
+## 2026-11-19 PM 모델 포트폴리오 근거(추가)
+
+이하 11/19 공식 발표/공시 및 2차 가격은 [통합 정본 §8](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md)의 *PM 가상 비중* 검토에 사용. 금액·EPS의 자료 날짜/GAAP/adjusted 구분 필수. 비중 자체는 검증 가능한 사실이 아닌 **PM 가정**이며 Owner 승인 아님.
+
+| Claim | 자료시점 및 분모 | 출처/검증 경계 |
+|---|---|---|
+| E209 JBTM | 2026Q3 total revenue $994M, −1% YoY; Protein Solutions +6%; FY2026 projected revenue $3.95–4.00B & GAAP/adjusted EPS differs | `VERIFIED_COMPANY_REPORT` https://ir.jbtmarel.com/news/press-releases/detail/544/jbt-marel-corporation-reports-third-quarter-2026-results-and-announces-increased-share-repurchase-authorization |
+| E210 VRT | 2026Q3 revenue +61% YoY; FY26 adjusted FCF $2.6–2.8B (company guidance) | `VERIFIED_COMPANY_REPORT` https://investors.vertiv.com/news/news-details/2026/Vertiv-Reports-Strong-Third-Quarter-2026-with-Net-Sales-Growth-of-61-Organic-Orders-Growth-over-100-and-Diluted-EPS-Growth-of-91-Adjusted-Diluted-EPS-Growth-of-78-Raises-Full-Year-2026-Guidance-Across-All-Key-Metrics/default.aspx |
+| E211 PAHC | Q1 FY27 release 2026-11-04: TTM FCF $21.7M, 2026-09-30 debt $739.6M, gross leverage 2.9x | `VERIFIED_COMPANY_REPORT` https://investors.pahc.com/press-releases/press-release-details/2026/Phibro-Animal-Health-Corporation-Reports-First-Quarter-Results-Maintains-Financial-Guidance/default.aspx |
+| E212 MRVL | FY27Q2 SEC 10-Q report revenue +37% YoY; AI datacenter optical/custom switching exposure | `VERIFIED_PRIMARY` https://investor.marvell.com/sec-filings/all-sec-filings/content/0001835632-26-000025/mrvl-20260801.htm |
+| E213 Korean power/defense | LS 2026Q3 OP ₩233.5B YoY +131.7%; HD Q3 OP ₩284.5B YoY +15%; Hanwha Q3 OP ₩452B YoY −46.2% | `NEWS_REPORTED_COMPANY_RESULTS` https://en.yna.co.kr/view/AEN20261021005200320 ; https://biz.chosun.com/en/en-finance/2026/10/28/DSKKFTVMFNANZJWRXZD7QGINZE/ ; https://en.yna.co.kr/view/AEN20261029009251320 |
+| E214 SPCX price valuation/merger risk | 2026-11-18 market cap ~$1.95T (third party) vs TTM sales ~$32.04B; Reuters 11/12 reports *talks* on Tesla merger, **not announced/closed** | `THIRD_PARTY_MARKET_DATA + NEWS_REPORTED` https://stockanalysis.com/stocks/spcx/market-cap/ ; https://stockanalysis.com/stocks/spcx/statistics/ ; https://www.reuters.com/legal/transactional/spacex-tesla-merger-talks-progress-bloomberg-news-reports-2026-11-12/ |
