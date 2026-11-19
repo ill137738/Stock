@@ -405,3 +405,16 @@ Detailed [AI cooling independent screen](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREE
 | E-BTC-03 | [MarketWatch 2026-11-19 약 $63,680](https://www.marketwatch.com/livecoverage/stock-market-today-nasdaq-leads-dow-sp500-higher-on-anthropic-ai-optimism-walmart-earnings/card/bitcoin-rises-off-3-month-low-amid-crypto-rally-iw8w7DaTXF12NpIOmuFu) | `DATED_MARKET_PRICE`, 거래중 변동. 매수가·미래 시세 아님 |
 | E-BTC-04 | [TFTC BTC ETF Nov 2026 through Nov 18](https://www.tftc.io/bitcoin-etf-flows/november-2026), 월중 약 -$2.9B | `AGGREGATED_ETF_FLOWS`; 갱신/집계오차 가능 |
 | E-BTC-05 | [2026 Bitcoin long-run liquidity/scarcity hedge study](https://www.sciencedirect.com/science/article/pii/S1059056026004338) | `ACADEMIC_EMPIRICAL`; 안정적인 CPI 기반 구매력 방어라는 단순 가정 반론, 2010–2025 표본·인과적 식별 한계 |
+
+## E215–E220: Vitalik 2026-11-08 ETH 가치저장 재정립 / 공급·가격 점검 (2026-11-20)
+
+| ID | 1차/2차 출처 | 확인 내용·해석 제한 |
+|---|---|---|
+| E215 | [Vitalik Buterin 2026-11-08 X 스레드](https://x.com/VitalikButerin/status/2119401255919604064) / [본문 접근 가능한 미러](https://nitter.cf/VitalikButerin/status/2119401255919604064) | `PRIMARY_AUTHOR_STATEMENT`: 수수료 소각보다 ETH SoV·장기 생존·CROPS(검열·포획 저항·오픈소스·프라이버시·보안), AI 시대의 프로토콜 안정성. EIP-1559 소각 유지, 낮은 소각률 허용. 개인 비탈릭의 논제는 프로토콜 공식 변경 자체가 아님 |
+| E216 | [Ethereum Foundation Mandate 2026-03-13](https://ethereum.org/foundation/mandate/) / [EF L1-L2 2026-03-23](https://blog.ethereum.org/2026/03/23/l1-l2-ethereum) | `PRIMARY_EF_POLICY`: ETH를 명시적으로 화폐·가치저장 수단으로 표현. 11월 '돌연 공식 용도 전환' 가설은 과장 |
+| E217 | [EIP-8363 제안](https://eips.ethereum.org/EIPS/eip-8363) / [2026-10-01 Hegotá 검토 철회](https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419) | `DRAFT / NOT_IMPLEMENTED`; 검증자 보상 일부 소각을 **시행된 ETH 발행량 감소로 단정 금지** |
+| E218 | [CryptoKeyhole 2026-11-19 node-based supply](https://cryptokeyhole.com/is-ethereum-deflationary/) | `THIRD_PARTY_NODE_METRIC`: 공급 122.235M, 지난 1년 +1.008M ETH(+0.83%), 30일 연환산 +0.86%. 제3자 노드 데이터 검증 필요, 프로토콜 공급상한은 BTC와 상이 |
+| E219 | [CoinGlass 2026-11-20 05:30 UTC+8 ETH 시세](https://www.coinglass.com/currencies/ETH) | `DATED_DYNAMIC_MARKET`: ~$1,743.4/ETH, 시총 ~$212.98B, 최고가 $4,953.7 대비 -64.8%. 미래/현재가격으로 재사용 금지 |
+| E220 | [The Block 2026-11-08 발언 해석](https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022) / [Bitfinex 2026-11-13 장단점](https://blog.bitfinex.com/industry-news/can-eth-become-a-store-of-value/) | `SECONDARY_ANALYSIS`: fee burn이 보장된 바닥가치가 아닌 이유, 장기 ETH 담보·중립성 가치, BTC와 공급/거버넌스 비대칭 및 ETH 희석 반론 |
+
+**판정:** `ETH_SOV_THESIS_UPGRADED / PRICE_PREDICTION_UNDETERMINED / NO_BUY_APPROVAL`. 상세 중복 설명 없이 [통합 보고서 §1A](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#1a-이더리움-비용-절감-기술과-eth-투자수익을-분리-2026-11-19-보강) 참조.
