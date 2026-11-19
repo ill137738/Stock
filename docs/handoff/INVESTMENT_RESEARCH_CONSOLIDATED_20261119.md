@@ -148,6 +148,47 @@
 
 **투자 승인 게이트:** `사업 성장이 검증됨` → `회사의 가치 포착·현금흐름이 검증됨` → `희석/부채·자본투입 반영` → `동일 시점 공정가치/안전마진 계산` → `Owner 결정`. 연구 단계에서 포트폴리오나 자동매매를 변경하지 않는다.
 
+
+## 8. PM 가상 장기 성장 포트폴리오 — Owner 검토 전 예시 (2026-11-19)
+
+**투자 방향:** 기존 논의(미국 상장 우선·중국 기업 회피·기술혁신 성장주·고PER/PSR 허용)를 반영한 **5–10년 가정의 모델 포트폴리오**. 종목 비중은 현재가에 전액 즉시 매수하라는 권고·실매매 지시가 아니며, **Owner가 비중을 승인했다는 뜻이 아니다**. 별도 생활비/비상자금은 투자예산 밖에 있다고 가정. 국가별 환율·배당·세금, 투자원금·현 보유/현금흐름은 확인되지 않아 실계좌 최적 비중 미확정.
+
+| 종목 | 목표 비중 | 역할 및 결정적 리스크 |
+|---|---:|---|
+| **JBTM** | **20%** | 실물 생산성/식품가공 설비; Q3 총매출 −1%, Protein +6%, FY26 매출 성장 약5%/FX포함; 자체 유기성장·정상화 FCF 주의 |
+| **VRT** | **15%** | AI 데이터센터 냉각·전력/현금흐름; Q3 매출 +61%, FY26 adjusted FCF $2.6–2.8B 가이던스; 고객 AI CAPEX 사이클 |
+| **LS ELECTRIC(010120)** | **10%** | 북미 중·저압 배전/데이터센터; 2026Q3 영업이익 ₩233.5B, YoY +131.7%; 미국 증설 CAPEX/밸류 |
+| **HD현대일렉트릭(267260)** | **8%** | 초고압 변압기·전력망; 2026Q3 매출 +18%, 영업이익 +15%; 수주가격/업황 정상화 |
+| **한화에어로스페이스(012450)** | **10%** | 방산 수출·방공 및 장기 우주 옵션; 2026Q3 영업이익 −46.2%, 납기 변동·대형 CAPEX/현금전환 |
+| **MRVL** | **10%** | AI optical/custom ASIC 수혜; FY27Q2 매출 +37% YoY; 고객 집중·희석·밸류 |
+| **PAHC** | **7%** | 가금·양식 건강/동물영양; 2026-09 TTM FCF $21.7M, 총부채 $739.6M → 리스크 제한 |
+| **SPCX(SpaceX)** | **4%** | 재사용 발사·Starlink + SI/AI 혼합 기업; 2026-11-18 시총 약 $1.95T, TTM 매출 약 $32B, 손익 변동, 11/12 Tesla 합병협상 보도는 **확정 거래 아님** |
+| **ETH** | **4%** | 디지털 금융정산 기술 옵션; L1/L2 네트워크 성장≠ETH 토큰 가치포착, 고금리/변동성 |
+| **현금/단기 안전자산** | **12%** | 비상자금과 별개로 매수 대기·상관 하락 대비 |
+| **합계** | **100%** | 기업주식·ETH 88% / 현금성 12%; 성장·사이클 위험 높은 공격적 연구안 |
+
+**분산 착시 주의:** VRT+LS+HD = **33% 전력·데이터센터 장비**, 여기에 MRVL이 같은 AI 투자 사이클에 노출된다. JBTM/PAHC 역시 원가·원자재·신흥국 수요에 반응하며, 한화가 군사계약이라도 증시 급락시 독립적인 방어자산이 되는 것은 아니다. 한국 주식 28%, 미 상장주식 56%, ETH 4%, 현금성 12% (상장지 기준·SPCX 포함). 해외 매매/세금·환율 리스크 반영 필요.
+
+**가격과 사업을 분리한 게이트:**
+- SpaceX는 발사 점유율과 기업가치 성장의 구별이 핵심. 2026-11-18 시총 약 $1.95T/TTM 매출 $32.04B(약 61배 매출, **단순 계산**)가 장래 성장 상당 부분을 반영할 위험. 직접 적정가치/주당 FCF 검증 전 4%도 **목표상한**, 초기 편입은 0~소액 가능.
+- VRT·JBTM의 동기간 **forward P/E는 각 집계의 EPS 기준·조정치 차이**로 단일 숫자를 투자판정 근거로 고정하지 않음. JBTM FY26 GAAP EPS 가이던스 $4.30–4.60 vs adjusted $8.10–8.40; 차이가 큼. 가격/현금흐름 기준 통일 필요.
+- PAHC는 겉보기 저PER보다 차입금/운전자본과 낮은 FCF가 우선 검증.
+- 12% 현금으로 **점진적 매수**; JBTM/VRT 핵심도 1회 매수 대신 가격·실적/가이던스 단계 확인; 거래세·양도세/환율 고려.
+
+**추가 검토(부적합 확정 아님):** ETN·GEV·NVT는 전력 인프라 중복 위험, LIG넥스원/유럽 방산은 방산 상관, MOD는 냉각주 사이클, 삼성SDI는 ESS/EV 현금소모 리스크 때문에 기본 안에서 제외. 동일 업종의 종목 수 늘리기가 곧 분산은 아님.
+
+**독립 근거(2026-11-19 조회):**
+- JBTM Q3 release: https://ir.jbtmarel.com/news/press-releases/detail/544/jbt-marel-corporation-reports-third-quarter-2026-results-and-announces-increased-share-repurchase-authorization
+- VRT Q3 release: https://investors.vertiv.com/news/news-details/2026/Vertiv-Reports-Strong-Third-Quarter-2026-with-Net-Sales-Growth-of-61-Organic-Orders-Growth-over-100-and-Diluted-EPS-Growth-of-91-Adjusted-Diluted-EPS-Growth-of-78-Raises-Full-Year-2026-Guidance-Across-All-Key-Metrics/default.aspx
+- PAHC Q1 FY27: https://investors.pahc.com/press-releases/press-release-details/2026/Phibro-Animal-Health-Corporation-Reports-First-Quarter-Results-Maintains-Financial-Guidance/default.aspx
+- MRVL FY27Q2 10-Q: https://investor.marvell.com/sec-filings/all-sec-filings/content/0001835632-26-000025/mrvl-20260801.htm
+- LS: https://en.yna.co.kr/view/AEN20261021005200320
+- HD: https://biz.chosun.com/en/en-finance/2026/10/28/DSKKFTVMFNANZJWRXZD7QGINZE/
+- 한화: https://en.yna.co.kr/view/AEN20261029009251320
+- SPCX market cap: https://stockanalysis.com/stocks/spcx/market-cap/ ; revenues https://stockanalysis.com/stocks/spcx/statistics/ ; 2026-11-12 Tesla 협상보도 https://www.reuters.com/legal/transactional/spacex-tesla-merger-talks-progress-bloomberg-news-reports-2026-11-12/ (협상, **확정 아님**)
+
+**다음 단계:** JBTM R1 정규화 FCF/가격과 VRT 동일 기준 평가, 한화 4Q 납품 회복·SPCX 기업가치/외부발사 및 SI별 FCF, ETH 가치포착을 검증한 다음 **Owner가 실제 자금·기존 보유·유동성 필요·세금·허용 손실에 맞춰 채택/수정 여부를 결정**. 본 섹션은 `PM_MODEL_DRAFT / NOT_OWNER_APPROVED / NO_BUY_APPROVAL`.
+
 ### 보고서 품질·갱신 원칙 (Owner 2026-11-19 지시)
 - 앞으로 **매 실질 투자 논의마다** 먼저 이 통합 보고서의 해당 섹션을 수정한다. 새 근거가 기존 분석을 바꾸지 않으면 핵심 요약은 한 줄만 정정하고, 중복 문장·중복 파일을 새로 만들지 않는다.
 - **두괄식:** 결론 → 근거/숫자(같은 시점·분모) → 가장 강한 반론 → `UNKNOWN` → 다음 결정 조건.
