@@ -382,3 +382,13 @@ Detailed [AI cooling independent screen](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREE
 | E212 MRVL | FY27Q2 SEC 10-Q report revenue +37% YoY; AI datacenter optical/custom switching exposure | `VERIFIED_PRIMARY` https://investor.marvell.com/sec-filings/all-sec-filings/content/0001835632-26-000025/mrvl-20260801.htm |
 | E213 Korean power/defense | LS 2026Q3 OP ₩233.5B YoY +131.7%; HD Q3 OP ₩284.5B YoY +15%; Hanwha Q3 OP ₩452B YoY −46.2% | `NEWS_REPORTED_COMPANY_RESULTS` https://en.yna.co.kr/view/AEN20261021005200320 ; https://biz.chosun.com/en/en-finance/2026/10/28/DSKKFTVMFNANZJWRXZD7QGINZE/ ; https://en.yna.co.kr/view/AEN20261029009251320 |
 | E214 SPCX price valuation/merger risk | 2026-11-18 market cap ~$1.95T (third party) vs TTM sales ~$32.04B; Reuters 11/12 reports *talks* on Tesla merger, **not announced/closed** | `THIRD_PARTY_MARKET_DATA + NEWS_REPORTED` https://stockanalysis.com/stocks/spcx/market-cap/ ; https://stockanalysis.com/stocks/spcx/statistics/ ; https://www.reuters.com/legal/transactional/spacex-tesla-merger-talks-progress-bloomberg-news-reports-2026-11-12/ |
+
+## 2026-11-19 Bitcoin 투자 논의 검증 근거 (통합 정본 §9)
+
+| ID | 근거와 날짜 | 수준·사용 한계 |
+|---|---|---|
+| E-BTC-01 | [Strategy 2025 Form 10-K filed 2026 — 21M BTC cap, 2024 halving/2028 expected, spot ETP availability](https://www.sec.gov/Archives/edgar/data/1050446/000105044626000020/mstr-20251231.htm) | `SEC_PRIMARY_FILING`. 프로토콜 조건은 참고, issuer의 디지털금 가치주장은 이해관계자의 의견 |
+| E-BTC-02 | [21Shares 2026-11-02 Q3 2026 flows](https://www.21shares.com/en-us/insights/bitcoin-etf-inflows-q3-2026): US spot ETF +79,800 BTC / +$6.2B, mining +41,300 BTC, 수수료 채굴자 매출비중 0.67% | `ISSUER_RESEARCH`; 타사 데이터(Bloomberg/Glassnode) 집계. 향후 수요/안전성/가격 불변 추정 금지 |
+| E-BTC-03 | [MarketWatch 2026-11-19 약 $63,680](https://www.marketwatch.com/livecoverage/stock-market-today-nasdaq-leads-dow-sp500-higher-on-anthropic-ai-optimism-walmart-earnings/card/bitcoin-rises-off-3-month-low-amid-crypto-rally-iw8w7DaTXF12NpIOmuFu) | `DATED_MARKET_PRICE`, 거래중 변동. 매수가·미래 시세 아님 |
+| E-BTC-04 | [TFTC BTC ETF Nov 2026 through Nov 18](https://www.tftc.io/bitcoin-etf-flows/november-2026), 월중 약 -$2.9B | `AGGREGATED_ETF_FLOWS`; 갱신/집계오차 가능 |
+| E-BTC-05 | [2026 Bitcoin long-run liquidity/scarcity hedge study](https://www.sciencedirect.com/science/article/pii/S1059056026004338) | `ACADEMIC_EMPIRICAL`; 안정적인 CPI 기반 구매력 방어라는 단순 가정 반론, 2010–2025 표본·인과적 식별 한계 |
