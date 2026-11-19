@@ -71,22 +71,16 @@
 - **PM FACT CHECK:** fairlife FAQ는 낙농협동조합에서 조달하고 젖소 농장을 직접 보유하지 않는다고 명시. KO 2025 Form 10-K는 원유를 주요 원재료로 표시하며 소수 협동조합에 공급이 집중되나 대체 조달 가능성을 주장. 캘리포니아 CARB는 낙농·축산 메탄 2030년 감축 목표(2013년 대비 -40%)와 규제 검토 절차가 있음. 덴마크는 축산 메탄 등에 2030년부터 부담금 도입 계획. 정책은 **특정 낙농지역·규제 단계마다 다름**; 미국 전국 원유 공급 부족/단백질 소비 급감은 입증되지 않았음. OECD-FAO 2026 전망은 오히려 2035년까지 세계 우유 생산 연평균 약 +2% 예상.
 - `KO_ARCHIVED_COMPARATOR` 및 `CORE_2_JBTM_PAHC` **유지**. KO 매수/매도 지시 없음. 이 추가 이유는 S-D21 결정의 추가 설명이며 별도 신규 투자 후보를 만들지 않음.
 
-## 2026-11-19 Owner 신규 의향·필수 프로세스 지시 — 매수승인 없음
+## 2026-11-19 Owner 운영·리서치 지시 — 정리본 우선 (최신)
 
-| ID | 성격 | 기록 | 적용 |
+| ID | 성격 | 확정 내용 | 상태 |
 |---|---|---|---|
-| S-D25 | `OWNER_DIRECTIVE` | **매 투자 논의에서 핵심 가설·분석·검증 결과·반론 및 변경 내용을 `ill137738/Stock/docs/handoff`에 계속 업데이트·커밋하고, 매번 GitHub 반영 사실을 사용자에게 보고**할 것. 최신 인수인계에 상시 적용. | **ACTIVE / MANDATORY**; [프로토콜](PM_SESSION_PROTOCOL.md) |
-| S-D26 | `OWNER_HYPOTHESIS` | SpaceX는 높은 발사 빈도·원가 경쟁력·기존 우주사업 기반으로 우주 데이터센터 운송의 사실상 통행료 역할을 할 수 있어 장기적으로 매력적이라는 관점. **법적 독점, 필수 거래 또는 유망한 투자 가격은 아직 입증되지 않음.** | [상세 HLV·SpaceX 논의](HANWHA_HLV_SPACEX_ORBITAL_LAUNCH_ECONOMICS_20261119.md), 검증 필요 |
-| S-D27 | `OWNER_RESEARCH_DIRECTION` | 경제권 분절과 전쟁/공급망 불안으로 인한 비용 인플레이션, 중금리 이상 장기화 가능성에 유리한 섹터와, AI·로봇·산업 자동화 등에 의한 생산성 혁신/디스인플레이션을 함께 충족하는 기업을 비교할 것. 미래 경로 확정 아님. | [거시·산업 프레임](FRAGMENTATION_INFLATION_PRODUCTIVITY_SECTOR_THESIS_20261119.md), 병렬 연구 |
-| S-D28 | `OWNER_RESEARCH_REQUEST` | 한화에어로의 자체 발사체 개발 가능성과 성공 시 매출/주가 파급효과 검증. 기술적 발사와 반복적 상업 수익 및 주주가치의 구분 필요. | [한화 HLV 연구](HANWHA_HLV_SPACEX_ORBITAL_LAUNCH_ECONOMICS_20261119.md), 병렬 연구 |
+| S-D25 | `OWNER_DIRECTIVE` | 매 실질 투자 논의 후 GitHub `docs/handoff` 문서 갱신·커밋·read-back·결과 보고 | `ACTIVE` |
+| S-D26 | `OWNER_HYPOTHESIS` | SpaceX 고빈도·재사용·Starlink 통합 기반의 발사 산업 해자와 우주 데이터센터 장기 옵션 검증 | `RESEARCH_ONLY` |
+| S-D27 | `OWNER_RESEARCH_DIRECTION` | 지정학적 분절·인플레이션·중고금리 수혜산업과 AI/자동화 생산성 향상을 교차 평가 | `RESEARCH_ONLY` |
+| S-D28 | `OWNER_RESEARCH_REQUEST` | 한화 HLV 개발 성공 가능성과 매출·주가/ROIC 파급효과 검토 | `RESEARCH_ONLY` |
+| S-D29 | `SUPERSEDED_BY_OWNER_CORRECTION` | 이전의 '원문 전문+주제별 대량 분할' 보존 방식은 사용자의 최종 의도와 불일치. **원문/복제 문서 보존 의무 폐기** | `SUPERSEDED` |
+| S-D30 | `OWNER_DIRECTIVE_REAFFIRMED` | 누락 없이 **핵심만 보고서 형태로 정제**, 반복 최소화, **두괄식**으로 결론/근거/반론/검증 적시. 매 논의마다 정본 갱신 | `ACTIVE` |
+| S-D31 | `OWNER_FORMAT_DIRECTIVE` | [단일 통합 보고서](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md)를 새 2026-11-19 논의의 정본으로 지정. 1,368줄 원문 복제와 중복 주제 파일 대신 편집된 핵심만 유지 | `ACTIVE / MANDATORY` |
 
-**해석:** S-D26/S-D27/S-D28은 종목 확정 매수, 보유, 투자비중, 주가 목표 또는 기존 JBTM/PAHC 유니버스 교체 결정이 아님. 현재 `NO_BUY_APPROVAL` 유지.
-
-## 2026-11-19 Owner의 전체 원문 보존·누락 방지 재확인
-
-| ID | 성격 | 내용 | 효력 |
-|---|---|---|---|
-| S-D29 | `OWNER_DIRECTIVE` | 추가로 제공된 투자 대화 원문 **1,368줄 전체**를 누락 없이 기록할 것. 간단한 두 문서로 축약하지 말고 **원문 보존, 주제별 투자 가설/수치/근거·미확정 구분, 인수인계 검색·목차 연결**까지 완료. | `MANDATORY`; [원문 파일](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt)와 [README](README.md) |
-| S-D30 | `OWNER_DIRECTIVE_REAFFIRMED` | **앞으로 투자 논의할 때마다 GitHub를 계속 업데이트하고 저장·커밋까지 확인해 보고할 것.** 전에 S-D25로 설정한 의무 강화. 새 논의에서 Samsung SDI, Tesla/중국 로보택시, LS 현지생산 등 별도 주제 빠뜨리면 안 됨. | `ACTIVE / EVERY_SUBSTANTIVE_TURN`; [운영 프로토콜](PM_SESSION_PROTOCOL.md) |
-
-**판정 경계:** 첨부 파일의 과거 AI 답변에 있던 `HD현대일렉트릭 원픽`·`테슬라 신중`·`SpaceX 유망` 등의 문구는 **PM 과거 연구 의견**, Owner의 실제 매수/비중 지시가 아니다. 기존 `NO_BUY_APPROVAL` 유지.
+**해석:** S-D26–28은 가설/연구요청이며 포트폴리오·매수 비중 결정이 아님. 기존 `CORE_2_JBTM_PAHC`, `NO_BUY_APPROVAL` 유지.
