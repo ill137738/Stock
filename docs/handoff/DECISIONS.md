@@ -84,3 +84,12 @@
 | S-D31 | `OWNER_FORMAT_DIRECTIVE` | [단일 통합 보고서](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md)를 새 2026-11-19 논의의 정본으로 지정. 1,368줄 원문 복제와 중복 주제 파일 대신 편집된 핵심만 유지 | `ACTIVE / MANDATORY` |
 
 **해석:** S-D26–28은 가설/연구요청이며 포트폴리오·매수 비중 결정이 아님. 기존 `CORE_2_JBTM_PAHC`, `NO_BUY_APPROVAL` 유지.
+
+## 2026-11-19 SpaceX 83%·Ethereum 후속 연구 (신규 논의)
+
+| ID | 성격 | 기록 | 상태 |
+|---|---|---|---|
+| S-D32 | `OWNER_THESIS` | FAA 발사 점유율 83% 및 재사용·규모의 경제로 SpaceX의 사실상 독점적 해자가 지속되는지, 우주 DC 수송 수요의 수익성을 확인 | `RESEARCH_ONLY` — 83%는 FAA FY2025 분모, 세계 전체는 OECD 약 절반 |
+| S-D33 | `OWNER_RESEARCH_REQUEST` | 생산성 혁신/거래비용 절감/중금리의 관점에서 암호자산, 특히 Ethereum과 ETH 토큰의 가치포착 가능성 및 반론 분석 | `RESEARCH_ONLY / NO_BUY_APPROVAL` |
+
+Core 2(JBTM·PAHC)와 JBTM 단일 최우선 심층 분석은 유지. ETH 매수·포트폴리오 비중 결정 없음.
