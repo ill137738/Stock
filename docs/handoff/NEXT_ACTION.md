@@ -140,3 +140,7 @@
 ## 2026-11-19 후속 병렬 옵션 — 기존 단일 최우선 불변
 
 Ethereum L1/L2의 검증 가능한 기업결제·스테이블코인 정산 총원가(규제/환전/수탁 포함), L1 수수료·소각량·ETH 발행/스테이킹의 토큰가치 귀속, 경쟁체인/은행망 대비 해자, 중금리 위험자산 밸류에이션을 분석할 수 있다. SpaceX는 FAA 83%와 OECD 세계 약 절반의 **서로 다른 발사 분모**를 유지하고 SEC 상장 SPCX의 주당 FCF·Starship 재비행 경제성을 추가 확인한다. 자세한 논거는 [11/19 통합 정본](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md) §1A·§2 및 E202–E208. **현재 P0 JBTM 최우선, Core2/JBTM·PAHC 및 NO_BUY_APPROVAL 불변.**
+
+## 2026-11-19 PM 모델 포트폴리오 — 검증 우선순위 추가
+
+[통합 정본 §8](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md)의 모델 비중은 `PM_MODEL_DRAFT`로 보존. JBTM R1 우선 연구를 그대로 유지하면서 이후 (1) VRT/JBTM 동일 날짜 GAAP vs 조정 EPS·FCF/EV 비교, (2) 한국 전력기기와 MRVL의 공통 AI CAPEX 위험/주문, (3) 한화 4Q 지상방산 현금회수, (4) SPCX $1.95T 기업가치와 SI/AI 혼합 사업별 FCF·Tesla 합병협상 확정 여부, (5) ETH 수수료/소각 가치포착을 확인한다. Owner 투자자금/리스크·기존 보유 미확정, 포트폴리오 채택/매수 승인 **없음**.
