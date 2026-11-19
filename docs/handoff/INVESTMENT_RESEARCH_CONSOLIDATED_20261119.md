@@ -67,6 +67,34 @@
 
 **주요 근거 (당일 재조회):** [ethereum.org AI agents](https://ethereum.org/ai-agents/) · [Ethereum payments/x402](https://ethereum.org/payments/) · [ERC-8004 draft specification](https://eips.ethereum.org/EIPS/eip-8004) · [Ethereum Institutional 2026 Nov](https://ethereuminstitutional.org/research/state-of-the-ledger) · [21Shares 2026-H1](https://www.21shares.com/en-row/insights/ethereum-h1-2026-earnings-analysis) · [Golem/Kairos 2026 Nov](https://golem.foundation/reports) · [Bitquery x402 independent audit](https://www.bitquery.io/investigations/x402-ai-agent-payments-audit) · [x402 Foundation multichain support](https://github.com/x402-foundation/x402/blob/main/docs/core-concepts/network-and-token-support.mdx).
 
+### 2026-11-20 비탈릭의 ETH 가치저장(SoV) 재정립 — 방향성/가격 감사
+
+**결론 `PM_VIEW / RESEARCH_ONLY`:** 2026-11-08 Vitalik Buterin의 발언은 실재하며, ETH 가치를 **'네트워크 fee burn으로 시가총액을 정당화하는 토큰' → '탈중앙화·검열저항·개인정보 보호·보안·지속적 중립성에 기반한 비주권 가치저장/담보 자산'**이라는 평가축으로 옮길 것을 제안했다. **원래부터 ETH를 돈/가치저장으로 본 이력이 있으므로 ETH의 공식 용도를 갑자기 교체한 것도, 발행상한을 BTC처럼 고정한 것도 아님.** 방향의 기술적 정합성은 높지만, **시장에서 실제 SoV 프리미엄이 증가하고 ETH 가격이 상승할지는 미증명**.
+
+#### 1차 발언과 공식 문서 — `PRIMARY` vs `IMPLEMENTATION`
+- [Vitalik 2026-11-08 X 원문](https://x.com/VitalikButerin/status/2119401255919604064) [본문 수록 미러](https://nitter.cf/VitalikButerin/status/2119401255919604064): (i) 2021–23 거래 수수료 소각이 실질적 바닥가치처럼 보였지만 암호화폐 내부 거래/NFT 광풍 수입은 ETH 가격 급락 때 동반 축소되므로 바닥 아님, (ii) 소각을 무리하게 늘리면 막대한 프로토콜 재정·정치적 개입·고수수료/중앙화로 중립성을 해침, (iii) 장기 생존·CROPS(censorship and capture resistance, open source, privacy, security)와 **신뢰 가능한 가치저장** 목표가 일치. **EIP-1559 소각은 폐지하지 않음**; 소각이 신규발행의 10% 미만이어도 성공/실패를 그 하나로 판정하지 말라는 뜻.
+- [Ethereum Foundation Mandate 2026-03-13](https://ethereum.org/foundation/mandate/) 및 [L1/L2 비전 2026-03-23](https://blog.ethereum.org/2026/03/23/l1-l2-ethereum)는 이미 Ether를 **가치저장 및 화폐**, L1을 지속가능/분산형 정산·유동성 기초로 설명. **전면 노선변경보다 종전의 SoV 특성을 우선순위로 올리고 fee burn 주주배당 비유를 격하시킨 재정립**.
+- SoV 강화를 위한 실제 우선 기술은 **노드 직접운영 가능성, 검열저항(FOCIL), 프라이버시 지갑/전송(Kohaku/AA), 안전한 다중서명, 코드 검증·양자내성·프로토콜 안정성**, L1 실물자산(RWA) 발행과 ETH 담보·현금화 유동성. 일부는 개발 중 **결과 확정 아님**.
+- [EIP-8363](https://eips.ethereum.org/EIPS/eip-8363)은 스테이킹 비중에 따른 신규보상 일부 소각으로 비스테이킹 보유자 희석을 낮추려는 시도였으나 **2026-10-01 Hegotá 업그레이드 채택 검토에서 철회**, 별도 논의로 옮김. 공식 EIP 웹페이지가 `Draft`여도 **이미 시행된 공급삭감으로 계산 금지**. [철회 보도](https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419).
+
+#### '가치저장' 성립 가능성
+| 핵심 검증기준 | BTC와 비교한 ETH 특징 | 판정 |
+|---|---|---|
+| 발행 신뢰 | BTC 21M 고정 상한. ETH는 보상 신규발행 − 거래수수료 소각으로 **가변 공급**, 발행/스테이킹 정책에 사회적 거버넌스 영향 | `BTC 이점 / ETH 개선 여지` |
+| 보유·유통의 효용 | ETH는 DeFi·RWA 거래의 담보/유동성·온체인 정산·gas·검증자 stake까지 다양한 **내생적 보유 동기** | `ETH 차별점 / 수요 측정 필요` |
+| 안전·신뢰 | 멀티시그·검열저항/양자내성·포멀 검증 지향; 복잡한 스마트계약/L2 브리지/스테이킹 집중·Slashing 위험도 공존 | `기술적 잠재력 / 리스크` |
+| 장기 구매력 | 장기 보유수요·위기 내구성·상관/변동성 확인 필요. **프로토콜 안정성 ≠ ETH 시장가격 안정성** | `미확인` |
+
+**현재 실제 수치:** 2026-11-19 20:00 UTC 기준 독립 노드 집계 ETH 총공급 약 **122.235M**, 최근 1년 **+1.008M(+0.83%)** 및 최근 30일 연환산 약 **+0.86%**, ETH는 현재 디플레이션이 아님. [CryptoKeyhole 노드 집계](https://cryptokeyhole.com/is-ethereum-deflationary/) (제3자, 재검증/계측오차 여지). **2026-11-20 05:30 UTC+8(한국 06:30)** CoinGlass 제시 거래가 약 **$1,743**, 시총 약 **$213B**, 2025-08-24 최고가 $4,953.7 대비 약 **-64.8%**. [CoinGlass 시세](https://www.coinglass.com/currencies/ETH). 낮아진 가격은 **가격 상승의 보증/내재가치 바닥이 아님**.
+
+#### 가격상승 가능성 및 반론
+
+- **Bull(장기):** AI·스테이블코인·RWA 자산과 신뢰성 높은 글로벌 담보 수요 확대 → ETH 자체를 보유해야 하는 중립적 원천담보/스테이킹 수요 성장 → 기존 2026년 약 $213B 시총에 추가적인 **SoV 통화 프리미엄**. 프라이버시·검열저항·발행 신뢰도 개선은 강한 보조요인.
+- **Base(혼합):** 네트워크 활동/L2 통화량은 급증해도 ETH 자체는 gas·담보로 일부만 필요, 많은 결제는 USDC·L2·다른 체인이 담당. SoV 프리미엄 증가보다 높은 실질금리·다른 위험자산 수급이 가격을 지배할 수 있음.
+- **Bear:** BTC가 '디지털 금' 시장의 자본/ETF·브랜드 우위를 유지; ETH는 계속 발행/스테이킹 희석, L2 가치 포착 분산, 재단/검증자 거버넌스 신뢰 논란·스마트계약 사고; 거시 유동성 긴축. **SoV 재브랜딩만으로 가격상승 불가**.
+- **최소 투자 관찰지표:** (1) **비수탁 ETH 장기보유자/기업·기관 담보/treasury 수요**, (2) ETH 자체 사용 담보잔액(스테이블코인 TVL 전체와 분리), (3) 발행−소각 순공급 추세/스테이킹 지급·집중도, (4) L1/L2 수익 및 ETH 직접 가치귀속, (5) ETH/BTC 상대강도와 ETF 수급·미 실질금리, (6) 실제 프라이버시·검열저항·양자내성 기술 채택. 투자 목표가는 이 조건으로 가치/시총 가정 먼저 구성해야 제시 가능.
+
+**PM 판정:** 기술·사회적 장기 전략은 **긍정적**. 그러나 비트코인보다 SoV 희소성 신뢰가 강하다고 단정할 수 없고, **2026-11-20 가격 $1,743에서 단기 상승 시점·확률·목표가를 신뢰성 있게 산출할 근거는 없다**. 기존 ETH/가상 포트폴리오 비중·Owner 승인·JBTM P0 변경 없음. `ETH_SOV_THESIS_UPGRADED / TOKEN_PREMIUM_UNPROVEN / NO_BUY_APPROVAL`.
 
 ---
 
