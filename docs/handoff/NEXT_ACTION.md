@@ -144,3 +144,7 @@ Ethereum L1/L2의 검증 가능한 기업결제·스테이블코인 정산 총�
 ## 2026-11-19 PM 모델 포트폴리오 — 검증 우선순위 추가
 
 [통합 정본 §8](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md)의 모델 비중은 `PM_MODEL_DRAFT`로 보존. JBTM R1 우선 연구를 그대로 유지하면서 이후 (1) VRT/JBTM 동일 날짜 GAAP vs 조정 EPS·FCF/EV 비교, (2) 한국 전력기기와 MRVL의 공통 AI CAPEX 위험/주문, (3) 한화 4Q 지상방산 현금회수, (4) SPCX $1.95T 기업가치와 SI/AI 혼합 사업별 FCF·Tesla 합병협상 확정 여부, (5) ETH 수수료/소각 가치포착을 확인한다. Owner 투자자금/리스크·기존 보유 미확정, 포트폴리오 채택/매수 승인 **없음**.
+
+## 2026-11-19 Bitcoin 병렬 탐색 — 통합 보고서에만 세부 기록
+
+[통합 보고서 §9](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#9-bitcoin-탈세계화통화신뢰고실질금리-투자-관점-2026-11-19)의 **BTC `PENDING_VALUATION`** 연구 큐: (1) 미 국채 TIPS 실질금리·USD 지수·유동성 대비 BTC 반응을 위기/완화 국면 분리, (2) ETF 4주 누적순유출입/장기보유자 매도·채굴자 비용/2028 반감기, (3) BTC vs 금/TIPS vs ETH vs 산업자동화·전력설비의 투자 메커니즘 구분, (4) 원화 환산·수탁 경로·한국 세금/환율, (5) 스트레스 하락폭과 가격 대비 잠재 수익률 검증. **기존 JBTM R1 단일 최우선·Core 2·가상 포트폴리오 및 `NO_BUY_APPROVAL` 유지**.
