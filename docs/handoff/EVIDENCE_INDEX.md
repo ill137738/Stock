@@ -340,35 +340,18 @@ Detailed [AI cooling independent screen](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREE
 | E200 | HANWHA_ONEWEB_CONTRACT | 한화시스템 공식 2026Q1 보고서 2023 398억원 OneWeb 기반 군 저궤도 통신 개발 협약, ESA 전자안테나/OBP/ISL R&D, 통신 사업자 등록·국경간 승인; 사업협약 vs 전세계 Starlink 가입자 운영 구분 | https://kind.krx.co.kr/external/2026/05/13/000812/20260513001815/11011.htm |
 | E201 | HANWHA_KAI_DIRECT_SAT_COMPETITION | 2026-10 SAR 군집 입찰 한화시스템 ₩3684.7억원 incl VAT vs KAI ₩4603억원 incl VAT, 한화 공식 2026-10-30 **우선협상 ₩3349.7억원 ex VAT**, 본계약은 미공시; 직접 경쟁·가격압박·인수 독과점우려 | https://samara.kr/disclosure/20261030801362 ; https://www.bidnara.com/bids/v/award/7803838 ; [report](KAI_HANWHA_TAKEOVER_PREMIUM_KLEO_BUSINESS_MODELS_20261116.md) |
 
-## E-20261119-HLV-SPACEX — 신규 논의 출처 및 검증 대기 (2026-11-19 확인)
+## 2026-11-19 통합 연구 — 이전 대화 기반 증거 경계
 
-| ID | 주장/수치 | 원문 URL · 자료일 | 확인 상태 · 금지되는 확대해석 |
-|---|---|---|---|
-| E-HLV-01 | 한화에어로 2028년 첫 발사 **목표**, 자체 2단 소모성 메탄 HLV, 한화시스템 SAR 고객 검토 | [연합뉴스 2026-11-18](https://www.yna.co.kr/amp/view/AKR20261118115200017) | `VERIFIED_REPORTED_COMPANY_PLAN`. 기술 성공·고객계약 체결·2028 실발사 **미확인** |
-| E-HLV-02 | 우주발사체 2026–2040 장기 약 23조원 투자 **계획**(미래사업 28조원 계획 일부) | [2026-07-03 공정공시 재게시, DART 링크 포함](https://www.awakeplus.co.kr/data/view/20260703800719) | `DISCLOSURE_PLAN`. 집행 완료·HLV 단일 CAPEX·매출/이익 확정치 아님. DART 원문 보관 추가 검증 |
-| E-HLV-03 | 재사용 기술시연체 사업은 독자 HLV와 별개 | [한화에어로 공식 뉴스룸](https://www.hanwhaaerospace.com/kor/media/newsroom/view.do?seq=659) | `COMPANY_PLAN`. 2028 실증 목표를 현재 재사용 상용화로 표시 금지 |
-| E-SPACEX-01 | FAA FY2025 허가 발사 195회, SpaceX 161회 = 약 83% | [FAA Aerospace Forecast 2026–2046](https://www.faa.gov/data_research/aviation/aerospace_forecasts/2026_Commercial_Space_2.pdf) | `VERIFIED_PRIMARY`, **미국 FAA 허가 발사 기준**. 전 세계 발사 시장 점유율로 표기 금지 |
-| E-SPACEX-02 | 우주 DC에 SpaceX 운송이 사실상 필수이고 비싼 통행료 가능 | [Owner 가설 기록](HANWHA_HLV_SPACEX_ORBITAL_LAUNCH_ECONOMICS_20261119.md) | `OWNER_HYPOTHESIS / UNVERIFIED`. 우주 DC 실제 화물 수주·독점/계약·모든 비용 우위 입증 전 `HOLD` |
-| E-MACRO-01 | 분절·인플레이션·고금리 수혜산업 + 생산성 디스인플레이션 가설 | [Owner 가설 기록](FRAGMENTATION_INFLATION_PRODUCTIVITY_SECTOR_THESIS_20261119.md) | `OWNER_RESEARCH_DIRECTION`, 확정 시장 전망이 아님. 지난 대화 IMF/WTO/IFR/IEA 수치는 재검증 필요 |
+[편집·중복 제거된 통합 투자 보고서](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md)는 2026-11-19 첨부 대화의 투자논리를 정리한 **2차 요약 자료**다. 이 장의 수치는 신규 원문 실사를 완료한 것으로 간주하지 않는다. 구체 근거가 확인되면 기존 E번호 체계를 따라 공식 1차 URL·자료일·지표 분모를 추가한다.
 
-이 항목은 신규 사실의 출처 계보이며 기존 E01–E번호 체계를 변경하거나 선행 문서의 확인 등급을 소급 승격하지 않는다.
+| Claim | 이전 대화의 핵심 내용 | 상태 / 검증할 1차 자료 |
+|---|---|---|
+| SPX reuse | 2026-11-14 Flight15/Ship42 상단부 회수 및 양단 완전 재사용 논의 | `PREVIOUS_CHAT / UNVERIFIED`; SpaceX·FAA 발사/착륙/재비행 로그 |
+| Space AI | Google Suncatcher TPU 2026-10 궤도 추론; BCG 우주방열 400m²/100kW 및 TCO 2.5–3x→1.5x; Starship V3 100t 목표 | `PREVIOUS_CHAT / UNVERIFIED`; Google·BCG·SpaceX/SEC 원문, 사업 경제성 미확정 |
+| Hanwha HLV | 자체 2단 메탄 소모식 2028 첫 발사 목표 및 2026–2040 약 23조원 장기 우주발사체 투자계획 | `REPORTED_PLAN / SOURCE_RECHECK`; 한화 공식 IR·DART/연합뉴스. 계획≠완료·계약≠이익 |
+| Power Top3 | HD/LS/효성 2026Q3 OPM 24.1/12.4/14.0%, 당시 2027E PER 11.7/18.5/13.5 | `PREVIOUS_CHAT / SAME_DENOMINATOR_HOLD`; 각사 IR·동일날짜 주가/주식수/EPS/사업별 FCF |
+| LS USA | Utah/Texas 현지 설계·생산, Utah 약 $168M/2030 CAPA3x 및 12.4% 연결 OPM | `PREVIOUS_CHAT`; LS IR·미국 법인 실제 영업률/현금전환 확인. 연결≠미국 공장 |
+| SDI | 2026Q3 4조6856억 매출·4078억 영업익, 미국 ESS 60GWh | `PREVIOUS_CHAT`; 삼성SDI IR·공시/수주 계약 |
+| Tesla/China | Baidu/Pony 원가목표, 2026 Tesla Cybercab 운영·NHTSA/독일 투자 주장 | `PREVIOUS_CHAT / UNVERIFIED`; Tesla SEC·NHTSA·BIS·Waymo·중국 회사 공시 |
 
-## 2026-11-19 전체 이전 대화 원문 1,368줄 — 검증상태 분리 및 인용 체인
-
-**Source:** [사용자가 제공한 채팅 원문 전문](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt), 1,368 lines, UTF-8 text. **`SOURCE_TRANSCRIPT` = 사실 검증 완료 아님**. 단일 공식 URL이 없고 이미지 캡션·언론 도메인만 포함된 진술은 `PREVIOUS_CHAT`으로 표시한다.
-
-| ID | 기존 대화의 논점/숫자 | 이전 원문 위치 | 현재 검증 등급 / 다음 원문 |
-|---|---|---|---|
-| E-DIALOG-01 | 2026-11-14 Starship Ship42/Flight15 상단부 첫 타워 회수, 1단 해상 전환 | [L6-L43](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt#L6-L43) | `PREVIOUS_CHAT_UNVERIFIED`; SpaceX 공식·FAA flight records |
-| E-DIALOG-02 | Starship V3 100t to orbit, 100GW 우주 AI 연간 100만t/수천 발사 구상 | [L119-L125](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt#L119-L125) | `PREVIOUS_CHAT_COMPANY_TARGET`; 정확한 SEC 문서·발표 날짜 확인 |
-| E-DIALOG-03 | Google Suncatcher TPU 2026-10-01 발사·10-30 궤도 추론 성공 | [L127-L141](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt#L127-L141) | `PREVIOUS_CHAT_UNVERIFIED`; Google official blog + space mission |
-| E-DIALOG-04 | BCG 100kW 방열판 약 400m², 우주 AI TCO 현재 2.5–3x·미래 1.5x | [L145-L170](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt#L145-L170) | `PREVIOUS_CHAT_REVERIFY`; BCG primary report, assumptions |
-| E-DIALOG-05 | 한화 HLV 2028년 계획, 23조원 2040년 투자, 가상 5/10/30회 발사 매출 | [L224-L461](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt#L224-L461) | `PLAN / HYPOTHETICAL`; 별도 E-HLV-01/02 & 한화 DART/2026Q3 |
-| E-DIALOG-06 | 삼성SDI 2026Q3 매출 4조6856억/영업익 4078억, 미국 ESS 60GWh | [L462-L544](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt#L462-L544) | `PREVIOUS_CHAT`; 삼성SDI 2026Q3 IR/금감원·ESS 계약 |
-| E-DIALOG-07 | Baidu RT6 <$30k, Pony.ai 7세대 시스템 -70%, 목표 차량 <23만 CNY, 차량 손익분기 | [L545-L680](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt#L545-L680) | `PREVIOUS_CHAT / COMPANY_CLAIM`; Baidu/Pony.ai 공시+IEA 원문 |
-| E-DIALOG-08 | Cybercab 2026Q2 생산·09/03 Austin 상용·11/16 독일 €3B·2029 100만 CAPA, NHTSA 조사 | [L681-L850](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt#L681-L850) | `PREVIOUS_CHAT_UNVERIFIED`; Tesla filings/NHTSA docket/Reuters |
-| E-DIALOG-09 | LS Utah·Texas 미국 생산, Utah $168M/3배 CAPA, 2026Q3 연결 12.4% OPM | [L851-L977](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt#L851-L977) | `PREVIOUS_CHAT`; LS 미국 지사/2026Q3 IR, 미국 공장 단독 margin UNKNOWN |
-| E-DIALOG-10 | HD/LS/효성 2026Q3 연결 OPM24.1/12.4/14.0%, 2027E PER 11.7/18.5/13.5, 순위 변경 | [L978-L1215](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt#L978-L1215) | `PREVIOUS_CHAT_VALUATION_HOLD`; 2026-11-17 가격, 증권사 EPS 및 주식수 재조회 |
-| E-DIALOG-11 | 미국 대형 변압기 한국 강점, 중국 저압 수입 비중 54%, EO14421/69kV, Eaton/GEV 경쟁 | [L1164-L1368](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt#L1164-L1368) | `PREVIOUS_CHAT_PARTLY_CROSS_REFERENCED`; USITC/USCC/WhiteHouse/ETN/GEV 1차 자료 재조회 |
-
-**Integrity rules:** (a) 과거 채팅의 '공식'이라는 단어는 실제 1차원문 링크·기간/분모가 확인되기 전 확증으로 승격 금지. (b) 링크가 없는 이미지 캡션의 주장은 citation이 아님. (c) **랭킹은 시점별 PM 의견**이며 Owner 매수결정 아님.
+신규 1차 자료 확인까지 **일시적인 시세/기업 목표를 실적이나 확정매수가로 재사용 금지**.
