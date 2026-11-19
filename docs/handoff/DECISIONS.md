@@ -81,3 +81,12 @@
 | S-D28 | `OWNER_RESEARCH_REQUEST` | 한화에어로의 자체 발사체 개발 가능성과 성공 시 매출/주가 파급효과 검증. 기술적 발사와 반복적 상업 수익 및 주주가치의 구분 필요. | [한화 HLV 연구](HANWHA_HLV_SPACEX_ORBITAL_LAUNCH_ECONOMICS_20261119.md), 병렬 연구 |
 
 **해석:** S-D26/S-D27/S-D28은 종목 확정 매수, 보유, 투자비중, 주가 목표 또는 기존 JBTM/PAHC 유니버스 교체 결정이 아님. 현재 `NO_BUY_APPROVAL` 유지.
+
+## 2026-11-19 Owner의 전체 원문 보존·누락 방지 재확인
+
+| ID | 성격 | 내용 | 효력 |
+|---|---|---|---|
+| S-D29 | `OWNER_DIRECTIVE` | 추가로 제공된 투자 대화 원문 **1,368줄 전체**를 누락 없이 기록할 것. 간단한 두 문서로 축약하지 말고 **원문 보존, 주제별 투자 가설/수치/근거·미확정 구분, 인수인계 검색·목차 연결**까지 완료. | `MANDATORY`; [원문 파일](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt)와 [README](README.md) |
+| S-D30 | `OWNER_DIRECTIVE_REAFFIRMED` | **앞으로 투자 논의할 때마다 GitHub를 계속 업데이트하고 저장·커밋까지 확인해 보고할 것.** 전에 S-D25로 설정한 의무 강화. 새 논의에서 Samsung SDI, Tesla/중국 로보택시, LS 현지생산 등 별도 주제 빠뜨리면 안 됨. | `ACTIVE / EVERY_SUBSTANTIVE_TURN`; [운영 프로토콜](PM_SESSION_PROTOCOL.md) |
+
+**판정 경계:** 첨부 파일의 과거 AI 답변에 있던 `HD현대일렉트릭 원픽`·`테슬라 신중`·`SpaceX 유망` 등의 문구는 **PM 과거 연구 의견**, Owner의 실제 매수/비중 지시가 아니다. 기존 `NO_BUY_APPROVAL` 유지.
