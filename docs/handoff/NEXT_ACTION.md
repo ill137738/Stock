@@ -148,3 +148,7 @@ Ethereum L1/L2의 검증 가능한 기업결제·스테이블코인 정산 총�
 ## 2026-11-19 Bitcoin 병렬 탐색 — 통합 보고서에만 세부 기록
 
 [통합 보고서 §9](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#9-bitcoin-탈세계화통화신뢰고실질금리-투자-관점-2026-11-19)의 **BTC `PENDING_VALUATION`** 연구 큐: (1) 미 국채 TIPS 실질금리·USD 지수·유동성 대비 BTC 반응을 위기/완화 국면 분리, (2) ETF 4주 누적순유출입/장기보유자 매도·채굴자 비용/2028 반감기, (3) BTC vs 금/TIPS vs ETH vs 산업자동화·전력설비의 투자 메커니즘 구분, (4) 원화 환산·수탁 경로·한국 세금/환율, (5) 스트레스 하락폭과 가격 대비 잠재 수익률 검증. **기존 JBTM R1 단일 최우선·Core 2·가상 포트폴리오 및 `NO_BUY_APPROVAL` 유지**.
+
+## 2026-11-20 Vitalik SoV 재정립 연구 큐 (기존 JBTM R1 P0 불변)
+
+[통합 보고서 §1A](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#1a-이더리움-비용-절감-기술과-eth-투자수익을-분리-2026-11-19-보강) 내 새 분석의 확인 게이트: ETH 비수탁 장기보유/기관 담보 채택량, stablecoin/RWA 결제 중 **ETH를 자체 담보로 보유하는 실수요** vs USDC·L2 대체, ETH 실제 연간 순발행·소각·staked ETH 집중도/희석, EIP-8363 별도 논의/채택 여부, 검열저항·프라이버시·양자내성 기능의 실제 배포, ETF 유출입·실질금리·ETH/BTC 상대강도, 2026-11-20 시총 ~$213B 대비 합리적인 SoV 프리미엄 민감도. **전략적 유망성 ≠ 단기 가격 목표/매수지시**. `PENDING_VALUATION / NO_BUY_APPROVAL`.
