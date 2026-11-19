@@ -52,10 +52,6 @@
 - **다음 연구 과제**: 한국 3개사 + 미국 ETN/GEV를 **동일 기준**으로 DC 직접 매출·고압 변압기 사업·전기 사업 GAAP EBIT/FCF/시총·EPS·추정 2028 생산능력을 비교. 중국산 설치·조달의 실제 사례는 프로젝트 단위로 확인(모든 업체 중국산 제품 배제/채택 임의 단정 금지).
 - **최종 상태**: `POWER_EQUIPMENT_INITIAL_SCREEN_COMPLETE / NO_SINGLE_GLOBAL_BEST / KOREAN_TRANSFORMER_GLOBAL_LEADERS / US_IN_HOUSE_EQUIPMENT_STRONG / CHINA_GRID_RISK_MATERIAL / NO_BUY_APPROVAL`.
 
-## 2026-11-19 추가 대화 보존·후속 정량 비교 (기존 11/17 1차 조사 유지)
+## 2026-11-19 후속 투자판정 위치
 
-- [전체 원문 851–1368행](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt#L851-L1368)에서 미국 LS 현지제조와 한국 전력 3사·미국/중국 경쟁에 관한 후속 질의/과거 PM 답변 추가 확인.
-- [LS ELECTRIC Utah/Texas 공장 별도 경제성](LS_ELECTRIC_US_MANUFACTURING_PROFITABILITY_20261119.md): 2026Q3 연결 영업률과 **미국 현지 공장 이익률은 별개**, Utah $168M/2030 CAPA3x, ROIC/제품별 현지 제조 실제 부가가치 검증.
-- [한국 3사 2026Q3 수치·2027E 선행 PER·순위 변경·EO 14421](KOREA_POWER_EQUIPMENT_TOP3_VALUATION_EO_CHINA_US_20261119.md): HD현대일렉트릭>LS>효성 잠정 사업/밸류에이션 연구 선호, AI DC 내부 직접성은 LS 우선, 이후 **동일 분모 owner FCF 재계산 전 원픽 보류**의 세 구분. 과거 시세·추정 EPS는 최신 재조회 필요.
-- 중국 2024 저압 변압기 수입비중 54%라는 이전 답변은 `PREVIOUS_CHAT`으로 분리, 고압 수입 한국/멕시코 비중과 다른 세부 시장. 미국 안보명령 모든 중국 장비 자동 금지 금지.
-- 당일 기존 결론은 매매/비중 변경 없음, 기존 JBTM·PAHC 투자 Core 2 자동 교체 없음.
+이 문서는 11/17 미국 전력기기 공급망 **기초 근거 문서**로 유지. 후속 대화의 한국 전력기기 3사·LS 미국 공장·기존 일시적 종목 순위/현재 주가 검증 조건은 **[11/19 통합 투자 보고서 §4](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#4-한국-전력기기-3사-수익성은-hd-데이터센터-직접성은-ls)**를 단일 정본으로 삼는다. 세부 대화 원문/중복 보고서는 저장하지 않는다.
