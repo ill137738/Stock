@@ -2,7 +2,7 @@
 
 **Repository**: `ill137738/Stock` | **Owner**: 최종 투자 의사결정자 | **기준일**: 2026-11-15 KST | **Status**: `CORE_2_JBTM_PAHC / RESEARCH_ONLY / NO_BUY_APPROVAL`
 
-**2026-11-19 Owner 필수:** 매 Stock 투자 논의에서 실질적 변경 내용을 GitHub에 커밋하고 확인된 파일/커밋을 사용자에게 보고. 미반영·실패 시 명시. [운영 프로토콜](PM_SESSION_PROTOCOL.md) 참조.
+**최신 분석:** [2026-11-19 통합 투자 리서치 보고서](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md) (두괄식·중복 제거, 기존 자료 요약). 후임 PM은 분석 전에 읽을 것.
 
 ## 최초 열람 순서 (필수)
 1. [CURRENT_STATE](CURRENT_STATE.md) — 확정/가정/보류 및 현재 단일 최우선 연구
@@ -111,23 +111,9 @@
 - [한국 전력기기·미국 AI 데이터센터 공급망 1차 스크리닝](KOREA_POWER_EQUIPMENT_US_AI_DATACENTER_SUPPLY_CHAIN_20261117.md): 고압 변압기 vs 데이터센터 중저압·UPS 공급사 분리, 한국/미국/중국 조달 경쟁, 2026-08 EO 14421의 적용 범위, 국내 3사와 ETN/GEV, 현지화 및 후속 비교 과제. **NO_BUY_APPROVAL**.
 - 이들은 기존 JBTM/PAHC **단백질 Core2 연구 결정을 대체하지 않는 별도 테마**. 사용자 요청 순서상 차기 채팅 분석은 전력기기이며 투자 승인은 없음.
 
-## 2026-11-19 신규 리서치·필수 업데이트 정책
+## 최신 투자 리서치 | 2026-11-19
 
-- [한화 HLV 독자 발사체, SpaceX 발사 접근 해자와 우주 데이터센터 경제성](HANWHA_HLV_SPACEX_ORBITAL_LAUNCH_ECONOMICS_20261119.md): 2028년 자체 메탄 2단 소모성 발사체 목표, 2026-07 공시상 2026–2040년 약 23조원 투자 *계획*, Nuri/재사용 기술실증과 구별. SpaceX FAA FY2025 161/195라는 강점과 **'반드시 SpaceX에 통행료' 미입증**을 분리. 주가/주당 FCF 판정 HOLD.
-- [지정학적 분절·인플레이션·중고금리와 생산성 혁신/디스인플레이션 산업 비교](FRAGMENTATION_INFLATION_PRODUCTIVITY_SECTOR_THESIS_20261119.md): 경제안보 투자 축과 AI·자동화 원가절감 축, 섹터 연구 순위, 반대 시나리오/높은 금리의 제약, LS ELECTRIC·JBTM·SpaceX·한화·VRT·MRVL 등 사례. **매수 순위 아님**.
-- **Owner 필수 규칙(2026-11-19): Stock 투자 논의마다 관련 `docs/handoff` 문서를 동기화하고, 실제 GitHub 커밋·재조회 후 변경사항과 커밋을 사용자에게 보고한다.** 자세한 규칙 및 실패 보고 의무는 [PM_SESSION_PROTOCOL](PM_SESSION_PROTOCOL.md#2026-11-19-owner-상시-필수-운영규칙--투자-논의별-github-갱신-및-커밋-보고) 및 [DECISIONS](DECISIONS.md) 참고. 비변경 턴은 중복 여부를 명시한다. 매수승인 없음.
+**[2026-11-19 통합 리서치 보고서 — 먼저 읽기](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md)**: 경제안보×생산성 투자 프레임, SpaceX·한화 HLV·궤도 데이터센터, 한국 전력기기 3사/미국 생산, 삼성SDI ESS, Tesla Cybercab·중국 로보택시를 **중복 없이 결론→근거→반론→검증사항 순서**로 요약한 단일 최신 보고서.
 
-## 2026-11-19 사용자 제공 전체 대화 1,368줄 복원 — 인수인계 누락 재발방지
-
-**마스터 원문**: [2026-11-19 붙여넣은 전체 투자 대화 (원문 1,368줄)](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt). 사용자 제공 원문을 **줄 단위 그대로 보존**. 이 파일은 이전 AI 주장/일시적 판단을 포함하며 `VERIFIED_PRIMARY`가 아니다. 원본 이미지의 시각적 내용 자체는 텍스트 파일에 포함되지 않으며 링크·제목만 보존된다.
-
-**세부 복원 및 기존 문서 연결:**
-1. [SpaceX Starship 양단 재사용, 2026-11-14 Flight15 회수 주장 검증대기, Google TPU/Suncatcher, BCG 방열·TCO](SPACEX_STARSHIP_REUSE_SUNCATCHER_ORBITAL_AI_FULL_DIALOGUE_20261119.md) — 원문 1–224행.
-2. [한화 HLV·2028년 메탄 발사체 계획, 23조원 2040년까지 투자계획, SpaceX 경쟁과 회계/ROIC](HANWHA_HLV_SPACEX_ORBITAL_LAUNCH_ECONOMICS_20261119.md) — 원문 224–461행 및 기존 11/19 별도 질의.
-3. [삼성SDI EV·ESS·UPS/BBU·미국 LFP와 2026Q3 이전 답변 수치](SAMSUNG_SDI_ESS_AI_DC_US_SUPPLY_CHAIN_20261119.md) — 원문 462–544행.
-4. [중국 저가 차량/LiDAR·Baidu/Pony.ai vs Tesla Cybercab/Waymo, 무인 자율주행 수익·규제](TESLA_CYBERCAB_WAYMO_CHINA_ROBOTAXI_ECONOMICS_20261119.md) — 원문 545–850행.
-5. [LS ELECTRIC 한국·미국 Utah/Texas 생산, 현지 임금/이익률·공장 ROIC](LS_ELECTRIC_US_MANUFACTURING_PROFITABILITY_20261119.md) — 원문 851–977행.
-6. [HD현대일렉트릭 vs LS vs 효성 2026Q3 실적·2027E PER, 순위 변경, 중국/미국 전력망 조달](KOREA_POWER_EQUIPMENT_TOP3_VALUATION_EO_CHINA_US_20261119.md) — 원문 978–1368행.
-7. [지정학 분절·인플레이션·생산성 디스인플레이션](FRAGMENTATION_INFLATION_PRODUCTIVITY_SECTOR_THESIS_20261119.md) — 직전 사용자 대화에서 별도 기록.
-
-**Owner의 새 필수 운영 조건:** 앞으로 **실질 투자 논의를 할 때마다** 답변 당일 `GitHub` 문서 반영+커밋+재조회하고, 매 답변에 저장결과/경로를 보고. 길고 여러 주제가 섞인 대화는 **원문 전체 보관 + 각 주제 분해 + 전수 범위 대조**가 완료돼야 `DOCUMENTATION_COMPLETE`. 자세한 [PM_SESSION_PROTOCOL](PM_SESSION_PROTOCOL.md) 참조. 현재 매매승인은 0건.
+- **원문 대화/과도한 개별 복원 문서는 최신 브랜치에서 제외.** 세부 기존 기업 연구는 2026-11-15~17 원래 주제별 보고서에 유지하고, 새 11/19 논의는 위 통합 보고서만 정본으로 사용.
+- **Owner 현재 지시:** 투자 논의마다 실질적 변경이 있으면 **관련 통합 보고서/원장만 최소 갱신**, 커밋 및 재조회 결과 보고. 중복·불필요한 새 파일·원문 전문 보관 금지. [PM 규칙](PM_SESSION_PROTOCOL.md). `NO_BUY_APPROVAL`.
