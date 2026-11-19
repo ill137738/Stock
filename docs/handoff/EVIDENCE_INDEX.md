@@ -339,3 +339,16 @@ Detailed [AI cooling independent screen](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREE
 | E199 | KAI_SUBSIDIARY | KAI 2025Q3 제노코 연결 편입, 위성통신 X-band 송신기·S-band transponder 등, 2025 연결일 이후 사업 보고 매출 351.13억원(연간 전체 아님) | https://kind.krx.co.kr/external/2026/03/18/002088/20260318009747/11011.htm |
 | E200 | HANWHA_ONEWEB_CONTRACT | 한화시스템 공식 2026Q1 보고서 2023 398억원 OneWeb 기반 군 저궤도 통신 개발 협약, ESA 전자안테나/OBP/ISL R&D, 통신 사업자 등록·국경간 승인; 사업협약 vs 전세계 Starlink 가입자 운영 구분 | https://kind.krx.co.kr/external/2026/05/13/000812/20260513001815/11011.htm |
 | E201 | HANWHA_KAI_DIRECT_SAT_COMPETITION | 2026-10 SAR 군집 입찰 한화시스템 ₩3684.7억원 incl VAT vs KAI ₩4603억원 incl VAT, 한화 공식 2026-10-30 **우선협상 ₩3349.7억원 ex VAT**, 본계약은 미공시; 직접 경쟁·가격압박·인수 독과점우려 | https://samara.kr/disclosure/20261030801362 ; https://www.bidnara.com/bids/v/award/7803838 ; [report](KAI_HANWHA_TAKEOVER_PREMIUM_KLEO_BUSINESS_MODELS_20261116.md) |
+
+## E-20261119-HLV-SPACEX — 신규 논의 출처 및 검증 대기 (2026-11-19 확인)
+
+| ID | 주장/수치 | 원문 URL · 자료일 | 확인 상태 · 금지되는 확대해석 |
+|---|---|---|---|
+| E-HLV-01 | 한화에어로 2028년 첫 발사 **목표**, 자체 2단 소모성 메탄 HLV, 한화시스템 SAR 고객 검토 | [연합뉴스 2026-11-18](https://www.yna.co.kr/amp/view/AKR20261118115200017) | `VERIFIED_REPORTED_COMPANY_PLAN`. 기술 성공·고객계약 체결·2028 실발사 **미확인** |
+| E-HLV-02 | 우주발사체 2026–2040 장기 약 23조원 투자 **계획**(미래사업 28조원 계획 일부) | [2026-07-03 공정공시 재게시, DART 링크 포함](https://www.awakeplus.co.kr/data/view/20260703800719) | `DISCLOSURE_PLAN`. 집행 완료·HLV 단일 CAPEX·매출/이익 확정치 아님. DART 원문 보관 추가 검증 |
+| E-HLV-03 | 재사용 기술시연체 사업은 독자 HLV와 별개 | [한화에어로 공식 뉴스룸](https://www.hanwhaaerospace.com/kor/media/newsroom/view.do?seq=659) | `COMPANY_PLAN`. 2028 실증 목표를 현재 재사용 상용화로 표시 금지 |
+| E-SPACEX-01 | FAA FY2025 허가 발사 195회, SpaceX 161회 = 약 83% | [FAA Aerospace Forecast 2026–2046](https://www.faa.gov/data_research/aviation/aerospace_forecasts/2026_Commercial_Space_2.pdf) | `VERIFIED_PRIMARY`, **미국 FAA 허가 발사 기준**. 전 세계 발사 시장 점유율로 표기 금지 |
+| E-SPACEX-02 | 우주 DC에 SpaceX 운송이 사실상 필수이고 비싼 통행료 가능 | [Owner 가설 기록](HANWHA_HLV_SPACEX_ORBITAL_LAUNCH_ECONOMICS_20261119.md) | `OWNER_HYPOTHESIS / UNVERIFIED`. 우주 DC 실제 화물 수주·독점/계약·모든 비용 우위 입증 전 `HOLD` |
+| E-MACRO-01 | 분절·인플레이션·고금리 수혜산업 + 생산성 디스인플레이션 가설 | [Owner 가설 기록](FRAGMENTATION_INFLATION_PRODUCTIVITY_SECTOR_THESIS_20261119.md) | `OWNER_RESEARCH_DIRECTION`, 확정 시장 전망이 아님. 지난 대화 IMF/WTO/IFR/IEA 수치는 재검증 필요 |
+
+이 항목은 신규 사실의 출처 계보이며 기존 E01–E번호 체계를 변경하거나 선행 문서의 확인 등급을 소급 승격하지 않는다.
