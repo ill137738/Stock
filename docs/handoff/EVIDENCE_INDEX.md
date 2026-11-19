@@ -355,3 +355,17 @@ Detailed [AI cooling independent screen](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREE
 | Tesla/China | Baidu/Pony 원가목표, 2026 Tesla Cybercab 운영·NHTSA/독일 투자 주장 | `PREVIOUS_CHAT / UNVERIFIED`; Tesla SEC·NHTSA·BIS·Waymo·중국 회사 공시 |
 
 신규 1차 자료 확인까지 **일시적인 시세/기업 목표를 실적이나 확정매수가로 재사용 금지**.
+
+## 2026-11-19 신규 1차/공개 출처 검증 — SpaceX 점유율과 Ethereum
+
+| Claim | 자료/지표 분모 | 신뢰 경계/원문 |
+|---|---|---|
+| E202 SpaceX 83.0% | **FAA FY2025 licensed launches**, SpaceX 161 / all 195, **세계점유율 아님** | `VERIFIED_PRIMARY` [FAA 2026 Forecast](https://www.faa.gov/data_research/aviation/aerospace_forecasts/2026_Commercial_Space_2.pdf) |
+| E203 SpaceX global share | 2025 **global orbital launch attempts**, OECD 추정 SpaceX **약 절반** | `VERIFIED_PRIMARY` [OECD 2026, ch.4](https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/09/the-space-economy-at-a-glance-2026_92b228b7/cbf9b240-en.pdf) — FAA와 다른 분모 |
+| E204 SPCX listing | Nasdaq `SPCX` 2026-06-12 상장, IPO Q3 10-Q | `VERIFIED_PRIMARY` [SEC 2026Q3](https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/spcx-20260930.htm) — 현재가/시총은 별도 조회 필요 |
+| E205 Starship recovery | 2026-11-14 **상단부 궤도비행 이후 타워 회수 성공** 보도; 양단 완전재사용·반복 재비행 경제성 미입증 | `REPORTED_NEWS` [Reuters 2026-11-14](https://www.reuters.com/business/aerospace-defense/spacexs-starship-aces-first-return-texas-2026-11-14/) — Flight/Ship 번호 확인한 것으로 확대 금지 |
+| E206 ETH L1+L2 transactions/fees | 2026 1~10월 L1 평균 2.17M tx/day(+54% YoY), median L1 $0.035 vs $0.35 전년; L2 포함 ~25M/day; staked 44.2M ETH 2026-10-31 | `PUBLISHED_RESEARCH` [Ethereum Institutional/Token Terminal 2026-11](https://ethereuminstitutional.org/research/state-of-the-ledger) — 거래건수≠결제액/사용자 |
+| E207 ETH fee burn/issuance | EIP-1559 base fee 소각 + PoS 신규 발행; 순공급 변화는 가변 | `VERIFIED_PROTOCOL` [EIP-1559](https://eips.ethereum.org/EIPS/eip-1559) / [Ethereum Issuance](https://ethereum.org/roadmap/merge/issuance/) |
+| E208 ETH fee revenue pressure | Ethereum H1 2026 gross revenue $127M vs H1 2025 $414M(-69.3%); 네트워크 사용과 ETH 보유자 가치포착 구분 | `THIRD_PARTY_RESEARCH` [21Shares 2026](https://www.21shares.com/en-row/insights/ethereum-h1-2026-earnings-analysis) — 해당 provider 집계 기준/주주수익 아님 |
+
+기존 위 통합자료에서 2026-11-14 Starship 회수 전체를 `UNVERIFIED`로 둔 기록은 **당시 편집 과정의 미검증 표기**이다. E205는 상단부 회수 **보도 사실만** 새로 확인한 것이며, 상세 비행번호/반복 재비행은 보류한다.
