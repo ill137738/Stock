@@ -2,6 +2,8 @@
 
 **Repository**: `ill137738/Stock` | **Owner**: 최종 투자 의사결정자 | **기준일**: 2026-11-15 KST | **Status**: `CORE_2_JBTM_PAHC / RESEARCH_ONLY / NO_BUY_APPROVAL`
 
+**2026-11-19 Owner 필수:** 매 Stock 투자 논의에서 실질적 변경 내용을 GitHub에 커밋하고 확인된 파일/커밋을 사용자에게 보고. 미반영·실패 시 명시. [운영 프로토콜](PM_SESSION_PROTOCOL.md) 참조.
+
 ## 최초 열람 순서 (필수)
 1. [CURRENT_STATE](CURRENT_STATE.md) — 확정/가정/보류 및 현재 단일 최우선 연구
 2. [DECISIONS](DECISIONS.md) — Owner의 명시적 우선순위와 PM 임시 판단 구분
@@ -108,3 +110,9 @@
 - [파마리서치 vs 클래시스·리쥬란 글로벌/미국 진출 가설](PHARMARESEARCH_VS_CLASSYS_REJURAN_US_MARKET_THESIS_20261117.md): Owner의 한국 미용 검증→해외 전파 및 PN 병행시술 가설, PM 파마리서치 상대 선호, 73.1% 제한 표본 오인 방지, 특허·FDA·현금흐름·브랜드 재주문 검증 항목. **NO_BUY_APPROVAL**.
 - [한국 전력기기·미국 AI 데이터센터 공급망 1차 스크리닝](KOREA_POWER_EQUIPMENT_US_AI_DATACENTER_SUPPLY_CHAIN_20261117.md): 고압 변압기 vs 데이터센터 중저압·UPS 공급사 분리, 한국/미국/중국 조달 경쟁, 2026-08 EO 14421의 적용 범위, 국내 3사와 ETN/GEV, 현지화 및 후속 비교 과제. **NO_BUY_APPROVAL**.
 - 이들은 기존 JBTM/PAHC **단백질 Core2 연구 결정을 대체하지 않는 별도 테마**. 사용자 요청 순서상 차기 채팅 분석은 전력기기이며 투자 승인은 없음.
+
+## 2026-11-19 신규 리서치·필수 업데이트 정책
+
+- [한화 HLV 독자 발사체, SpaceX 발사 접근 해자와 우주 데이터센터 경제성](HANWHA_HLV_SPACEX_ORBITAL_LAUNCH_ECONOMICS_20261119.md): 2028년 자체 메탄 2단 소모성 발사체 목표, 2026-07 공시상 2026–2040년 약 23조원 투자 *계획*, Nuri/재사용 기술실증과 구별. SpaceX FAA FY2025 161/195라는 강점과 **'반드시 SpaceX에 통행료' 미입증**을 분리. 주가/주당 FCF 판정 HOLD.
+- [지정학적 분절·인플레이션·중고금리와 생산성 혁신/디스인플레이션 산업 비교](FRAGMENTATION_INFLATION_PRODUCTIVITY_SECTOR_THESIS_20261119.md): 경제안보 투자 축과 AI·자동화 원가절감 축, 섹터 연구 순위, 반대 시나리오/높은 금리의 제약, LS ELECTRIC·JBTM·SpaceX·한화·VRT·MRVL 등 사례. **매수 순위 아님**.
+- **Owner 필수 규칙(2026-11-19): Stock 투자 논의마다 관련 `docs/handoff` 문서를 동기화하고, 실제 GitHub 커밋·재조회 후 변경사항과 커밋을 사용자에게 보고한다.** 자세한 규칙 및 실패 보고 의무는 [PM_SESSION_PROTOCOL](PM_SESSION_PROTOCOL.md#2026-11-19-owner-상시-필수-운영규칙--투자-논의별-github-갱신-및-커밋-보고) 및 [DECISIONS](DECISIONS.md) 참고. 비변경 턴은 중복 여부를 명시한다. 매수승인 없음.
