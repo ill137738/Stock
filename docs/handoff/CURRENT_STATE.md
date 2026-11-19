@@ -230,3 +230,9 @@
 - **SpaceX:** 2025 FAA 허가발사 161/195=83.0%, 세계 전체 발사 점유율 아님(OECD 2025 약 절반). 2026-06-12 Nasdaq **SPCX** 상장 SEC 확인. Starship 2026-11-14 상단부 타워 회수 Reuters 확인, 양단 반복 재비행/외부 우주 DC 고객 수익성 미검증.
 - **Ethereum:** 2026 1–10월 L1 거래 +54% YoY·중위 수수료 약 $0.035, L2 포함 약 25M tx/day(기관용 리서치), 하지만 H1 protocol gross revenue -69.3%(21Shares). 금융 마찰비용 절감 vs ETH 소각/순발행/주가·거시물가를 분리. L2 토큰·스테이블코인 거래량이 ETH 보유자 현금배당을 뜻하지 않음.
 - **연구권한:** Ethereum은 신규 **병렬 탐색 주제**로서 신규 매수승인·JBTM 최우선 순서 변경 없음. 관련 출처는 E202–E208.
+
+## 2026-11-19 PM 가상 포트폴리오 검토(미승인)
+
+- [통합 정본 §8](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md)에서 **가상 장기 성장 포트폴리오**를 도출: JBTM20 / VRT15 / LS ELECTRIC10 / HD현대일렉트릭8 / 한화에어로10 / MRVL10 / PAHC7 / SPCX4 / ETH4 / 현금성12 = 100(%). **PM_MODEL_DRAFT / NOT_OWNER_APPROVED / NO_BUY_APPROVAL**. 매수 지시도 실제 자금배분/거래도 아님.
+- 한국 28%, 미국 상장 56%, ETH 4%, 현금성 12%라는 명목 구성이어도 VRT/LS/HD/MRVL AI CAPEX 상관이 높다. SPCX 현재 시총 약 $1.95T와 Tesla 합병협상 보도는 가격/사업범위 검증 우선; 단순 발사 모노폴리 가치평가 금지. PAHC 낮은 FCF·부채, 한화 납품변동 검증.
+- Owner가 기존 연구 Core2(JBTM·PAHC)의 **심층연구 우선순위**를 변경 승인한 것이 아님. 정식 채택 전 투자금/보유/허용손실 확인 필수.
