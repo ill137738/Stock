@@ -222,3 +222,12 @@
 - [지정학 분절·생산성 산업 프레임](FRAGMENTATION_INFLATION_PRODUCTIVITY_SECTOR_THESIS_20261119.md): Owner가 경제안보/공급망 분절에 따른 비용상승과 AI·로봇/자동화 생산성 향상이라는 양 축 제시. PM 초기 연구 순위는 산업 자동화 → 전력 인프라 → 방산·보안 → 첨단 반도체 → 에너지 안정성 → 사이버보안. **산업 연구 가설·순위이지 확정 거시 전망 또는 매수 순위 아님**. 생산성 향상과 전면 CPI 디플레이션 분리; 고금리 CAPEX/밸류에이션 역풍 포함.
 - **신규 Owner 운영 지시:** 매 투자 대화에서 유의미한 판단·가설·근거·반론을 GitHub 문서에 저장하고, 실제 커밋/재조회 완료 여부를 답변에 보고. 상세 [PM_SESSION_PROTOCOL](PM_SESSION_PROTOCOL.md); 원장 [DECISIONS](DECISIONS.md) S-D25 이하.
 - 기존 `CORE_2_JBTM_PAHC`, 단일 최우선 `STOCK-R1-JBTM-ECONOMICS-MOAT-VALUATION-20261115` 유지. 신규 테마는 병렬 큐. 모든 투자 행위 `NO_BUY_APPROVAL`.
+
+## 2026-11-19 첨부된 과거 투자 대화 전수 복구 (1,368줄)
+
+- [전체 원문 파일](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt) **1~1368행**을 GitHub에 별도 보존. 앞서 기록한 한화 HLV·SpaceX/거시 분석 외 **SpaceX Starship 상단부 회수·우주 AI 칩, 삼성SDI ESS, Tesla Cybercab·중국 로보택시, LS 미국 공장, 국내 전력기기 3사 순위·밸류에이션** 내용이 누락돼 있었음.
+- 주제별 상세 문서: [Starship/Suncatcher](SPACEX_STARSHIP_REUSE_SUNCATCHER_ORBITAL_AI_FULL_DIALOGUE_20261119.md) / [한화 HLV](HANWHA_HLV_SPACEX_ORBITAL_LAUNCH_ECONOMICS_20261119.md) / [삼성SDI](SAMSUNG_SDI_ESS_AI_DC_US_SUPPLY_CHAIN_20261119.md) / [Tesla Cybercab·중국](TESLA_CYBERCAB_WAYMO_CHINA_ROBOTAXI_ECONOMICS_20261119.md) / [LS Utah·Texas](LS_ELECTRIC_US_MANUFACTURING_PROFITABILITY_20261119.md) / [HD·LS·효성 3사](KOREA_POWER_EQUIPMENT_TOP3_VALUATION_EO_CHINA_US_20261119.md) / [거시 산업](FRAGMENTATION_INFLATION_PRODUCTIVITY_SECTOR_THESIS_20261119.md).
+- **원문 이전 답변 ≠ 현재 VERIFIED_PRIMARY.** 특히 Starship Flight15 Ship42 발사탑 회수 2026-11-14, Google TPU 궤도 연산 2026-10-30, Cybercab 생산·유료서비스·독일 신공장 및 NHTSA 진행, 한국 전력기기 2027E PER/가격은 구체 공식 자료 검증 필요. 원문의 과장·오해도 **`PREVIOUS_CHAT / UNKNOWN`으로 보존**하며 공시 확인 전 그대로 확정하지 않음.
+- `POWER_EQUIPMENT` 11/17 이전 대화 PM 선호는 잠정 HD현대일렉트릭>LS ELECTRIC>효성중공업(사업/배수), DC 직접성 LS 최우선, 그리고 뒤이어 **동일 기준 재계산 전 최종 원픽 보류**가 함께 있음. 선호 변화와 장기간 재평가 필요 조건을 모두 보존. **Owner 매수 확정 아님**.
+- `TESLA`, `SAMSUNG_SDI` 신규 연구 기록은 기존 JBTM/PAHC Core 2, VRT/MRVL, 국내 방산, 전력기기 스크리닝의 **별도 병렬 연구 기록**이며 기존 단일 최우선 `STOCK-R1-JBTM-ECONOMICS-MOAT-VALUATION-20261115` 변경 없음.
+- **Owner 재지시(2026-11-19):** 기존 인수인계에 빠진 것을 재발시키지 말 것. 매 투자 대화에서 원문/핵심 내용 전수 확인, 주제별 갱신, README/STATE/ACTION/DECISIONS/EVIDENCE 동기화, 실제 커밋 SHA·read-back 결과 보고. `NO_BUY_APPROVAL`.
