@@ -383,6 +383,19 @@ Detailed [AI cooling independent screen](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREE
 | E213 Korean power/defense | LS 2026Q3 OP ₩233.5B YoY +131.7%; HD Q3 OP ₩284.5B YoY +15%; Hanwha Q3 OP ₩452B YoY −46.2% | `NEWS_REPORTED_COMPANY_RESULTS` https://en.yna.co.kr/view/AEN20261021005200320 ; https://biz.chosun.com/en/en-finance/2026/10/28/DSKKFTVMFNANZJWRXZD7QGINZE/ ; https://en.yna.co.kr/view/AEN20261029009251320 |
 | E214 SPCX price valuation/merger risk | 2026-11-18 market cap ~$1.95T (third party) vs TTM sales ~$32.04B; Reuters 11/12 reports *talks* on Tesla merger, **not announced/closed** | `THIRD_PARTY_MARKET_DATA + NEWS_REPORTED` https://stockanalysis.com/stocks/spcx/market-cap/ ; https://stockanalysis.com/stocks/spcx/statistics/ ; https://www.reuters.com/legal/transactional/spacex-tesla-merger-talks-progress-bloomberg-news-reports-2026-11-12/ |
 
+## E209–E214: 2026-11-19 AI 에이전트의 Ethereum 채택 vs ETH 보유자 가치
+
+| ID | 1차 자료/독립 조사 | 실증 범위·한계 |
+|---|---|---|
+| E209 | [Ethereum 공식 AI agents](https://ethereum.org/ai-agents/) / [ERC-8004 사양](https://eips.ethereum.org/EIPS/eip-8004) | x402/API 결제, ERC-8004 신원·평판·검증 체계; 구현된 다중체인 기능으로 **유료 독립 에이전트 수요·ETH 매입을 증명하지 않음**. ERC 문서는 Draft 표현 |
+| E210 | [ethereum.org 결제 x402](https://ethereum.org/payments/) / [x402 Foundation 멀티체인 지원](https://github.com/x402-foundation/x402/blob/main/docs/core-concepts/network-and-token-support.mdx) | 사용자는 스테이블코인으로 결제하고 **ETH gas 직접 보유 불필요**; Base 등 EVM 외 Solana 등도 지원 |
+| E211 | [Ethereum Institutional 2026-11 State of the Ledger](https://ethereuminstitutional.org/research/state-of-the-ledger) | 2026 1–10월 L1 2.17M tx/day(+54% YoY), L2 23.3M tx/day, 스테이블코인 $25.8T(+61%). **AI 전용 거래량·독립 상인 매출 아님** |
+| E212 | [21Shares H1 2026 issuer research](https://www.21shares.com/en-row/insights/ethereum-h1-2026-earnings-analysis) / [EIP-1559 공식](https://eips.ethereum.org/EIPS/eip-1559) | gross revenue $414M→$127M(-69.3%). 온체인 수수료·소각량과 ETH 홀더 현금배당 구분 |
+| E213 | [Golem/Kairos Nov 2026 treasury/L2 analysis](https://golem.foundation/reports) | Robinhood Chain users ~21,900 ETH fees since July, L1에 보내는 월간 ETH 약 11 (시간 분모 다름); L2 사용량 ≠ L1 같은 금액 귀속. ETH 잔고·gas 수요 검증 |
+| E214 | [Bitquery Sep 2026 x402 감사](https://www.bitquery.io/investigations/x402-ai-agent-payments-audit) / [Ling et al. Jul 2026](https://arxiv.org/abs/2607.12575) | 2026-08 Ethereum 57,632 x402 유사 결제 중 AI 분류 92건; Base 거래 중 가공·내부정산 다수 추정. 계측·분류 한계 있음 |
+
+**투자 결론:** `AI ETH_NETWORK_BULLISH / TOKEN_CAPTURE_UNPROVEN / NO_BUY_APPROVAL`. [통합 정본 §1A](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#1a-이더리움-비용-절감-기술과-eth-투자수익을-분리-2026-11-19-보강).
+
 ## 2026-11-19 Bitcoin 투자 논의 검증 근거 (통합 정본 §9)
 
 | ID | 근거와 날짜 | 수준·사용 한계 |
