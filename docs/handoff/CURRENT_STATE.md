@@ -223,3 +223,10 @@
 - **그 밖의 테마:** 삼성SDI ESS·UPS/BBU 성장과 높은 EV/LFP 경쟁·CAPEX; Cybercab 로보택시 운영 단위원가 vs 중국 제조/Waymo 경쟁. 모두 `RESEARCH_ONLY`.
 - **증거 경계:** 첨부 대화의 개별 날짜/실적 수치·Starship Flight15·Google TPU·Tesla 2026 상용/확장 발표 등은 이번 통합 정리에서 신규 원문 검증하지 않았다. `PREVIOUS_CHAT_DATA / PENDING`으로 명시.
 - **우선순위:** 기존 `CORE_2_JBTM_PAHC` 및 최우선 `STOCK-R1-JBTM-ECONOMICS-MOAT-VALUATION-20261115` 불변. 별도 테마는 병렬 연구. `NO_BUY_APPROVAL`.
+
+## 2026-11-19 SpaceX·Ethereum 추가 검증
+
+- **정본:** [통합 보고서](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md) §1A(Ethereum), §2(SpaceX). 동의어/대화 원문 중복 저장하지 않음.
+- **SpaceX:** 2025 FAA 허가발사 161/195=83.0%, 세계 전체 발사 점유율 아님(OECD 2025 약 절반). 2026-06-12 Nasdaq **SPCX** 상장 SEC 확인. Starship 2026-11-14 상단부 타워 회수 Reuters 확인, 양단 반복 재비행/외부 우주 DC 고객 수익성 미검증.
+- **Ethereum:** 2026 1–10월 L1 거래 +54% YoY·중위 수수료 약 $0.035, L2 포함 약 25M tx/day(기관용 리서치), 하지만 H1 protocol gross revenue -69.3%(21Shares). 금융 마찰비용 절감 vs ETH 소각/순발행/주가·거시물가를 분리. L2 토큰·스테이블코인 거래량이 ETH 보유자 현금배당을 뜻하지 않음.
+- **연구권한:** Ethereum은 신규 **병렬 탐색 주제**로서 신규 매수승인·JBTM 최우선 순서 변경 없음. 관련 출처는 E202–E208.
