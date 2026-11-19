@@ -136,3 +136,7 @@
 - **병렬 P2:** SpaceX Starship **실제 재비행**·Google TPU/우주 DC 원가·BCG 방열과 한화 HLV **누적 CAPEX vs 외부 계약/ROIC** 원자료 확인.
 - **병렬 P3:** 삼성SDI ESS/UPS 직접실적과 미국 CAPEX·FCF; Tesla·Waymo·중국 robotaxi 차량당 운행 순현금/규제/안전 비교.
 - **Owner 문서 기준:** 대화마다 결론/반론/UNKNOWN을 현재 정본에 **최소 수정**, 매번 GitHub commit+read-back 보고. 동일 내용 중복 파일 작성·원문 전문 저장 금지.
+
+## 2026-11-19 후속 병렬 옵션 — 기존 단일 최우선 불변
+
+Ethereum L1/L2의 검증 가능한 기업결제·스테이블코인 정산 총원가(규제/환전/수탁 포함), L1 수수료·소각량·ETH 발행/스테이킹의 토큰가치 귀속, 경쟁체인/은행망 대비 해자, 중금리 위험자산 밸류에이션을 분석할 수 있다. SpaceX는 FAA 83%와 OECD 세계 약 절반의 **서로 다른 발사 분모**를 유지하고 SEC 상장 SPCX의 주당 FCF·Starship 재비행 경제성을 추가 확인한다. 자세한 논거는 [11/19 통합 정본](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md) §1A·§2 및 E202–E208. **현재 P0 JBTM 최우선, Core2/JBTM·PAHC 및 NO_BUY_APPROVAL 불변.**
