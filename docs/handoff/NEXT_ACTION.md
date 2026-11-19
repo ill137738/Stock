@@ -126,3 +126,10 @@
 ## 2026-11-16 EU rearmament Top5 — 성장기업 선별 후속
 - [EUROPE_REARMAMENT_GLOBAL_DEFENSE_TOP5_20261116.md](EUROPE_REARMAMENT_GLOBAL_DEFENSE_TOP5_20261116.md)에 NATO 기본 목표/실제 방산 예산/SAFE 공동조달과 비EU 산지 제한을 구별하고, RHM·Hanwha·Kongsberg·Saab·Leonardo 순서의 **유럽 재무장 기업수혜**와 현 주가 고려 **한화·Leonardo 우선 상세 가치평가**, cashflow 안정형 BAE 후순위 비교를 정리함. 순위는 실제 확정 매매판정 또는 미래 수익률 순위가 아님. 다섯 기업 모두 같은 2026-11-13 종가로 통일. 유럽 방산 긴장 상승 ≠ 유럽 전체 정전·무역붕괴 필연. NO_BUY_APPROVAL.
 - 다음 감사 항목: RHM 생산·인증지연 해결과 inventory→FCF 회수, Hanwha 폴란드 Q4 실납품 및 EU 현지 부품 공장/SAFE 자격, KOG Maritime spin 후 분기 재작성 EPS·NSM/NASAMS 수율, Saab Gripen 구매자 financing·고PER 축소, Leonardo IDV 회계반영 분리/MBDA joint profit/순차입금 감소, BAE 고객 선수금 제외 owner FCF; FY2027–2031 동일 국가 인플레이션과 재무할인율/원화환율을 적용한 GAAP 지배주주 FCF/주식 5년 역산. 신규 자동거래/주문 없음.
+
+## 2026-11-19 병렬 연구 큐 추가 — 기존 단일 최우선 Task ID 유지
+
+- [한화 HLV·SpaceX 발사·우주 DC](HANWHA_HLV_SPACEX_ORBITAL_LAUNCH_ECONOMICS_20261119.md): 한화 HLV 메탄엔진 시험, 궤도투입/탑재 제원, 독자 발사장·2028 일정 리스크, 정부 재사용시연체 별도 검증. 약 23조원 2026–2040 장기 지출의 재원·실제 집행·손익분기 발사 횟수·외부수주와 내부연결 제거·ROIC; SpaceX의 궤도 kg당 비용, 글로벌 경쟁, Starlink/launch FCF·투자비, 우주 DC 고객 signed launch demand. **한화 상업화나 SpaceX 독점 확정 금지**.
+- [탈세계화/고금리/생산성 혁신 연구](FRAGMENTATION_INFLATION_PRODUCTIVITY_SECTOR_THESIS_20261119.md): 산업 자동화·전력기기·방산·반도체·에너지·사이버보안 교차 섹터, 원가절감의 고객 ROI와 공급사 value capture, 고금리 투자 회수기간, 시나리오별 기업 5~10개 동일한 owner FCF/ROIC/밸류에이션, 과거 IMF/IFR/IEA 수치 재조회. **산업 순위와 현재 매수가격 순위 구별**.
+- **Owner 2026-11-19 진행 의무:** Stock 투자 답변마다 문서 커밋 및 read-back 보고. [PM_SESSION_PROTOCOL](PM_SESSION_PROTOCOL.md) 참고. 커밋 실패·미반영 상태를 완료로 위장 금지.
+- 기존 `STOCK-R1-JBTM-ECONOMICS-MOAT-VALUATION-20261115`는 **단일 최우선 활성 업무로 그대로 보존**. Owner의 별도 명령 없는 범위/매수 승인 자동 변경 없음.
