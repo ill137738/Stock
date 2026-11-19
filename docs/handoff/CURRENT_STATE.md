@@ -215,19 +215,11 @@
 - [EUROPE_REARMAMENT_GLOBAL_DEFENSE_TOP5_20261116.md](EUROPE_REARMAMENT_GLOBAL_DEFENSE_TOP5_20261116.md) 완료. 유럽 재무장은 NATO 2025 회의 GDP 5% by2035 = 핵심국방비 최소3.5% + 안보·인프라 최대1.5%, EU SAFE **€150B 대출 프로그램** 및 2026-10-29 2차 €21.3B 출범, 집행액과 최종기업 수주 구분. SAFE 2025/1106 규정 공동조달 제16조 비EU·EEA·UA 역외부품 원가비중 ≤35%, 한화 K9/K239 유럽 직접 정부 양자계약을 일괄 배제하지 않음. 무역 단절·전쟁 증가 불확정, 상호 군사협력은 오히려 확대.
 - 유럽 지상장비·방공 직접수혜 우선 **1 Rheinmetall RHM (2026 9mo 매출€8.4B+38%, 영업익€1.339B+69%, opFCF−€1.698B, backlog형€78B에 framework 포함, 2026 guidance lower €13.2B), 2 Hanwha Aerospace 012450 (지상방산잔고₩35T, 수출74%, Q3 지상 OPM1.7% 및 폴란드 4Q 납품검증), 3 Kongsberg KOG (2026Q3 주문NOK23.3B·잔고NOK174.2B·매출+50%, 2026-04 Maritime 별도 상장), 4 Saab SAAB.B (2026Q3 유기매출+30.6%, 주문SEK65.8B·잔고SEK364B·Gripen Ukraine 주문), 5 Leonardo LDO (9mo 신규 수주€23.3B+27.8%, backlog€60.4B, IDV 인수후 debt€3.33B, FOCF−€68M)**. 주가/시장 예상PER 2026-11-13: RHM €765.5/forward16.8; Hanwha ₩641000/삼성2027E PER13.6; KOG NOK339.6/32.9; Saab SEK622.5/35.2; LDO €50.10/17.9. 서로 다른 2027 컨센서스 분모와 회계상 연결/사업구조 차이, 그대로 순위매김 금지. 현 가격대비 연구는 한화·Leonardo 매력, RHM 직접 노출 강하지만 운전자본 악화, KOG/SAAB 고밸류. BAE 보수형 예비후보 FY2026 FCF~£3B·주문£33B. NO_BUY_APPROVAL, KAI 인수 검토/우주 AI DC 직접 매출과 구분.
 
-## 2026-11-19 최신 논의 추가 — 한화 HLV/SpaceX 및 지정학·생산성 투자 프레임
+## 2026-11-19 최신 통합 연구 (Owner 정리 형식 지시 반영)
 
-- **기록 누락 보정:** 11월 18~19일 채팅의 한화에어로스페이스 독자 HLV·SpaceX 발사 산업 해자·우주 데이터센터 옵션, 11월 19일 지정학적 분절·인플레이션/중고금리·AI 생산성 혁신 산업 스크리닝은 이전 인수인계에서 누락되어 있었다. 두 상세 문서를 신규 생성하여 기록함.
-- [한화 HLV·SpaceX 상세](HANWHA_HLV_SPACEX_ORBITAL_LAUNCH_ECONOMICS_20261119.md): 한화 2026-11-18 발표 2028 최초 발사 **목표**(메탄 2단 **소모성**), 2026-07-03 약 23조원 우주발사체 **장기 투자계획**(2026–2040) 공식 공시의 재게시 자료 확인. 발사 성공/재사용 확보/계약 매출/상업적 수익성 확정 아님. SpaceX FAA FY2025 허가 발사 161/195(83%) 확인, **우주 데이터센터의 SpaceX 필수 통행료·완전 독점은 가설**. SpaceX 발사·Starlink 기반 장기 성장 옵션과 실제 owner FCF/시가총액·유통성 별도 검증.
-- [지정학 분절·생산성 산업 프레임](FRAGMENTATION_INFLATION_PRODUCTIVITY_SECTOR_THESIS_20261119.md): Owner가 경제안보/공급망 분절에 따른 비용상승과 AI·로봇/자동화 생산성 향상이라는 양 축 제시. PM 초기 연구 순위는 산업 자동화 → 전력 인프라 → 방산·보안 → 첨단 반도체 → 에너지 안정성 → 사이버보안. **산업 연구 가설·순위이지 확정 거시 전망 또는 매수 순위 아님**. 생산성 향상과 전면 CPI 디플레이션 분리; 고금리 CAPEX/밸류에이션 역풍 포함.
-- **신규 Owner 운영 지시:** 매 투자 대화에서 유의미한 판단·가설·근거·반론을 GitHub 문서에 저장하고, 실제 커밋/재조회 완료 여부를 답변에 보고. 상세 [PM_SESSION_PROTOCOL](PM_SESSION_PROTOCOL.md); 원장 [DECISIONS](DECISIONS.md) S-D25 이하.
-- 기존 `CORE_2_JBTM_PAHC`, 단일 최우선 `STOCK-R1-JBTM-ECONOMICS-MOAT-VALUATION-20261115` 유지. 신규 테마는 병렬 큐. 모든 투자 행위 `NO_BUY_APPROVAL`.
-
-## 2026-11-19 첨부된 과거 투자 대화 전수 복구 (1,368줄)
-
-- [전체 원문 파일](SOURCE_TRANSCRIPT_20261119_USER_SUPPLIED.txt) **1~1368행**을 GitHub에 별도 보존. 앞서 기록한 한화 HLV·SpaceX/거시 분석 외 **SpaceX Starship 상단부 회수·우주 AI 칩, 삼성SDI ESS, Tesla Cybercab·중국 로보택시, LS 미국 공장, 국내 전력기기 3사 순위·밸류에이션** 내용이 누락돼 있었음.
-- 주제별 상세 문서: [Starship/Suncatcher](SPACEX_STARSHIP_REUSE_SUNCATCHER_ORBITAL_AI_FULL_DIALOGUE_20261119.md) / [한화 HLV](HANWHA_HLV_SPACEX_ORBITAL_LAUNCH_ECONOMICS_20261119.md) / [삼성SDI](SAMSUNG_SDI_ESS_AI_DC_US_SUPPLY_CHAIN_20261119.md) / [Tesla Cybercab·중국](TESLA_CYBERCAB_WAYMO_CHINA_ROBOTAXI_ECONOMICS_20261119.md) / [LS Utah·Texas](LS_ELECTRIC_US_MANUFACTURING_PROFITABILITY_20261119.md) / [HD·LS·효성 3사](KOREA_POWER_EQUIPMENT_TOP3_VALUATION_EO_CHINA_US_20261119.md) / [거시 산업](FRAGMENTATION_INFLATION_PRODUCTIVITY_SECTOR_THESIS_20261119.md).
-- **원문 이전 답변 ≠ 현재 VERIFIED_PRIMARY.** 특히 Starship Flight15 Ship42 발사탑 회수 2026-11-14, Google TPU 궤도 연산 2026-10-30, Cybercab 생산·유료서비스·독일 신공장 및 NHTSA 진행, 한국 전력기기 2027E PER/가격은 구체 공식 자료 검증 필요. 원문의 과장·오해도 **`PREVIOUS_CHAT / UNKNOWN`으로 보존**하며 공시 확인 전 그대로 확정하지 않음.
-- `POWER_EQUIPMENT` 11/17 이전 대화 PM 선호는 잠정 HD현대일렉트릭>LS ELECTRIC>효성중공업(사업/배수), DC 직접성 LS 최우선, 그리고 뒤이어 **동일 기준 재계산 전 최종 원픽 보류**가 함께 있음. 선호 변화와 장기간 재평가 필요 조건을 모두 보존. **Owner 매수 확정 아님**.
-- `TESLA`, `SAMSUNG_SDI` 신규 연구 기록은 기존 JBTM/PAHC Core 2, VRT/MRVL, 국내 방산, 전력기기 스크리닝의 **별도 병렬 연구 기록**이며 기존 단일 최우선 `STOCK-R1-JBTM-ECONOMICS-MOAT-VALUATION-20261115` 변경 없음.
-- **Owner 재지시(2026-11-19):** 기존 인수인계에 빠진 것을 재발시키지 말 것. 매 투자 대화에서 원문/핵심 내용 전수 확인, 주제별 갱신, README/STATE/ACTION/DECISIONS/EVIDENCE 동기화, 실제 커밋 SHA·read-back 결과 보고. `NO_BUY_APPROVAL`.
+- **단일 최신 보고서:** [통합 투자 리서치 — 2026-11-19](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md). 1,368줄 사용자 제공 대화 및 바로 전 거시·한화 질의에서 핵심 논의만 선별해 **중복 제거, 결론/반론/검증/판정** 순으로 통합. 원문 전문 및 복원용 주제 파편은 최신 브랜치에서 제거함.
+- **결론 축:** 경제안보 지출×생산성 자동화(산업 자동화·전력 인프라 1차 연구 우선); SpaceX 발사·Starlink 통합 구조는 해자지만 Starship 양단 반복재비행·우주 AI DC 경제성 별도 검증; 한화 HLV는 초기 소모성·2028 목표/2030년대 옵션이며 방산 cash flow와 구분.
+- **전력기기:** HD현대일렉트릭=초고압/실현 마진, LS ELECTRIC=DC 중저압 직접 성장/Utah·Texas, 효성=Memphis 초고압+건설사업. 과거 사업/예상PER 잠정 선호를 **현재 매수 순위로 승격 금지**. 동일 시점 가격·owner FCF·ROIC 검증 전 최종 원픽 보류.
+- **그 밖의 테마:** 삼성SDI ESS·UPS/BBU 성장과 높은 EV/LFP 경쟁·CAPEX; Cybercab 로보택시 운영 단위원가 vs 중국 제조/Waymo 경쟁. 모두 `RESEARCH_ONLY`.
+- **증거 경계:** 첨부 대화의 개별 날짜/실적 수치·Starship Flight15·Google TPU·Tesla 2026 상용/확장 발표 등은 이번 통합 정리에서 신규 원문 검증하지 않았다. `PREVIOUS_CHAT_DATA / PENDING`으로 명시.
+- **우선순위:** 기존 `CORE_2_JBTM_PAHC` 및 최우선 `STOCK-R1-JBTM-ECONOMICS-MOAT-VALUATION-20261115` 불변. 별도 테마는 병렬 연구. `NO_BUY_APPROVAL`.
