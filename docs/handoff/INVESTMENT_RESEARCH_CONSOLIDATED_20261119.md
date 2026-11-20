@@ -397,4 +397,35 @@
 
 **참고 자료:** [2026-11-20 BTC/ETH 가격/시총](https://chainregistry.net/compare?coins=bitcoin%2Cethereum) · [ETH/BTC 장기 비율](https://cryptokeyhole.com/eth-btc-ratio/) · [Bitwise/기관 ETH 스테이킹 2026-10](https://ethereuminstitutional.org/research/state-of-the-ledger) · [Binance Research L2 수수료 대비 L1 정산](https://www.binance.com/en/research/analysis/half-year-2026-onchain-markets) · [2026-11-09~13 기관 ETF 흐름](https://cryptokeyhole.com/etf-flows/weekly/) · [2026-11-19 ETF 수급](https://informateurcrypto.fr/en/bitcoin-etf-flows). `RESEARCH_ONLY / NO_BUY_APPROVAL`.
 
+## 12. 한국 주식 원픽 / 전체 포트폴리오 5개 압축 원칙 — 2026-11-20
+
+**두괄식 `PM_INVESTMENT_OPINION / NOT_OWNER_APPROVED`:** 현재 기준 **한국 주식 1종목만 선택한다면 HD현대일렉트릭(267260)**. 근거는 (a) 견고한 미국 전력망·AI DC를 동시에 받는 송·배전 설비 수요, (b) 2026Q3 실제 영업이익률 **24.1%** 및 수주잔고 **$8.843B**, (c) 2026-11-20 종가 **₩386,500**에서 같은 시점 S&P Global 선행 PER **13.85x**, TTM PER **16.5x**, EV/FCF **21.11x**, (d) Hanwha보다 단순하고 인도·수주·FCF 분석이 명료함. 그러나 **높은 전력변압기 마진은 사이클 상단일 수 있다.** 이 원픽은 최종 매수 가격/지시가 아니며 기존 Owner 선별 코어 JBTM/PAHC는 그대로.
+
+### 같은 기준 비교 (2026-11-20 15:30 KST 마감·S&P Global 집계, 단위 KRW)
+
+| | **HD현대일렉트릭 267260** | LS ELECTRIC 010120 | 한화에어로 012450 |
+|---|---:|---:|---:|
+| 주가 | **386,500** | 109,700 | 605,000 |
+| 보통주 시총 | **₩13.91T** | ₩16.33T | ₩31.13T |
+| 최근 12개월 PER | **16.50x** | 41.95x | 21.58x |
+| 컨센서스 선행 PER | **13.85x** | 23.72x | 11.98x |
+| P/FCF (TTM) | **22.30x** | N/A | N/A |
+| 집계 ROIC | **고수익, 증권사 2025~28 추정 >50%** | 13.36% | 11.74% |
+| 2026Q3 실제 연결 OPM | **24.1%** | 12.4% | 7.4% |
+| 최근 분기 영업이익 | **₩284.5B (+15.1% YoY)** | ₩233.5B (+131.6% YoY) | ₩452.0B (−46% YoY) |
+| 1순위로 못 뽑은 이유 | **—** | 빠른 성장하지만 PER 프리미엄·AI DC CAPEX 민감 | 전쟁/국방 분산효과 강하나 Q3 방산 납품지연, 지상방산 OPM 1.7%, 연결 EV·리스/부채·FCF 복잡 |
+
+**해석 주의:** (1) 수익/ROIC 분모는 회사별 회계·연결범위와 유형·무형자산 차이가 있으며 HD 55% ROIC는 **증권사 특정 계산/추정**이므로 개별자본/재투자 ROI로 교차 검증 전 절대적 우위 확정 금지. (2) 2026Q3 HD 배전·BESS 성장(+85.8% YoY 일부 프로젝트 매출), Q3 신규수주 **$980M(−19.1% YoY)**; 수주잔고 **$8.843B(+4.2% QoQ)**. 청주 배전캠퍼스 2단계 **₩198B 투자/연간 ₩250B 매출증대 기대**는 회사 계획, 확정 계약·영업이익 증가 아님. (3) 한화 지상방산 수주잔고 약 ₩35T·수출 74%, Q3 배송지연에 따른 일시 실적 약화로 **방산 장기 성장성이 부정된 것은 아님**. 2027 정상화 및 연결 순현금/채무를 직접 검증할 것. (4) LS 2027 배전 수주 매출인식·성장은 상대적으로 크지만 비싼 선행 PER을 정당화하려면 추정 실적과 FCF 지속 실현 필요.
+
+**HD 단일 매수시 가장 중요한 반론:** 2026Q3 북미 고마진 고객 비중은 2Q26 47.5%→Q3 38%로 감소해 실적이 시장 기대치보다 낮았다. 공급 부족 완화/경쟁 증설·가격 정상화로 **OPM 24~26%가 15~20%로 낮아지면 13.85x 선행 PER의 저평가 인상이 사라질 수 있다**. 공장별 북미 order pricing·미 인프라 CAPEX·신규수주 질과 gross margin, 2027~28 owner FCF/자본투입을 정상화하여 보수적 시나리오 적용해야 한다.
+
+### 종목 5개 제한의 설계
+
+- **원칙:** 사용자가 향후 글로벌 전체 포트폴리오를 **5종목 전후**로 축소하려는 의사를 제시. 지금 확정된 목표 비중/매수종목은 **0개**. 자산군별 코인/BTC·현금이 5개 제한에 들어가는지는 아직 결정 안 됨. 다섯 종목은 간편하지만 1개 손실·한 섹터 쇼크의 영향이 커지므로 **비중/매수기준/현금 완충과 산업 중복**을 우선 고려해야 함.
+- **국내 슬롯:** HD현대일렉트릭 **1개**. LS까지 같이 넣으면 변압기·배전·미 AI CAPEX 기초 요인이 중첩돼 5종목 제한의 분산효과 축소. **예외:** 미국 성장주 후보에서 VRT/MRVL 등 AI DC 인프라 노출이 이미 크면, 한국 1종목은 **한화에어로(방산)로 바꾸는 분산 시나리오**가 대안일 수 있지만 기본 원픽 판정은 HD 유지.
+- **해외 나머지 후보 연구:** JBTM(식품/산업 자동화), PAHC(생산동물 약품/사료), VRT(DC 냉각), MRVL(광 DSP/광통신), ANT(Claude AI SW), SPCX(우주 인프라) 등 중 선택. VRT+MRVL+HD를 전부 높게 편입하면 AI CAPEX/고금리 요인이 같은 방향으로 가격에 반영될 수 있다. **5종목 확정 포트폴리오 제시를 위해서는 후보별 현재 가격·주당 FCF·상관/섹터 스트레스 재점검 필수.**
+- **사전 채택 게이트:** 주당 정규화 FCF, ROIC, 시나리오별 5년 EPS·주식수 증가, 진입가 안전마진, 고객 중복·경기/금리 민감도, 세금/환헤지와 각 종목 가중치. PM 기존 가상 포트폴리오와 `CORE2_RESEARCH_ONLY`를 Owner 승인 없이 변경하지 않는다. `KOREA_ONE_PICK_HD_HYUNDAI_ELECTRIC / FIVE_STOCK_PORTFOLIO_NOT_ADOPTED / NO_BUY_APPROVAL`.
+
+**1차 확인:** [HD현대일렉트릭 2026Q3 공식 결과](https://www.hd-hyundaielectric.com/elect/ko/etc/result_news.jsp) · [S&P Global Nov20 HD](https://stockanalysis.com/quote/krx/267260/statistics/) · [S&P Global Nov20 LS](https://stockanalysis.com/quote/krx/010120/statistics/) · [S&P Global Nov20 Hanwha](https://stockanalysis.com/quote/krx/012450/statistics/) · [한화 공식 3Q26 보도](https://m.hanwhaaerospace.com/kor/media/newsroom/view.do?seq=664) · [LS 2026Q3 유안타 분석](https://04.myasset.com/myasset/research/rs_list/rs_view.cmd?SEQ=207909&cd006=&cd007=RE01&cd008=).
+
 *작성 기준: 2026-11-19. 본 문서는 기존 대화의 투자논리 요약·교정 정리이며 모든 이전 수치와 신규 기술 사건의 실시간 팩트체크를 의미하지 않는다.*
