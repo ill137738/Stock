@@ -206,6 +206,26 @@
 
 **2026-11-21 PM 정정 — JBTM 20% 의미:** 해당 최대 비중은 **실제 승률(예: 5년 원금손실 확률/시장초과수익 확률)을 통계적으로 측정하거나 타 종목 대비 우월한 위험조정 기대수익을 입증해서 부여한 값이 아니다.** 당시 `산업 자동화의 구조 성장 가능성 + 설비/서비스 설치기반에 따른 해자 후보 + AI 데이터센터 CAPEX 요인과의 분산`을 반영한 **가상 모델 가중치**다. 단백질 가공 자동화가 성장하더라도 **JBTM 전체 유기성장과 정상화 주당 FCF/ROIC·진입가격**이 이를 주주수익으로 연결한다는 증거는 미완성이다. 2026Q3 총매출 YoY -1%, Protein +6% 및 FY2026 GAAP EPS $4.30–4.60 vs adjusted $8.10–8.40 차이가 대표 검증 과제. **따라서 20%를 승률 1위나 매수 승인으로 표현하지 말 것.** 이후 5종목 압축 시 가중치 재산정 필요; 다른 후보 VRT 등의 5년 성과 확률/현금흐름 비교 전 상위 비중 확정 금지. `JBTM_20_MODEL_WEIGHT_UNDER_REVIEW / WIN_PROBABILITY_NOT_ESTIMATED / NO_BUY_APPROVAL`.
 
+### 2026-11-21 JBTM vs 중국 가공설비 — 가격 프리미엄을 정당화하는 기술 검증
+
+**결론:** `HIGH_END_INTEGRATION_ADVANTAGE_PLAUSIBLE / COMPARABLE_PRICE_PREMIUM_UNKNOWN / INDEPENDENT_YIELD_BENCHMARK_NOT_FOUND`. JBT Marel의 강점은 도계기의 단순 처리량이 아니라 **개체별 인식·정밀 발골 수율, 고속 라인 연동, 추적성, 가동률, 설치 후 서비스**를 결합한 고급 공정이다. 중국 공급사의 **표준 도축·탈모·냉각·단품 설비**와 직접 가격경쟁하면 가격 압박이 크다. 중국의 모든 업체/공정에서 절대적인 기술우위나 더 높은 고객 ROI가 입증된 것은 아니다.
+
+| 공정/검증 항목 | JBT Marel 관측 | 중국 공급사 관측 | 판정 |
+|---|---|---|---|
+| 대량 도계~내장처리~등급/분배 | JBT **15,000 birds/hour** 일체형 자동화·Innova 추적성. **발골은 후속 2~3개 별도 라인** | Qingdao **Raniche 500–12,000 birds/hour**, 도축·탈모·냉각·절단·발골 패키지 제안. 일부 수동 내장처리 작업대 포함 | JBT의 고속 통합/추적 강점; **라인별 범위가 달라 일대일 속도비교 불가** |
+| 가슴살 정밀 발골 | **ATHENA 6,000 breast caps/hour**, 초기 적재 작업자 2명, 크기/중량별 절단·자동 필렛 수확·트리밍 감소 (회사 사양) | 중국 **Sure International** 자동 가슴살 발골기 **3,000 breast caps/hour**, 적재 1–2명 (판매자 사양) | 해당 개별 SKU의 JBT 공칭 처리량 2배. **동일 생닭 원료/수율/가동률 검증 없음** |
+| 고급 고객 재구매 | 중국 **Xinsheng** 2011년부터 JBT 사용, 4개 공장 JBT 설비, 2026년 신규 4개 ACM-NT 절단라인·8개 AMF-i 발골 설비 계획/도입 사례. **Zhonghong Sanrong** 15k bph 설비 프로젝트 | 중국 현지 업체 존재만으로 JBT 고급 수주를 잠식했다고 볼 수 없음 | **반복 채택은 실질 가치가 있다는 간접 증거**; 중국 시장점유율·ROI 자료 아님 |
+| 서비스·가격/비용 | JBT 2025년 총매출 **50% recurring**: 소모 부품/서비스·재구축·장비 리스·일부 소프트웨어 구독 포함. 중국에도 제조시설 | 중국 제품의 공장 출고가·현지 수리비/부품 조달 우위 가설; 업체별 서비스 품질 상이 | JBT 소프트웨어만 50% 매출이라는 뜻 아님. **동일 사양 공개 입찰가 없음** |
+| 실제 상위 경쟁사 | **BAADER/Meyn/Foodmate 등 비중국 경쟁사**도 자동 정밀발골·추적/라인 연동 | **Square Technology/Nantong**은 JBT 공시의 중국 경쟁사지만 냉동·냉각 분야 중심. Raniche/Sure는 가금 도계/발골에 직접적 | 중국만이 유일한 프리미엄 경쟁 위협은 아님 |
+
+**핵심 투자 경제성 — 고가 장비는 '기계 판매가'가 아니라 `(수율 + 인건비 + 고장/폐기 감소 + 상품등급 프리미엄 - 추가 운영/정비비) / 설비 가격차`로 판단.** 수율은 물리적인 고기 무게 1–3g 차이도 누적 생산량이 클 때 중요할 수 있다. **수치 예시는 가정:** 시간당 12,000마리×하루 16시간×연 300일 = 연 5,760만 마리. JBT의 가판매 수율이 **마리당 3g 더 높고** 고기의 기여마진이 **$2.50/kg**이면 연 **$432,000** 추가 기여이익. 그러나 **JBT 실측 수율/중국산 대비 실제 가격·해당 마진**은 모두 확인되지 않았으며 이 계산만으로 ROI/회수기간을 단정할 수 없다. 설비가격의 프리미엄·정비/다운타임 차이, 국가별 전력/임금, 고객의 판매품목별 고기가격을 포함해야 한다.
+
+**사업 우위가 실패하는 조건:** 중국산이 수율·가동률·규제 인증과 원격/현지 서비스까지 접근하면서 현장 총소유비용이 낮아지는 경우; 고급 발골 보급이 느리거나 고객 노동비가 낮아 추가 자동화 투자회수기간이 길어지는 경우. JBT 2025 10-K는 **기본 가공공정의 가격경쟁이 중요하며, 더 낮은 가격에 동등하거나 우수한 제품이 나오면 수요 감소·가격 인하 압력이 발생한다고 명시**한다. 2025년 약 50% recurring은 설치기반의 보호막이나 **중국 장비 대체 불가능성을 보장하지 않는다**.
+
+**투자 판단:** JBTM 기술 해자는 **고급 가금 가공라인에서 '잠정 긍정'**, 중국 중저가 압력과 경쟁사 추격으로 범위가 제한된다. **기술 격차와 실제 더 높은 설치 가격이 몇 배인지 불명**이므로 이전 가상 20% 비중과 '장기 organic 10%' 가정의 근거로 승격하지 않는다. 타사 대비 독립 가공수율·고장률/연속가동·서비스/TCO·가격견적·매출총이익을 동일 공장에서 검증하기 전 `NO_BUY_APPROVAL`. 중복된 기초 연구는 [기존 중국 경쟁 감사](JBTM_CHINA_COMPETITION_GROWTH_RERATING_20261115.md) 참고.
+
+**1차 자료:** [JBT 2025 10-K 경쟁/서비스](https://ir.jbtmarel.com/sec-filings/all-sec-filings/content/0001433660-26-000053/jbt-20251231.htm) · [JBT 15k bph 라인](https://jbtmarel.com/en/products/15-000-bph-processing/) · [ATHENA 6k](https://cms.jbtmarel.com/en/news/athena-breast-deboning/) · [중국 Raniche 12k](https://raniche.en.made-in-china.com/product/YCvEyouUlMkZ/China-Chicken-Slaughter-Line-Chicken-Slaughter-Chicken-Slaughtering-Machine.html) · [중국 Sure 3k 발골](https://tjsure.en.made-in-china.com/product/eGMYNgDOErpF/China-Automatic-Chicken-Breast-Deboning-Machine-for-Sale.html) · [Xinsheng 2026 고객사](https://cms.jbtmarel.com/en/customer-stories/xinsheng-boxing-automates-cut-up-and-deboning/) · [독일 BAADER 자동발골](https://www.baader.com/poultry/process/deboning).
+
 **투자 방향:** 기존 논의(미국 상장 우선·중국 기업 회피·기술혁신 성장주·고PER/PSR 허용)를 반영한 **5–10년 가정의 모델 포트폴리오**. 종목 비중은 현재가에 전액 즉시 매수하라는 권고·실매매 지시가 아니며, **Owner가 비중을 승인했다는 뜻이 아니다**. 별도 생활비/비상자금은 투자예산 밖에 있다고 가정. 국가별 환율·배당·세금, 투자원금·현 보유/현금흐름은 확인되지 않아 실계좌 최적 비중 미확정.
 
 | 종목 | 목표 비중 | 역할 및 결정적 리스크 |
