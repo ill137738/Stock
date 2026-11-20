@@ -431,3 +431,15 @@ Detailed [AI cooling independent screen](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREE
 | E226 | [SEC 424B4 IPO class/founder/option/lockups](https://www.sec.gov/Archives/edgar/data/2130357/000162828026074944/anthropicpbc-424b4.htm) | `SEC_PRIMARY`: Class F founders 50.1% votes, options 1.774B and RSU 1.027B (9/30 기준 IPO 전), 180/365 day lock-up subject to exceptions, FD shares and per-share dilution key. 저평가/투자 승인 아님 |
 
 [통합 보고서 §10](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#10-anthropic-nasdaq-ant--2026-11-19-ipo-claude-제품기업성장-vs-주당-가치)에 압축 분석. `NO_BUY_APPROVAL`.
+
+## E227–E231: BTC vs ETH 위험조정 투자 비교 (2026-11-20)
+
+| ID | 출처 | 관측·한계 |
+|---|---|---|
+| E227 | [ChainRegistry BTC/ETH 2026-11-20 가격/시총](https://chainregistry.net/compare?coins=bitcoin%2Cethereum) | `DYNAMIC_THIRD_PARTY`: BTC 약 $61.8–62.1K 및 $1.24T, ETH 약 $1.74K / $0.21T. 거래소/시점 변동; 실시간 투자시세 보장 안 됨 |
+| E228 | [CryptoKeyhole ETH/BTC ratio](https://cryptokeyhole.com/eth-btc-ratio/) | `THIRD_PARTY`: 2025-11-01 0.03518, 2026-11-19 0.02835(~-19%). 상대 실적 하락이지 향후 하락/반등 예측 아님 |
+| E229 | [Ethereum Institutional State of the Ledger 2026-11](https://ethereuminstitutional.org/research/state-of-the-ledger) | `NETWORK_RESEARCH`: 2026-10 ETH 스테이킹 44.2M / 36.1%, L1 2.17M/L2 23.3M tx/day. Tx 수≠순수요/ETH 보유자 투자수익; 원금보전 보장 없는 검증자 보상 |
+| E230 | [Binance 2026-H1 On-chain Markets](https://www.binance.com/en/research/analysis/half-year-2026-onchain-markets) | `INDUSTRY_RESEARCH`: 2026-06 L2 사용자 수수료 대략 $15M vs Ethereum 정산비용 ~$66K, 서로 다른 네트워크 수익 포착. 단일 달의 사례를 보편적 단위마진으로 외삽 금지 |
+| E231 | [CryptoKeyhole 2026-11-09~13 spot ETF flows](https://cryptokeyhole.com/etf-flows/weekly/) / [2026-11-19 US crypto ETF session](https://informateurcrypto.fr/en/bitcoin-etf-flows) | `DYNAMIC_FLOW`: 첫 주 BTC -$1.08B, ETH -$356M; 11-19 BTC -$582.2M, ETH -$131.2M. 집계상품·시차/완전 보고 차이 있어 같은 주/일 합산 금지 |
+
+**PM 투자 성격의 결론은 출처의 사실이 아닌 독립 평가:** `BTC_RISK_ADJUSTED_PREFERRED / ETH_GROWTH_OPTION / NO_BUY_APPROVAL`. [통합 보고서 §11](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#11-2026-11-20-btc-vs-eth--장기-투자-우선순위-pm-독립-판단).
