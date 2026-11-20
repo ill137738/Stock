@@ -443,3 +443,15 @@ Detailed [AI cooling independent screen](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREE
 | E231 | [CryptoKeyhole 2026-11-09~13 spot ETF flows](https://cryptokeyhole.com/etf-flows/weekly/) / [2026-11-19 US crypto ETF session](https://informateurcrypto.fr/en/bitcoin-etf-flows) | `DYNAMIC_FLOW`: 첫 주 BTC -$1.08B, ETH -$356M; 11-19 BTC -$582.2M, ETH -$131.2M. 집계상품·시차/완전 보고 차이 있어 같은 주/일 합산 금지 |
 
 **PM 투자 성격의 결론은 출처의 사실이 아닌 독립 평가:** `BTC_RISK_ADJUSTED_PREFERRED / ETH_GROWTH_OPTION / NO_BUY_APPROVAL`. [통합 보고서 §11](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#11-2026-11-20-btc-vs-eth--장기-투자-우선순위-pm-독립-판단).
+
+## E232–E236 — 2026-11-20 한국 상장 원픽 3사 동일시점 재비교
+
+| ID | 직접 근거·시점 | 확인/제약 |
+|---|---|---|
+| E232 | [HD현대일렉트릭 2026-10-27 Q3 회사 공지](https://www.hd-hyundaielectric.com/elect/ko/etc/result_news.jsp) | `ISSUER_PRIMARY`: Q3 매출 ₩1.1799T/OP ₩284.5B/OPM24.1%/backlog $8.843B, Q3 신규수주 $980M(-19.1% YoY). 26개월 청주 2단계 ₩198B CAPEX/연매출 ₩250B **회사 기대** |
+| E233 | [S&P 2026-11-20 HD 주가·지표](https://stockanalysis.com/quote/krx/267260/statistics/) | `DATED_DYNAMIC`: ₩386,500 종가, 시총 ₩13.91T, TTM PER16.50/Forward 13.85, EV/FCF21.11/P/FCF22.30. 기간·실적 추정기관 차이 확인 |
+| E234 | [S&P 2026-11-20 LS ELECTRIC 지표](https://stockanalysis.com/quote/krx/010120/statistics/) / [2026-10-22 유안타 보고](https://04.myasset.com/myasset/research/rs_list/rs_view.cmd?SEQ=207909&cd006=&cd007=RE01&cd008=) | `CONSENSUS + BROKER`: 종가 ₩109,700, forward PER23.72/ROIC13.36%; Q3 OPM12.4% + 데이터센터 배전 수주. 대규모 CAPA 증설/주가 프리미엄 반영 |
+| E235 | [S&P 2026-11-20 한화에어 지표](https://stockanalysis.com/quote/krx/012450/statistics/) / [한화 공식 3Q 실적](https://m.hanwhaaerospace.com/kor/media/newsroom/view.do?seq=664) / [연합뉴스 2026-10-29](https://www.yna.co.kr/view/AKR20261029148951527) | `DATED_DYNAMIC + ISSUER`: 종가 ₩605,000, 선행 PER11.98/ROIC11.74%; Q3 매출 6.0943조/OP4520억 YoY -46%, 지상방산 OP217억/수주잔고 ₩35T; 배송/생산 차질 등 원인. **낮은 PER=실제 2027 현금성장 자동보장 아님** |
+| E236 | [2026-10-28 미래에셋 HD Q3 리뷰](https://securities.miraeasset.com/bbs/download/2148066.pdf?attachmentId=2148066) | `BROKER_ASSUMPTION`: 고마진 북미 매출 비중 2Q47.5%→3Q38%, Q3 영업이익 컨센서스 -6.7%. 2027/28 추정 마진·ROIC는 모델 가정이며 지속가능한 이익 확정 아님 |
+
+**PM 선택:** `HD_KOREA_ONE_PICK / LONG_TERM_FIVE_STOCK_SCOPE_NOT_FINALIZED / NO_BUY_APPROVAL`. [통합 보고서 §12](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#12-한국-주식-원픽--전체-포트폴리오-5개-압축-원칙--2026-11-20)에만 상세 추론 보존.
