@@ -152,3 +152,7 @@ Ethereum L1/L2의 검증 가능한 기업결제·스테이블코인 정산 총�
 ## 2026-11-20 Vitalik SoV 재정립 연구 큐 (기존 JBTM R1 P0 불변)
 
 [통합 보고서 §1A](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#1a-이더리움-비용-절감-기술과-eth-투자수익을-분리-2026-11-19-보강) 내 새 분석의 확인 게이트: ETH 비수탁 장기보유/기관 담보 채택량, stablecoin/RWA 결제 중 **ETH를 자체 담보로 보유하는 실수요** vs USDC·L2 대체, ETH 실제 연간 순발행·소각·staked ETH 집중도/희석, EIP-8363 별도 논의/채택 여부, 검열저항·프라이버시·양자내성 기능의 실제 배포, ETF 유출입·실질금리·ETH/BTC 상대강도, 2026-11-20 시총 ~$213B 대비 합리적인 SoV 프리미엄 민감도. **전략적 유망성 ≠ 단기 가격 목표/매수지시**. `PENDING_VALUATION / NO_BUY_APPROVAL`.
+
+## 2026-11-20 Anthropic ANT — 병렬 기술/재무 감사 추가 (기존 P0 JBTM 유지)
+
+[통합 보고서 §10](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#10-anthropic-nasdaq-ant--2026-11-19-ipo-claude-제품기업성장-vs-주당-가치)에 집중한 비중복 신규 큐: (1) Claude Code/agents 실제 유료 기업고객 NRR·추론단가와 재계약률, (2) $81B 매출 run-rate의 실제 2027 인식매출 전환율/2026Q4 growth, (3) CSP short-term $5B Q3 고가 비용과 장기 자체 compute 비용·워크로드별 gross/contribution margin, (4) 2026-09 $320B 계약상 의무 및 별도 $451.2B 개시전 리스·11월 신규 최소지급약정의 **중복 없는 지급기간/모델**, (5) 2026 9M CFO +$6.6B 및 2027–31 owner FCF/리스·자사 컴퓨트 투자 회계차이, (6) FDS $1.7T vs 정상화 FCF·주당 희석/가치/180~365일 락업 매도 가능 물량, (7) OpenAI/Google 대비 가격·품질·사용처별 독자적 switching cost. `ANT_EQUITY_RESEARCH_ONLY / NO_BUY_APPROVAL`. 기존 JBTM R1 단일 우선 연구 ID와 Core2 불변.
