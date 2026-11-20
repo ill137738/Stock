@@ -455,3 +455,16 @@ Detailed [AI cooling independent screen](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREE
 | E236 | [2026-10-28 미래에셋 HD Q3 리뷰](https://securities.miraeasset.com/bbs/download/2148066.pdf?attachmentId=2148066) | `BROKER_ASSUMPTION`: 고마진 북미 매출 비중 2Q47.5%→3Q38%, Q3 영업이익 컨센서스 -6.7%. 2027/28 추정 마진·ROIC는 모델 가정이며 지속가능한 이익 확정 아님 |
 
 **PM 선택:** `HD_KOREA_ONE_PICK / LONG_TERM_FIVE_STOCK_SCOPE_NOT_FINALIZED / NO_BUY_APPROVAL`. [통합 보고서 §12](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#12-한국-주식-원픽--전체-포트폴리오-5개-압축-원칙--2026-11-20)에만 상세 추론 보존.
+
+## E237–E242 — 2026-11-21 JBTM vs 중국 기계 공칭 성능·실사용 검증
+
+| ID | 직접 자료 | 판정/정확한 비교 범위 |
+|---|---|---|
+| E237 | [JBT 2025 SEC 10-K](https://ir.jbtmarel.com/sec-filings/all-sec-filings/content/0001433660-26-000053/jbt-20251231.htm) | **1차 공시**: 표준 1차 가공 가격경쟁, Square/Nantong 냉동 포함 경쟁사, 새 기술/저가 경쟁의 가격인하 위험, 2025 recurring revenue **50%**(부품·서비스·재구축·리스·일부 구독) |
+| E238 | [JBT 통합 도계 15,000 birds/h](https://jbtmarel.com/en/products/15-000-bph-processing/) / [ATHENA 6,000 breast caps/h](https://cms.jbtmarel.com/en/news/athena-breast-deboning/) | `ISSUER_PRODUCT_SPEC`: **15k는 도계~분배, 절단/발골은 별도 후속라인**, 6k는 ATHENA 개별 자동 발골 사양. 동일 공장 성과/수율 검증 아님 |
+| E239 | [Raniche 500–12,000 birds/h](https://raniche.en.made-in-china.com/product/YCvEyouUlMkZ/China-Chicken-Slaughter-Line-Chicken-Slaughter-Chicken-Slaughtering-Machine.html) | `SELLER_LISTING`: 수동 내장처리 작업대·자동 설비 병행. 실제 납품현장 풀자동 속도·인증·가격 미확인 |
+| E240 | [Sure International 3,000 breast caps/h](https://tjsure.en.made-in-china.com/product/eGMYNgDOErpF/China-Automatic-Chicken-Breast-Deboning-Machine-for-Sale.html) | `SELLER_LISTING`: 제품 3k/h/적재 1–2명, 제3자 연속운전·수율/가격 시험 없음. JBT ATHENA 6k와 직접 공장당 성능 2배 단정 금지 |
+| E241 | [Xinsheng 2026 JBT Marel 반복 설치](https://cms.jbtmarel.com/en/customer-stories/xinsheng-boxing-automates-cut-up-and-deboning/) | `ISSUER_CUSTOMER_STORY`: 중국 대형 고객 2011~4개 공장 기존 설치, 2026 절단 4·AMF-i 발골 8 추가. 중국 업체 대비 ROI 직접 비교 아님 |
+| E242 | [BAADER 유럽 경쟁업체](https://www.baader.com/poultry/process/deboning) | `COMPETITOR_PRODUCT`: 완전/부분 자동 발골·개체별 측정·절단경로 최적화 제공, JBT 기술의 비독점 반증 |
+
+**최우선 미확인:** 동일입찰 계약단가/설치비/부품·서비스, 독립 수율·가동률·동일제품 판매등급, 같은 공장 노동·에너지비용, 5–10년 TCO. `PREMIUM_PRICE_AND_CUSTOMER_ROI_HOLD / NO_BUY_APPROVAL`. [통합 보고서 §8](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#8-pm-가상-장기-성장-포트폴리오--owner-검토-전-예시-2026-11-19).
