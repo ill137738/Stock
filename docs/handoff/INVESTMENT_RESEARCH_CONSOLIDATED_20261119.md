@@ -426,6 +426,14 @@
 - **해외 나머지 후보 연구:** JBTM(식품/산업 자동화), PAHC(생산동물 약품/사료), VRT(DC 냉각), MRVL(광 DSP/광통신), ANT(Claude AI SW), SPCX(우주 인프라) 등 중 선택. VRT+MRVL+HD를 전부 높게 편입하면 AI CAPEX/고금리 요인이 같은 방향으로 가격에 반영될 수 있다. **5종목 확정 포트폴리오 제시를 위해서는 후보별 현재 가격·주당 FCF·상관/섹터 스트레스 재점검 필수.**
 - **사전 채택 게이트:** 주당 정규화 FCF, ROIC, 시나리오별 5년 EPS·주식수 증가, 진입가 안전마진, 고객 중복·경기/금리 민감도, 세금/환헤지와 각 종목 가중치. PM 기존 가상 포트폴리오와 `CORE2_RESEARCH_ONLY`를 Owner 승인 없이 변경하지 않는다. `KOREA_ONE_PICK_HD_HYUNDAI_ELECTRIC / FIVE_STOCK_PORTFOLIO_NOT_ADOPTED / NO_BUY_APPROVAL`.
 
+### 2026-11-20 후속: 주식 5종목과 암호자산 분산을 별도로 설계
+
+**결론:** Owner는 **향후 암호자산에도 분산**할 계획이라고 명확히 했다. 그러나 **분산의 실행 시점, BTC/ETH 목표비중, 주식 5종목 제한과의 포함 관계, 전체 자산군 비중은 아직 미정**이다. 기존 PM의 암호자산 내부 `BTC 70 / ETH 30`은 가정 예시이며 **실제 보유비중·조정 목표·리밸런싱 지시가 아님**. 공개 GitHub에는 개인의 현재 코인 보유현황, 구체 포지션·계좌 정보·투자금액을 기록하지 않는다.
+
+**구성 설계 원칙:** ① 전체 금융자산 차원에서 주식·암호자산·현금성 자산의 **위험 예산**을 먼저 정의, ② 주식 부문은 5개 내외 집중투자와 산업/AI CAPEX 중복 노출을 통제, ③ 암호자산 부문은 BTC·ETH를 서로 다른 논리로 평가하고 **두 자산의 공통 위험(유동성, 위험선호, 규제/수탁)**을 중복계산, ④ 목표비중 설정 이전에 변동성·큰 손실 시나리오·세금·재조정 규칙 검토. **코인 두 개 보유=전체 자산 위험 분산의 완료**가 아님.
+
+**미정·Owner 판단 필요:** (A) '현재 집중'의 기준이 전체 금융자산인지 암호자산 하위 범주인지, (B) 5개 제한이 주식에만 적용되는지 투자자산 전체인지, (C) 투자기간·허용 최대 손실·현금 필요시점. 확인 전 매수·매도·ETH→BTC 전환 비중을 문서화하거나 권유하지 않는다. `FUTURE_CRYPTO_DIVERSIFICATION_INTENT / TARGET_UNSET / NO_BUY_APPROVAL`.
+
 **1차 확인:** [HD현대일렉트릭 2026Q3 공식 결과](https://www.hd-hyundaielectric.com/elect/ko/etc/result_news.jsp) · [S&P Global Nov20 HD](https://stockanalysis.com/quote/krx/267260/statistics/) · [S&P Global Nov20 LS](https://stockanalysis.com/quote/krx/010120/statistics/) · [S&P Global Nov20 Hanwha](https://stockanalysis.com/quote/krx/012450/statistics/) · [한화 공식 3Q26 보도](https://m.hanwhaaerospace.com/kor/media/newsroom/view.do?seq=664) · [LS 2026Q3 유안타 분석](https://04.myasset.com/myasset/research/rs_list/rs_view.cmd?SEQ=207909&cd006=&cd007=RE01&cd008=).
 
 *작성 기준: 2026-11-19. 본 문서는 기존 대화의 투자논리 요약·교정 정리이며 모든 이전 수치와 신규 기술 사건의 실시간 팩트체크를 의미하지 않는다.*
