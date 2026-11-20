@@ -418,3 +418,16 @@ Detailed [AI cooling independent screen](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREE
 | E220 | [The Block 2026-11-08 발언 해석](https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022) / [Bitfinex 2026-11-13 장단점](https://blog.bitfinex.com/industry-news/can-eth-become-a-store-of-value/) | `SECONDARY_ANALYSIS`: fee burn이 보장된 바닥가치가 아닌 이유, 장기 ETH 담보·중립성 가치, BTC와 공급/거버넌스 비대칭 및 ETH 희석 반론 |
 
 **판정:** `ETH_SOV_THESIS_UPGRADED / PRICE_PREDICTION_UNDETERMINED / NO_BUY_APPROVAL`. 상세 중복 설명 없이 [통합 보고서 §1A](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#1a-이더리움-비용-절감-기술과-eth-투자수익을-분리-2026-11-19-보강) 참조.
+
+## E221–E226 — 2026-11-19 Anthropic (ANT) IPO 1차 공시·재무·비용·희석 (2026-11-20 확인)
+
+| ID | 원문 자료 | 검증 구분/핵심 |
+|---|---|---|
+| E221 | [Anthropic 가격 공지 2026-11-18](https://www.anthropic.com/news/anthropic-prices-initial-public-offering) | `ISSUER_PRIMARY`: IPO $83, 9.8억 A주, Nasdaq ANT 2026-11-19 거래개시, 종가와 혼동 금지 |
+| E222 | [Reuters 2026-11-19 첫날 시세](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) | `DATED_MARKET`: $111.50 시초/최종 $97.17, FD 약 $2T은 첫 장중/시초 시점, 종가 약 $1.7T FD/$1.3T 보통주 추정. 2026-11-20 현시세가 아님 |
+| E223 | [SEC 2026-11-18 final 424B4, 결과 및 영업이익표](https://www.sec.gov/Archives/edgar/data/2130357/000162828026074944/anthropicpbc-424b4.htm) | `SEC_PRIMARY`: FY2025 rev $4.585B, 9M26 rev $33.242B, Q3 $16.956B, Q3 GAAP operating −$567M vs adjusted +$2.463B, 9M GAAP net −$104.039B includes noncash fair-value change $94.324B |
+| E224 | [SEC 424B4 고객 및 매출 run-rate](https://www.sec.gov/Archives/edgar/data/2130357/000162828026074944/anthropicpbc-424b4.htm) | `ISSUER_METRIC`: 2026-10-31 annualized run-rate ~$81B, 2026-09-30 customer ≥$100K TTM 11,900+ vs 2025-09 950+, usage-based 2026 9mo 79%. Run-rate ≠ GAAP FY actual |
+| E225 | [SEC 424B4 CFO/compute future obligations](https://www.sec.gov/Archives/edgar/data/2130357/000162828026074944/anthropicpbc-424b4.htm) | `SEC_PRIMARY`: 9M26 CFO +$6.569B, Q3 compute $9.9B / $5B expensive short-term supply, $319.993B contractual obligations, separate uncommenced lease $451.2B, post 9/30 future minimum $105.7B. **단순 중복합계 금지 / 정상화 FCF 별도 연구 필요** |
+| E226 | [SEC 424B4 IPO class/founder/option/lockups](https://www.sec.gov/Archives/edgar/data/2130357/000162828026074944/anthropicpbc-424b4.htm) | `SEC_PRIMARY`: Class F founders 50.1% votes, options 1.774B and RSU 1.027B (9/30 기준 IPO 전), 180/365 day lock-up subject to exceptions, FD shares and per-share dilution key. 저평가/투자 승인 아님 |
+
+[통합 보고서 §10](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#10-anthropic-nasdaq-ant--2026-11-19-ipo-claude-제품기업성장-vs-주당-가치)에 압축 분석. `NO_BUY_APPROVAL`.
