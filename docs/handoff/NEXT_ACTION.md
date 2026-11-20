@@ -156,3 +156,7 @@ Ethereum L1/L2의 검증 가능한 기업결제·스테이블코인 정산 총�
 ## 2026-11-20 Anthropic ANT — 병렬 기술/재무 감사 추가 (기존 P0 JBTM 유지)
 
 [통합 보고서 §10](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#10-anthropic-nasdaq-ant--2026-11-19-ipo-claude-제품기업성장-vs-주당-가치)에 집중한 비중복 신규 큐: (1) Claude Code/agents 실제 유료 기업고객 NRR·추론단가와 재계약률, (2) $81B 매출 run-rate의 실제 2027 인식매출 전환율/2026Q4 growth, (3) CSP short-term $5B Q3 고가 비용과 장기 자체 compute 비용·워크로드별 gross/contribution margin, (4) 2026-09 $320B 계약상 의무 및 별도 $451.2B 개시전 리스·11월 신규 최소지급약정의 **중복 없는 지급기간/모델**, (5) 2026 9M CFO +$6.6B 및 2027–31 owner FCF/리스·자사 컴퓨트 투자 회계차이, (6) FDS $1.7T vs 정상화 FCF·주당 희석/가치/180~365일 락업 매도 가능 물량, (7) OpenAI/Google 대비 가격·품질·사용처별 독자적 switching cost. `ANT_EQUITY_RESEARCH_ONLY / NO_BUY_APPROVAL`. 기존 JBTM R1 단일 우선 연구 ID와 Core2 불변.
+
+## 2026-11-20 BTC vs ETH 병렬 의사결정 게이트 — 현재 투자지시 없음
+
+[통합 보고서 §11](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#11-2026-11-20-btc-vs-eth--장기-투자-우선순위-pm-독립-판단)에서 BTC 단일선택 우선·ETH 성장옵션 판단. 이후 추가 연구가 필요할 경우 중복되는 ETH/비트코인 설명 대신 **(A)** ETF·장기보유자/기관별 순수요, **(B)** ETH L1/L2 사용자 매출/정산료·소각·순발행/실제 담보 보유수요, **(C)** ETH/BTC 상대수익과 실질금리/달러·유동성 공통 스트레스, **(D)** BTC 보안예산·수요 가치저장 신뢰, **(E)** 실제 암호자산 편입 여부와 총 포트폴리오 위험한도/Owner 승인 검증. 가상 BTC70/ETH30은 **암호자산 내부 비중 시나리오**일 뿐 기존 가상 포트폴리오, JBTM R1·Core2·`NO_BUY_APPROVAL` 변경 없음.
