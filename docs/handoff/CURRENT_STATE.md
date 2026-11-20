@@ -256,3 +256,9 @@
 - **강점:** 2026 Q3 매출 **$16.956B**(전년 1.382B), 2026 9개월 **$33.242B**, 2026-10 run-rate 매출 **$81B**(연 실제 매출 아님); TTM 매출 ≥$100K 기업 고객 **11,900+**(2025-09 950+). Claude Code/agents의 제품 효용·기업 도입/전환비용은 연구 가치 높음.
 - **수익성/위험:** Q3 compute+infra **$9.9B**, GAAP OPM −3% / adjusted OPM 15%; 2026 9mo CFO **+$6.569B** vs 장기 compute/lease 미래지급 의무로 정상화 FCF 미확정. GAAP 9mo net loss $104.039B 중 전환사채 등 비현금 재평가 $94.324B, '현금 104B 소진'이라고 단정 금지.
 - **밸류:** IPO 첫날 종가 추정 보통주 시총 약 **$1.3T**, fully diluted **~$1.7T**; 2026-10 연환산 $81B 대비 FD P/run-rate-sales 약 **21배**, 향후 초고성장/매우 높은 FCF 요구. Founder Class F 50.1% 의결권, IPO 옵션/RSU 희석, 180/365일 락업, compute 장기지급 계약 주의. **매수 승인 없음 / 가상 포트폴리오·JBTM/PAHC Core2 변경 없음.**
+
+## 2026-11-20 BTC vs ETH 비교 — PM 장기 위험조정 선호 (Owner 미승인)
+
+- **결론:** [통합 투자 보고서 §11](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#11-2026-11-20-btc-vs-eth--장기-투자-우선순위-pm-독립-판단)에서는 **BTC를 단일 암호자산/위험조정 장기 보유의 우선순위**로 평가. ETH는 AI/RWA/스테이블코인/담보 금융의 성장 선택권이 높지만 **생태계 채택→ETH 장기 보유·소각**의 연결은 미완성. 비트코인 고정상한/단순성 vs ETH 발행 가변/스테이킹·검증자 위험.
+- **2026-11-20 스냅샷:** BTC ~$61.8–62.1K, ETH ~$1.74–1.76K, 시총 BTC 약 $1.24T / ETH 약 $0.21T, ETH/BTC 약 0.028. 2025-11→2026-11 ETH/BTC 약 -19% 상대가격 하락. 최근 ETF BTC·ETH 모두 순유출이며 고실질금리/강달러 위험 공유.
+- **참고 비중은 암호자산 내부 가상 BTC 70/ETH 30** (최적화 결과나 Owner 지시가 아님). 기존 전 자산 기준 PM 가상 포트폴리오 ETH 4% 및 Core 2(JBTM/PAHC)·JBTM 단일 최우선, 실제 거래/매수승인 **변경 0**. `PM_CRYPTO_BTC_PREFERRED / ETH_UPSIDE_OPTION / NO_BUY_APPROVAL`.
