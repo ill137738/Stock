@@ -212,7 +212,7 @@
 
 | 공정/검증 항목 | JBT Marel 관측 | 중국 공급사 관측 | 판정 |
 |---|---|---|---|
-| 대량 도계~내장처리~등급/분배 | JBT **15,000 birds/hour** 일체형 자동화·Innova 추적성. **발골은 후속 2~3개 별도 라인** | Qingdao **Raniche 500–12,000 birds/hour**, 도축·탈모·냉각·절단·발골 패키지 제안. 일부 수동 내장처리 작업대 포함 | JBT의 고속 통합/추적 강점; **라인별 범위가 달라 일대일 속도비교 불가** |
+| 대량 도계~내장처리~등급/분배 | JBT **15,000 birds/hour** 일체형 자동화·Innova 추적성. **발골은 후속 2~3개 별도 라인** | Qingdao **Raniche 500–12,000 birds/hour**(기존 카탈로그) / 최신 별도 판매페이지 15,000+ bph 주장, 도축·탈모·냉각·절단·발골 패키지 제안. 일부 수동 내장처리 작업대 포함 | JBT의 고속 통합/추적 강점; **라인별 범위가 달라 일대일 속도비교 불가** |
 | 가슴살 정밀 발골 | **ATHENA 6,000 breast caps/hour**, 초기 적재 작업자 2명, 크기/중량별 절단·자동 필렛 수확·트리밍 감소 (회사 사양) | 중국 **Sure International** 자동 가슴살 발골기 **3,000 breast caps/hour**, 적재 1–2명 (판매자 사양) | 해당 개별 SKU의 JBT 공칭 처리량 2배. **동일 생닭 원료/수율/가동률 검증 없음** |
 | 고급 고객 재구매 | 중국 **Xinsheng** 2011년부터 JBT 사용, 4개 공장 JBT 설비, 2026년 신규 4개 ACM-NT 절단라인·8개 AMF-i 발골 설비 계획/도입 사례. **Zhonghong Sanrong** 15k bph 설비 프로젝트 | 중국 현지 업체 존재만으로 JBT 고급 수주를 잠식했다고 볼 수 없음 | **반복 채택은 실질 가치가 있다는 간접 증거**; 중국 시장점유율·ROI 자료 아님 |
 | 서비스·가격/비용 | JBT 2025년 총매출 **50% recurring**: 소모 부품/서비스·재구축·장비 리스·일부 소프트웨어 구독 포함. 중국에도 제조시설 | 중국 제품의 공장 출고가·현지 수리비/부품 조달 우위 가설; 업체별 서비스 품질 상이 | JBT 소프트웨어만 50% 매출이라는 뜻 아님. **동일 사양 공개 입찰가 없음** |
@@ -231,6 +231,37 @@
 **투자 판단:** JBTM 기술 해자는 **고급 가금 가공라인에서 '잠정 긍정'**, 중국 중저가 압력과 경쟁사 추격으로 범위가 제한된다. **기술 격차와 실제 더 높은 설치 가격이 몇 배인지 불명**이므로 이전 가상 20% 비중과 '장기 organic 10%' 가정의 근거로 승격하지 않는다. 타사 대비 독립 가공수율·고장률/연속가동·서비스/TCO·가격견적·매출총이익을 동일 공장에서 검증하기 전 `NO_BUY_APPROVAL`. 중복된 기초 연구는 [기존 중국 경쟁 감사](JBTM_CHINA_COMPETITION_GROWTH_RERATING_20261115.md) 참고.
 
 **1차 자료:** [JBT 2025 10-K 경쟁/서비스](https://ir.jbtmarel.com/sec-filings/all-sec-filings/content/0001433660-26-000053/jbt-20251231.htm) · [JBT 15k bph 라인](https://jbtmarel.com/en/products/15-000-bph-processing/) · [ATHENA 6k](https://cms.jbtmarel.com/en/news/athena-breast-deboning/) · [중국 Raniche 12k](https://raniche.en.made-in-china.com/product/YCvEyouUlMkZ/China-Chicken-Slaughter-Line-Chicken-Slaughter-Chicken-Slaughtering-Machine.html) · [중국 Sure 3k 발골](https://tjsure.en.made-in-china.com/product/eGMYNgDOErpF/China-Automatic-Chicken-Breast-Deboning-Machine-for-Sale.html) · [Xinsheng 2026 고객사](https://cms.jbtmarel.com/en/customer-stories/xinsheng-boxing-automates-cut-up-and-deboning/) · [독일 BAADER 자동발골](https://www.baader.com/poultry/process/deboning).
+
+
+### 2026-11-21 공장 단위 통합 해자와 중국 경쟁력 재감사
+
+**핵심 결론:** JBT Marel의 경쟁우위는 단품 기계보다 **(i) 고속 정밀가공 장비, (ii) 장비 간 라인 통합·생산계획·추적, (iii) 공장 MES/ERP 연동, (iv) 다년 유지보수/확장/운전 노하우**에 있다. 회사가 실제로 이 네 층위의 장비·시스템·구축·서비스를 제공하며 중국 대형 고객 **Xinsheng, Chaohe, Zhonghong Sanrong**의 설치/재계약 사례로 고급 중국 수요에 입증된 입지가 있다. 그러나 **중국 현지 공급사와의 동일입찰 승률, 가격 프리미엄, 중국 전체시장 점유율/1위 여부는 공개 독립자료로 입증되지 않았다.** '중국에서 이긴 사례가 존재'와 '중국 전체 시장 지배'를 구분한다.
+
+**장비 + 시스템 구조(공식 2026 Investor Day pp.69–72):**
+- **Machine**: 센서·개별 장비 상태, OEE·원격지원·예방정비. **Process / MES**: 라인 간 작업지시, 원료 크기별 절단, 부위별 배분·계량, 수율/병목/폐기·추적. **Factory / Enterprise**: 공장 간 생산 KPI 비교·계획·보고 및 고객 ERP 연결. 제품 패키지는 **AXIN**(기존 Innova 기능/브랜딩 포함).
+- **실제 고객 구현:** 2026 중국 Xinsheng 4개 공장에 도입된 JBT 통합 설비. Boxing 공장 2026 업그레이드 계획은 자동 중량측정 → **PDS** 분류 SW → 4개 **ACM-NT** 절단 → 8개 **AMF-i** 가슴살 발골; AMF-i는 원료 형태 측정에 따라 모듈 조절. 이 '장비-센서-소프트웨어-라인-교육' 통합이 해자의 구체적인 메커니즘.
+- **시스템이 쌓는 해자:** 공급사 하나가 병목·인수시험·A/S를 일괄 책임, 고객이 기계 구성·작업자 교육·원재료/포장 상품믹스·MES/ERP를 맞춘 후 **교체검증 비용/중단 위험**이 높아짐. 고속 공장의 1% 수율/가동률 개선 가치는 구매비 절감보다 클 수 있음(정량적 경쟁사 격차는 측정 필요). 기존 고객의 단계별 증설과 소모품/서비스 재구매로 관계 강화. 2025 JBT 전사 recurring revenue 약 50%는 **서비스·부품 포함**, 소프트웨어 독점 매출 비중 아님.
+- **반대 근거:** AXIN은 **타 OEM 장비 통합**도 가능하여 폐쇄형 표준의 독점이 아님. JBT/Marel 디지털 플랫폼 완전 통합은 2026년 말까지 추진 계획(완료 검증 안 됨). 중국 업체도 통합 도축·절단라인과 스마트 제어·추적성을 구현. JBT가 고객 생산 데이터를 독점 소유하거나 AI 기반 데이터 네트워크 효과를 누린다는 근거는 부족. 시스템 통합의 범위만으로 독점적 가격결정력 보증 불가.
+
+**중국 내 입지 — 실제 확인한 3개 고객사(전부 제조사 공개자료, 독립 입찰자료 아님):**
+| 중국 대형 고객 | 관측된 설치·계약 | 유의점 |
+|---|---|---|
+| **Xinsheng 新盛 (Shandong)** | 2011 Boxing 2×12k bph → 2016·2018 3개 추가 공장 13.5k bph급 장비/분급·절단·발골 통합 → 2026 Boxing 4 ACM-NT + 8 AMF-i 업그레이드 **계획/도입 발표** | 4개 공장·15년 반복 채택은 **현지에서의 실질 경쟁력**. 2026 신규 설비 전부 최종 검수/가동 증명과 중국산 견적 비교는 별개 |
+| **Chaohe 超和 (Shandong)** | 2020 12.5k bph 통합라인 공급; 2022 **2×15k bph** 라인 추가 **계약**(자동 내장처리·계량·4 ACM·8 AMF-i·넓적다리 자동 발골 포함) | 2023 게시 고객사 사례의 2022 Q4 설치 예정은 **완공 확인 아님**; 초고속 통합 라인 중국 계약 확보의 강한 간접 근거 |
+| **Zhonghong Sanrong 中红三融 (Hebei)** | 2018 Chengde/Qinglong 설치 → 2024 Tangshan **12.5k bph 자동 내장처리 설비 설치**, 기존 경험 기반 추가 채택 | 고객은 다양한 닭 중량 대응·위생·수율·가동률·인건비를 구매 이유로 제시. **중국 경쟁제품과의 가격 차이/총원가 공개 안 됨** |
+
+**중국 내 경쟁사 과소평가 금지:**
+- **Qingdao Jianhua 青岛建华**: 2000년 설립, 가금/소/돼지/양 도축·절단 자동생산라인·현지 설치/A/S 보유. 2026 중국 국가표준 **GB/T 27519-2026** 기초작성 참여기관에 명시된 국내 기업. 국산 공급업체가 단순 기계 중개상이 아니라 엔지니어링·제품과 제도 역량을 보유했다는 직접 근거. 2026 조달 낙찰 공개기록도 있으나 돼지/육류 공정 등 **JBT 정밀 가금발골 동일공정 경쟁 입찰을 입증하지 않음**.
+- **Qingdao Raniche**: 이전 장비별 판매사양은 500–12k bph, **별도 최신 온라인 카탈로그에서는 최대 15k+ bph 도계라인을 자체 주장**. **기술규격 광고와 인수시험·수율·가동률·설치·현지 서비스는 별개**; '중국 업체는 12k 한계'라는 이전 암시 수정.
+- **Square Technology/Nantong**: JBT 2025 10-K 경쟁사로 열거, 특히 냉각/냉동 전문; Raniche·Jianhua와 동일 가금 정밀발골 제품군에 일괄 묶어 직접 대체로 간주 금지. 중국 현지 업체는 초기 구매가·인건비·현지 A/S·조달/금융, 국가 조달 선호에서 상대우위 가질 가능성.
+- **중국 공급망의 혼합 방식:** 중국 랴오닝성 농업 당국의 2023 Shuanghui(双汇) 공장 사례는 **해외 설비 122세트 + 국산 1,623세트** 혼합으로 연간 1억 마리 규모 설비 구성. 이 장비 수를 가격/가치 점유율로 환산하면 안 되지만, 고객이 **고급수입 일부와 저비용 국산 광범위**를 동시에 선택할 수 있음을 보여 줌.
+- **시장점유율/지리적 성과 검증:** JBT 2025 10-K는 2025 **APAC 전사 매출 $356.8M ≈ 9.4%**, 중국만 따로 보고하지 않음. 2026 9M APAC **$234M**, 비교 2025 9M **$276M**으로 약 **-15.2% YoY**. **아시아·오세아니아 전체/단기 매출이며 중국의 시장점유율 변화·현지 경쟁사에 진 실적이라 단정 불가**. 중국 장비별 전체 설치대수, 매출분모·신규 도입 점유율 및 경쟁입찰 win rate는 미확인. 시장조사업체의 출처·산식 불분명한 전세계 12% 같은 숫자를 **중국 점유율로 가져오지 않음**.
+
+**프리미엄/승률 검증 게이트:** ① 동일 중국 공장에서 현지 OEM과 JBT 경쟁입찰 최종 계약/기본가격·설치범위, ② 마리당 **판매가능 중량(g)**, 최종 제품등급·불량/재작업, 시간당 실제 평균 처리·연가동률/OEE, ③ 작업자와 제품믹스 변화, ④ 5–10년 A/S·고장시 현금 손실·원가/에너지/부품·현지 서비스 SLA, ⑤ 신규수주/계약 연속성과 중국 vs APAC 실적 분리, ⑥ AXIN 유료 소프트웨어·기존 설비 매출 추가/클라우드 마진 및 외부 OEM 통합 방식. 중국산보다 비싸도 **증분 회수기간이 짧아지는 공장 세그먼트**를 확인해야 해자 → 가격결정력 → JBTM 주주 FCF로 연결 가능.
+
+**투자 판단:** 대형 중국 고객의 **고속 통합라인 반복채택** 덕분에 시스템 해자는 한 단계 더 설득력이 높아짐. 다만 중국 시장 **전체 1위/점유율 과반/입찰승률 고정** 가설은 여전히 미증명. 또한 2026 9M 전사 organic growth 1.8%/유기판매 부진은 성장 실현을 계속 추적할 이유. **JBTM 20%는 미승인 가상모델, 5종목 집중 투자 확정 근거 아님.** `SYSTEM_MOAT_PLAUSIBLE / CHINA_PREMIUM_SEGMENT_REPEAT_BUYS_CONFIRMED / CHINA_MARKET_SHARE_UNKNOWN / NO_BUY_APPROVAL`.
+
+**근거:** [JBT 2026 Investor Day SEC 원문](https://www.sec.gov/Archives/edgar/data/1433660/000143366026000071/exhibit991-jbtmarel2026i.htm) · [JBT AXIN SW 공식](https://jbtmarel.com/en/software/) · [Xinsheng 2026 중국어](https://jbtmarel.com/cn/客户故事/新盛博克斯实现了分割线和剔骨的自动化/) · [Chaohe 2023 중국어](https://jbtmarel.com/cn/客户故事/超和集团与马瑞奥签订家禽屠宰加工全线合作协议/) · [Zhonghong 2024](https://jbtmarel.com/en/customer-stories/tangshan-automation/) · [Qingdao Jianhua](https://www.china-jianhua.com/zh/) · [중국 정부 GB/T 27519-2026](https://std.samr.gov.cn/gb/search/gbDetailed?id=4C1BF798CA5183B0E06397BE0A0A640A) · [Raniche 15k+ 광고](https://raniche.en.made-in-china.com/product/AZfGpcuTuahH/China-Chicken-Poultry-Slaughter-and-Process-Line-Slaughterhouse-Equipment.html) · [중국 Shuanghui 해외+국산 장비](https://nync.ln.gov.cn/nync/index/lnsnyfzfwzx/zxdt/2023122513505114760/index.shtml) · [JBT 2025 10-K](https://www.sec.gov/Archives/edgar/data/1433660/000143366026000053/jbt-20251231.htm) · [2026Q3 10-Q](https://www.sec.gov/Archives/edgar/data/1433660/000162828026069624/jbt-20260930.htm).
 
 **투자 방향:** 기존 논의(미국 상장 우선·중국 기업 회피·기술혁신 성장주·고PER/PSR 허용)를 반영한 **5–10년 가정의 모델 포트폴리오**. 종목 비중은 현재가에 전액 즉시 매수하라는 권고·실매매 지시가 아니며, **Owner가 비중을 승인했다는 뜻이 아니다**. 별도 생활비/비상자금은 투자예산 밖에 있다고 가정. 국가별 환율·배당·세금, 투자원금·현 보유/현금흐름은 확인되지 않아 실계좌 최적 비중 미확정.
 
