@@ -467,4 +467,7 @@ Detailed [AI cooling independent screen](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREE
 | E241 | [Xinsheng 2026 JBT Marel 반복 설치](https://cms.jbtmarel.com/en/customer-stories/xinsheng-boxing-automates-cut-up-and-deboning/) | `ISSUER_CUSTOMER_STORY`: 중국 대형 고객 2011~4개 공장 기존 설치, 2026 절단 4·AMF-i 발골 8 추가. 중국 업체 대비 ROI 직접 비교 아님 |
 | E242 | [BAADER 유럽 경쟁업체](https://www.baader.com/poultry/process/deboning) | `COMPETITOR_PRODUCT`: 완전/부분 자동 발골·개체별 측정·절단경로 최적화 제공, JBT 기술의 비독점 반증 |
 
+| E243 | [JBT 2026-03-26 Investor Day SEC 자료 p.37–38](https://www.sec.gov/Archives/edgar/data/1433660/000143366026000071/exhibit991-jbtmarel2026i.htm) | `ISSUER_DISCLOSED_CUSTOMER_RESULT`: Plukon ATHENA **적재/수확/손질 인력 >60% 절감**(고객 매니저 인용, 기존 공정 대비); 미국 검사점 2개 아키텍처 **140→250 birds/min** (회사 효율 설계 사례). **중국산과 동일조건 시험·수율/회수기간 근거 아님** |
+| E244 | [JBT 2026-09 10-Q](https://ir.jbtmarel.com/sec-filings/all-sec-filings/content/0001628280-26-069624/jbt-20260930.htm) / [Q3 실적 보도](https://ir.jbtmarel.com/news/press-releases/detail/544/jbt-marel-corporation-reports-third-quarter-2026-results-and-announces-increased-share-repurchase-authorization) | `ISSUER_PRIMARY`: 2026 9M 전사 유기매출 +1.8%, Q3 전사 -0.7%, Protein Solutions +6%, 2026 9M FCF $252M, Net Debt/Adj EBITDA 2.45x. 고객 설비의 생산성/해자가 **주주 초과수익·전사 고성장 보장하지 않음** |
+
 **최우선 미확인:** 동일입찰 계약단가/설치비/부품·서비스, 독립 수율·가동률·동일제품 판매등급, 같은 공장 노동·에너지비용, 5–10년 TCO. `PREMIUM_PRICE_AND_CUSTOMER_ROI_HOLD / NO_BUY_APPROVAL`. [통합 보고서 §8](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#8-pm-가상-장기-성장-포트폴리오--owner-검토-전-예시-2026-11-19).
