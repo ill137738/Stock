@@ -173,5 +173,9 @@ Ethereum L1/L2의 검증 가능한 기업결제·스테이블코인 정산 총�
 
 ## 2026-11-21 JBTM 중국산 대비 고가 성능 감사 — 기존 단일 P0 내 구체화
 
-- [통합 보고서 §8](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#8-pm-가상-장기-성장-포트폴리오--owner-검토-전-예시-2026-11-19) 최신 제품 실사: JBT ATHENA 6k breast caps/h·15k bph 통합 도계(후속 발골 별도), 중국 Sure 3k deboner/Raniche 12k 도계(수동 일부), Xinsheng 2026 반복 JBT 채택. 이는 **공칭 제품 사양**이지 독립 ROI·중국 공장 점유율 입증 아님.
+- [통합 보고서 §8](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#8-pm-가상-장기-성장-포트폴리오--owner-검토-전-예시-2026-11-19) 최신 제품 실사: JBT ATHENA 6k breast caps/h·15k bph 통합 도계(후속 발골 별도), 중국 Sure 3k deboner/Raniche 12k 공칭·별도 15k+ 최신 제품광고(수동 공정 및 검증 한계), Xinsheng 2026 반복 JBT 채택. 이는 **공칭 제품 사양**이지 독립 ROI·중국 공장 점유율 입증 아님.
 - **최우선 새로운 측정 데이터:** 같은 공정(예: 가슴살 원료/전처리 조건), 같은 원료·작업시간·온도·제품가중치에서 JBT/중국 경쟁사 **초기/설치가격·연간 정비비·평균/95% 수율·최종 판매 등급·인건비·다운타임/수리대응·소프트웨어·물/전력·현금 회수기간**. **중국 쪽 실제 타사 견적과 같은 공장 비교가 확보되지 않으면 고가 프리미엄의 배수나 독점적 마진 단정 금지.** 별도 새 작업 트랙은 열지 말고 기존 `STOCK-R1-JBTM-ECONOMICS-MOAT-VALUATION-20261115`에 통합. `NO_BUY_APPROVAL`.
+
+## 2026-11-21 JBTM 중국 지역·AXIN 통합 해자 신규 검증 게이트 (기존 R1 통합)
+
+- [통합 보고서 §8](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#8-pm-가상-장기-성장-포트폴리오--owner-검토-전-예시-2026-11-19)의 최신 중국 사례·AXIN 장비/Process·Factory 시스템 분석 참조. **우선순위:** (1) 중국 high-end greenfield JBT vs Qingdao Jianhua/Raniche 등 중국 경쟁사 **동일 설비 입찰/패배 사례 포함**한 win/loss·낙찰 금액, (2) 실제 수율·OEE·시간당 처리량 vs 각자 공칭(15k 광고 포함)과 5–10년 TCO, (3) AXIN 도입 공장의 운영 수율 증분/유료 SW 매출/시퀀스 제어 성능·완료된 디지털 플랫폼 모듈, (4) Xinsheng 2026·Chaohe 2022 계획/계약의 최종 설치·검수 확인, (5) **중국 단독** 제품 매출/신규수주/설치기반 및 JBT APAC 전사 수치와 분리. 중국 현지 업체의 15k bph 광고만으로 JBT 제품 대체가 입증되거나 JBT 기술우위가 소멸했다고 판단하지 않음. `OWNER_RESEARCH_ONLY / NO_BUY_APPROVAL`.
