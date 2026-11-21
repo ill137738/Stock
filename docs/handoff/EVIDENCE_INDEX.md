@@ -471,3 +471,18 @@ Detailed [AI cooling independent screen](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREE
 | E244 | [JBT 2026-09 10-Q](https://ir.jbtmarel.com/sec-filings/all-sec-filings/content/0001628280-26-069624/jbt-20260930.htm) / [Q3 실적 보도](https://ir.jbtmarel.com/news/press-releases/detail/544/jbt-marel-corporation-reports-third-quarter-2026-results-and-announces-increased-share-repurchase-authorization) | `ISSUER_PRIMARY`: 2026 9M 전사 유기매출 +1.8%, Q3 전사 -0.7%, Protein Solutions +6%, 2026 9M FCF $252M, Net Debt/Adj EBITDA 2.45x. 고객 설비의 생산성/해자가 **주주 초과수익·전사 고성장 보장하지 않음** |
 
 **최우선 미확인:** 동일입찰 계약단가/설치비/부품·서비스, 독립 수율·가동률·동일제품 판매등급, 같은 공장 노동·에너지비용, 5–10년 TCO. `PREMIUM_PRICE_AND_CUSTOMER_ROI_HOLD / NO_BUY_APPROVAL`. [통합 보고서 §8](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#8-pm-가상-장기-성장-포트폴리오--owner-검토-전-예시-2026-11-19).
+
+## E245–E252 — 2026-11-21 JBT 공장 전체 통합·중국 현지 경쟁 추가 감사
+
+| ID | 1차 출처 및 날짜 | 확인 사실/검증 제한 |
+|---|---|---|
+| E245 | [JBT 2026 Investor Day 공식 SEC p.69–72](https://www.sec.gov/Archives/edgar/data/1433660/000143366026000071/exhibit991-jbtmarel2026i.htm) | `ISSUER_PRIMARY_STRATEGY`: AXIN Machine/Process/Factory/Enterprise, 디지털플랫폼 통합은 연말 추진 목표, 타 OEM 연동 가능, 모든 고객 적용/독점 완료 증명 아님 |
+| E246 | [JBT AXIN 공식 SW](https://jbtmarel.com/en/software/) / [공장용 MES 기능](https://jbtmarel.com/en/software/poultry/across-the-factory/) | `ISSUER_PRODUCT_DOC`: 개별기계, 실시간 수율/이력, 라인관리, ERP·멀티사이트 연동. 유료 ARR/플랫폼 완료와 구분 |
+| E247 | [Chaohe 超和 JBT 2023 중국어](https://jbtmarel.com/cn/客户故事/超和集团与马瑞奥签订家禽屠宰加工全线合作协议/) | `ISSUER_CUSTOMER_CASE`: 2020 설치 12.5k bph, 2022 2×15k bph 추가 계약(4 ACM,8 AMF-i 등), 2022Q4 설치 예정은 **최종 가동 완료 근거 아님** |
+| E248 | [Zhonghong Sanrong JBT 2024](https://jbtmarel.com/en/customer-stories/tangshan-automation/) | `ISSUER_CUSTOMER_CASE`: 2018 Chengde/Qinglong 설치 후 2024 Tangshan 12.5k bph 추가, 고객 선정 사유 인건비/위생/수율/OEE/다양한 원료 대응. 중국 업체와 동일 입찰·가격 비교 없음 |
+| E249 | [Xinsheng 2026 中国官方客户说明](https://jbtmarel.com/cn/客户故事/新盛博克斯实现了分割线和剔骨的自动化/) | `ISSUER_CASE_DETAILS`: 2011~4개 공장, PDS 분류·중량 모듈→ACM-NT→AMF-i 사이즈 조절, 2026 Boxing 확장 발표. 시장점유율 아님 |
+| E250 | [Qingdao Jianhua official](https://www.china-jianhua.com/zh/) / [China national GB/T 27519-2026](https://std.samr.gov.cn/gb/search/gbDetailed?id=4C1BF798CA5183B0E06397BE0A0A640A) / [Raniche 15k 공칭](https://raniche.en.made-in-china.com/product/AZfGpcuTuahH/China-Chicken-Poultry-Slaughter-and-Process-Line-Slaughterhouse-Equipment.html) | `LOCAL_MANUFACTURER + GOVERNMENT_STANDARD + SELLER_AD`: 중국 국산 자동라인·설계/국가표준 참여·15k+ 광고의 존재. **동일 현장 품질·수율/가동시간 검증 없음** |
+| E251 | [중국 랴오닝성 정부 2023 Shuanghui poultry mixed equipment](https://nync.ln.gov.cn/nync/index/lnsnyfzfwzx/zxdt/2023122513505114760/index.shtml) | `GOVERNMENT_CASE`: 연 1억 마리 처리 공정에 수입기기 122세트·국산 설비 1623세트 병행. 세트 수≠구매가·가치·JBT 공정 점유 |
+| E252 | [JBT 2025 10-K 지리적 판매](https://www.sec.gov/Archives/edgar/data/1433660/000143366026000053/jbt-20251231.htm) / [2026Q3 10-Q](https://www.sec.gov/Archives/edgar/data/1433660/000162828026069624/jbt-20260930.htm) | `SEC_FINANCIAL`: 2025 APAC 매출 $356.8M (전사 ~$3.798B의 ~9.4%), 2026 9M APAC $234M vs 2025 9M $276M (~-15.2%). **중국 단독도 닭 시장 점유율도 아님**, 중국 우세/열위 증거로 오용 금지 |
+
+**판정:** 중국 high-end line의 반복 구매는 확인, 가격비교와 현지 경쟁 win rate·총점유율은 `UNKNOWN`. [통합 정본 §8](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#8-pm-가상-장기-성장-포트폴리오--owner-검토-전-예시-2026-11-19) 본문에만 분석 결론 유지. `NO_BUY_APPROVAL`.
