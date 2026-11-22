@@ -500,3 +500,18 @@ Detailed [AI cooling independent screen](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREE
 | E259 | [USDA ERS Wheat Outlook Nov 2026](https://www.ers.usda.gov/media/30362/whs-26k.pdf) / [World Bank 2026 Nov food shock analysis](https://blogs.worldbank.org/en/developmenttalk/overlapping-shocks--risks-to-global-food-markets-in-2027) | `PRIMARY_FORECAST + ANALYST_SCENARIO`: 흑해 물류로 러시아·우크라이나 밀 2026/27 수출 전망 하향, 엘니뇨/에너지·수출 제한 동시 충격 가능. USDA PDF 내부 그림 직접 분석 없이 요약만 보존 |
 
 **PM 판단 (출처의 투자 의견 아님):** `JBTM_PROCESSING_AUTOMATION_OPTION / PAHC_ANIMAL_HEALTH_OPTION / VALUE_CAPTURE_FCF_UNPROVEN / NO_BUY_APPROVAL`. [통합 보고서 §7A](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#2026-11-23-식량산업-전망-단백질-소비-전환과-지정학적-식품-가격-변동성).
+
+## E260–E267 — 2026-11-23 JBTM 큐브 편의식품·인건비 자동화·양식과 Human Design 원문 구분
+
+| ID | 직접 자료 | 검증 사실/한계 |
+|---|---|---|
+| E260 | [JBT Cubing Line 제품](https://jbtmarel.com/en/products/cubing-line/) | `ISSUER_PRODUCT_PRIMARY`: 가슴살/다리살 fixed-weight cube, SmartSplitter+RoboOptimizer+I-Cut 122+TrimSort+SW, 1명 운용/평균 2명 적재 감소는 **제조사 제품 주장**, 보편적인 ROI/비용 구조 확정 아님 |
+| E261 | [JBT Prepared Foods Full-line](https://jbtmarel.com/en/prepared-foods/full-line-solutions/) / [JBT 2025 10-K](https://ir.jbtmarel.com/sec-filings/all-sec-filings/content/0001433660-26-000053/jbt-20251231.htm) | `ISSUER_PRODUCT+SEC`: 큐브·스트립·정량계량·양념/성형/코팅/조리/냉동/포장 공급, **식품 소매업이 아닌 장비·공정·SW 사업** |
+| E262 | [JBT 2026 Investor Day (SEC)](https://www.sec.gov/Archives/edgar/data/1433660/000143366026000071/exhibit991-jbtmarel2026i.htm) / [2026Q2 10-Q](https://ir.jbtmarel.com/sec-filings/all-sec-filings/content/0001628280-26-053548/jbt-20260630.htm) | `PRIMARY`: 노동력 부족·고속대량공정은 자동화 채택 동력, **회사와 고객 모두** 인플레이션에 따른 price-cost 부담. 노동비 상승=주가 상승 단정 금지 |
+| E263 | [2026-11-15 기존 JBTM vs PAHC 비교](JBTM_VS_PAHC_DECISION_ANALYSIS_20261115.md) | `REPO_PREVIOUS_RESEARCH`: 2026-09 TTM CFO−CAPEX JBTM $327.1M vs PAHC $21.67M, dated stock price로 FCF yield 5.1% vs 1.5%. 현재 진입가·기업승률 입증 아님 |
+| E264 | [FAO aquaculture 공식 통계 정의](https://www.fao.org/cwp-on-fishery-statistics/handbook/aquaculture-statistics/en/) | `FAO_PRIMARY`: 수산 동물/해조류 등 인간이 생존·성장을 관리하고 소유하는 사육; 자연 포획 어업과 분리 |
+| E265 | [OECD-FAO 2026–2035](https://www.oecd.org/en/publications/oecd-fao-agricultural-outlook-2026-2035_47874669-en.html) / [GFI 배양육 2026 상용화 조사](https://gfi.org/resource/cultivated-meat-seafood-and-ingredients-state-of-the-industry/) | `PRIMARY_FORECAST + INDUSTRY_RESEARCH`: 사육·양식 계속 확대, 배양육은 일부 초기 상용화 기술이지만 비용·생산능력·규제/마케팅 장벽. 2035 완전 대체 근거 없음 |
+| E266 | [Ra Uru Hu, Rave Anatomy I, Lecture Eleven p.164–165 (원문 PDF)](https://s3.amazonaws.com/kajabi-storefronts-production/file-uploads/sites/71623/themes/2152708825/downloads/157bd7-5e81-7fb-7a06-8ba8d58f2e5a_Rave_Anatomy_I_secure.pdf) | `HUMAN_DESIGN_LECTURER_SOURCE_NOT_SCIENTIFIC`: **19–49 동물 사육(husbandry)·식량 확보 직접**, **37–40 가족 공동체·제공/교환**. 원문 맥락/뉘앙스 유지. 강사 주장과 Stock PM 추론 구분 |
+| E267 | [JBT 2026Q3 Protein+6%](https://ir.jbtmarel.com/news/press-releases/detail/544/jbt-marel-corporation-reports-third-quarter-2026-results-and-announces-increased-share-repurchase-authorization) | `SEC_FINANCIAL`: Protein Solutions Q3 전년 +6%, 2026 9M 전사 유기매출 +1.8%(10-Q). 편의가공 기술력≠현재 고성장 입증 |
+
+**판정:** `JBTM_CONVENIENCE_PROCESSING_CONFIRMED / LABOR_TAILWIND_CONDITIONAL / PAHC_COMPARISON_PROVISIONAL / HUMAN_DESIGN_SOURCE_VS_REAL_WORLD_SEPARATED / NO_BUY_APPROVAL`. 상세는 [통합 §7A](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#2026-11-23-식량산업-전망-단백질-소비-전환과-지정학적-식품-가격-변동성).
