@@ -486,3 +486,17 @@ Detailed [AI cooling independent screen](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREE
 | E252 | [JBT 2025 10-K 지리적 판매](https://www.sec.gov/Archives/edgar/data/1433660/000143366026000053/jbt-20251231.htm) / [2026Q3 10-Q](https://www.sec.gov/Archives/edgar/data/1433660/000162828026069624/jbt-20260930.htm) | `SEC_FINANCIAL`: 2025 APAC 매출 $356.8M (전사 ~$3.798B의 ~9.4%), 2026 9M APAC $234M vs 2025 9M $276M (~-15.2%). **중국 단독도 닭 시장 점유율도 아님**, 중국 우세/열위 증거로 오용 금지 |
 
 **판정:** 중국 high-end line의 반복 구매는 확인, 가격비교와 현지 경쟁 win rate·총점유율은 `UNKNOWN`. [통합 정본 §8](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#8-pm-가상-장기-성장-포트폴리오--owner-검토-전-예시-2026-11-19) 본문에만 분석 결론 유지. `NO_BUY_APPROVAL`.
+
+## E253–E259 — 2026-11-23 식량산업 OECD·FAO 및 전쟁 식품가격 원자료
+
+| ID | 1차 출처/기준시점 | 내용 및 해석 |
+|---|---|---|
+| E253 | [OECD–FAO Agricultural Outlook 2026–2035 Meat](https://www.oecd.org/en/publications/oecd-fao-agricultural-outlook-2026-2035_47874669-en/full-report/meat_149b4ca3.html) | `PRIMARY_BASELINE_FORECAST`: 2023–25→2035 총육류 +12% ~412Mt, 가금 +29Mt/+20%/2035 177Mt rtc/전체 추가육류 약 2/3, 소고기 +6Mt/+8%, 돼지고기 +6Mt/+4%, 양 +3Mt/+20%. 가금/돼지 실질 기준가 약 -20%, 소고기 약 -16%, **전년비가 아닌 장기 평균 대비** |
+| E254 | [OECD–FAO Fish and other aquatic foods](https://www.oecd.org/en/publications/oecd-fao-agricultural-outlook-2026-2035_47874669-en/full-report/fish-and-other-aquatic-products-for-human-consumption_be23d26b.html) | `PRIMARY_BASELINE_FORECAST`: 수산식품 소비 2035 194Mt live-weight +12%, 양식 생산 121Mt/+18%, 양식 전체 생산비중 53→56%, 실질양식가 약 -15%; 육류 ready-to-cook와 수산물 live-weight를 동일 분모 톤수로 비교 금지 |
+| E255 | [OECD–FAO Agricultural/food markets 2026–35](https://www.oecd.org/en/publications/oecd-fao-agricultural-outlook-2026-2035_47874669-en/full-report/agricultural-and-food-markets-trends-and-prospects_c5cd366b.html) | `LONG_RUN_BASELINE`: 생산성·정밀농업 투자를 전제로 실질 농산물 가격 안정~하락, 전쟁/에너지 충격이 악화되면 장기 경로 이탈 가능 |
+| E256 | [World Bank 2026-10-28 Commodity Markets Outlook 보도](https://www.worldbank.org/en/news/press-release/2026/10/28/commodity-prices-set-to-increase-by-23-in-2026-as-global-shocks-mount) | `DATED_FORECAST`: 글로벌 food commodity index 2026 +10%, 2027 +7% (누적 약 17.7%), 복합 공급 충격시 2027 기본전망 대비 +12%; 소매식품 CPI 아님 |
+| E257 | [FAO 2026-10 FFPI](https://www.fao.org/worldfoodsituation/foodpricesindex/en/) | `MONTHLY_OBSERVED`: Oct26 133.9, MoM -1.2%, YoY +5.9%, Mar22 peak -16.4%; cereal MoM -4.5%, YoY +12.6%; 인덱스·품목별 방향 차이 |
+| E258 | [FAO Food Outlook 2026-11 주요 발표](https://www.fao.org/newsroom/detail/fao-food-outlook--global-food-commodity-supplies-remain-generally-ample--but-risks-are-mounting/en) | `PRIMARY_2026_OBSERVED`: Sep26 Odesa+Russian Black/Azov shipments <0.5Mt vs Sep25 7.8Mt; 충분한 세계 곡물 공급에도 **무역 병목/비료·사료 비용 리스크**, 수확량 부족과 별개 |
+| E259 | [USDA ERS Wheat Outlook Nov 2026](https://www.ers.usda.gov/media/30362/whs-26k.pdf) / [World Bank 2026 Nov food shock analysis](https://blogs.worldbank.org/en/developmenttalk/overlapping-shocks--risks-to-global-food-markets-in-2027) | `PRIMARY_FORECAST + ANALYST_SCENARIO`: 흑해 물류로 러시아·우크라이나 밀 2026/27 수출 전망 하향, 엘니뇨/에너지·수출 제한 동시 충격 가능. USDA PDF 내부 그림 직접 분석 없이 요약만 보존 |
+
+**PM 판단 (출처의 투자 의견 아님):** `JBTM_PROCESSING_AUTOMATION_OPTION / PAHC_ANIMAL_HEALTH_OPTION / VALUE_CAPTURE_FCF_UNPROVEN / NO_BUY_APPROVAL`. [통합 보고서 §7A](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#2026-11-23-식량산업-전망-단백질-소비-전환과-지정학적-식품-가격-변동성).
