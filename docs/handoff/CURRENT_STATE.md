@@ -287,6 +287,11 @@
 - **2026-11-21 생산성 재검증:** 2026-03 SEC Investor Day **Plukon ATHENA 고객 사례에서 적재·수확·손질 필요 인력 >60% 감소(기존 작업 방식 대비, 중국 기계 대비 아님)**. 미국 검사 설계 사례 140→250 birds/min도 회사 발표 기준. **고객 실제 생산성 증가**의 증거는 강화됐지만 **중국 저가 대비 동일입찰 TCO/정육수율·가동률은 미확인**. 2026 9M 전사 유기성장 +1.8%, 9M FCF $252M. [통합 §8 기술 경쟁우위](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#8-pm-가상-장기-성장-포트폴리오--owner-검토-전-예시-2026-11-19).
 - **의사결정:** JBTM 20% 가상 비중 **승률 우위 아님**, 중국과 동등 생산 원료·연속가동·수율·입찰가/수명주기 서비스비 비교 미완성. [통합 보고서 §8](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#8-pm-가상-장기-성장-포트폴리오--owner-검토-전-예시-2026-11-19) · [기존 JBT 중국 감사](JBTM_CHINA_COMPETITION_GROWTH_RERATING_20261115.md). `HIGH_END_MOAT_PLAUSIBLE / PREMIUM_TCO_UNVERIFIED / NO_BUY_APPROVAL`.
 
+## 2026-11-22 장기 성장주 평가의 PER 해석 수정
+
+- **Owner 핵심 관점/PM 수용:** 낮은 PER은 매수 신호가 아니고, 높은 PER도 혁신기업의 장기 성장성을 무시할 이유가 아님. **EPS 성장과 PER 변화의 결합**, 메모리 등 경기민감 산업의 **호황기 저PER 착시** 및 과거실적 분모 지연을 강조. 사용자 제시 삼성 메모리 사례 자체를 새 역사적 사실로 검증한 것은 아님.
+- **표준:** 경쟁우위·단위경제·유기성장/증분 ROIC·정규화 주당 FCF → 3~5년 bear/base/bull 매출·마진/희석 → **진입가별 IRR·손실** → PER/EV/FCF/PSR은 보조로 교차검증. **JBTM 조정 PER과 GAAP PER 혼동 금지, 한국 HD vs LS 선행 PER 차이는 원픽 단독 근거 아님**. [통합 보고서 §7](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#7-실행-우선순위와-완료-기준). `VALUATION_EXPECTATIONS_FIRST / NO_BUY_APPROVAL`.
+
 ## 2026-11-21 JBTM 공장통합 시스템 해자 / 중국 실전 경쟁 심화
 
 - **장비+시스템 실체:** [통합 보고서 §8](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#8-pm-가상-장기-성장-포트폴리오--owner-검토-전-예시-2026-11-19)의 신규 '공장 단위 통합 해자' 절. JBT 공식 2026 Investor Day p.69–72에 **AXIN Machine (OEE·예방정비), Process/MES(라인 제어·추적·수율), Factory/Enterprise(ERP 연동·공장/사이트 비교)** 계층 명시. JBT의 전체 장비·라인·소프트웨어·A/S 공급은 **실재**. 다만 통합 디지털 플랫폼 완료는 2026년 말 추진 중, 타 OEM 연계 가능→폐쇄형 강제 독점/데이터 독점은 아님.
