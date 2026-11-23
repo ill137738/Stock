@@ -301,6 +301,21 @@
 `JBT_QSR_SOFTWARE_CUSTOMIZATION_WITHIN_HARDWARE / RA_FOWL_FISH_DISTINCTION_DIRECT / RA_12_22_MAMMAL_BOND_CORRECTION / PET_EXPOSURE_MINIMIZE_UNQUANTIFIED / NO_BUY_APPROVAL`.
 
 
+#### 7. 2026-11-23 현재 JBTM vs PAHC 단일 선택 — 달걀 가공 정정, 가격/현금·종별 노출
+
+**PM 결론(사업 질 우선, 매수 승인 아님): JBTM > PAHC.** Owner 선호는 **반려동물 직접 노출을 가급적 낮추면서 식량 생산 효율·가금/양식/편의식품 기술 노출**에 투자하는 방향. JBTM 장점은 규격별 식품/QSR·단위중량 수율·장비+AXIN+유지보수·타 식품종으로 확장되는 기술을 고객 공장에 판매하는 해자 가능성이다. **PAHC는 가금/축산/양식 동물건강의 반복 수요**가 장점이나 다소 직접적인 축산 노출과 현금전환/부채 위험이 있다. 현금흐름과 기업규모/가격·사업 위험을 합쳐 판단할 뿐 **투자 승률을 정량적으로 우월하다고 증명하지 않았음**.
+
+**이전 오류 정정 — JBTM도 달걀 가공을 한다:** [JBT Marel 공식 Liquid Egg Ohmic processing](https://jbtmarel.com/en/news/jbt-marel-ohmic-technology-the-perfect-fit-for-liquid-eggs/)은 액란 살균 중 응고·막힘을 줄이는 **Sterideal Ohmic Heat Exchanger**, 연속가동/세정시간 최적화를 위한 제품. **JBTM이 달걀을 직접 생산하는 회사라는 뜻 아니며 액란 사업 매출비중은 미공시.** 포유류 고기가 아니라는 사실만으로 Ra의 강의가 달걀 수요 급증을 예견한 것으로 해석하지 않음. Ra의 원래 주장은 `fowl/fish/reptile` 식품에 대한 것이며 **달걀을 별도로 예측했다고 확인되지 않음**.
+
+**포유류/펫 노출 비교:** PAHC FY2026 종별 매출 **가금36%, 소(육우)18%, 젖소15%, 돼지11%, 기타20%**: 명시적인 포유류 축산 노출만 **44%**(18+15+11), 가금 **36%**. 기타에는 양식/에탄올/백신보조제/펫 포함; **펫 독립 비중 공개되지 않음**. [PAHC FY2026 10-K](https://www.sec.gov/Archives/edgar/data/1069899/000110465926101493/pahc-20260630x10k.htm). JBTM 역시 소·돼지 가공설비/펫푸드 설비를 공급하므로 '포유류·펫 0%' 아님. **JBTM 종별 매출/펫 설비비중 미공시라 절대 노출의 정량 우열은 불명**. 동물 식량관계 변화라는 휴먼디자인 강의의 해석은 사실적 산업 수요 예측이 아니다.
+
+**2026-11-20 미국시장 종가와 최신 실적:** JBTM $120.50, PAHC $33.29; 시총 약 **$6.15B vs $1.35B**. 참고자료 forward PER 약 **13.2x vs 9.2x**는 기업별 EPS 정의/기간 차이·M&A 조정치 등으로 **가치판단의 보조 지표**. JBT 2026 9M FCF **$252M**, 2026 9M 유기매출 성장 **+1.8%**(낮음), net debt/TTM adj EBITDA **2.45x**. PAHC 2026-09 종료 TTM FCF **$21.7M**, 총부채 **$739.6M**, 순차입 약 **$656M**, net leverage 약 **2.6x**; FY2027 매출 **$1.55–1.60B**, adj net income **$140–147M** 가이던스. **기간이 다른 FCF 절대금액을 같은 이익률처럼 비교하지 말 것**. PAHC의 cash conversion 회복/시총 대비 가격매력은 반론이지만, JBTM도 낮은 organic growth와 중국 경쟁·Marel synergy 고평가 위험 보유.
+
+**결정 규칙:** Owner의 약 5종목 압축 및 펫 최소화 목표 하에 JBTM 단일 우선 **질적 연구 선택 유지**, PAHC는 펫 이슈로 즉시 제외하지 않고 *가격/현금전환이 개선되면 역전 가능한 후보*로 유지. JBT 펫/포유류 매출 분리불가 및 PAHC 기타20% 내부 펫 미공시 사실 반드시 표시. **실제 매수/비중 확대 지시 아님**. `JBTM_QUALITATIVE_PREFERENCE / EGG_LIQUID_TECH_VERIFIED / PAHC_MAMMAL_SPECIES_44_PCT / PET_SHARE_UNKNOWN / PER_SUPPORTING_ONLY / NO_BUY_APPROVAL`.
+
+**출처:** [JBT Q3 2026 공시](https://www.sec.gov/Archives/edgar/data/1433660/000162828026069128/a2026q3earningsexhibit9918k.htm) · [PAHC FY2027 Q1 발표](https://investors.pahc.com/press-releases/press-release-details/2026/Phibro-Animal-Health-Corporation-Reports-First-Quarter-Results-Maintains-Financial-Guidance/default.aspx) · [JBTM 2026-11-20 가격](https://stockanalysis.com/stocks/jbtm/) · [PAHC 2026-11-20 가격](https://stockanalysis.com/stocks/pahc/statistics/).
+
+
 ## 8. PM 가상 장기 성장 포트폴리오 — Owner 검토 전 예시 (2026-11-19)
 
 **2026-11-21 PM 정정 — JBTM 20% 의미:** 해당 최대 비중은 **실제 승률(예: 5년 원금손실 확률/시장초과수익 확률)을 통계적으로 측정하거나 타 종목 대비 우월한 위험조정 기대수익을 입증해서 부여한 값이 아니다.** 당시 `산업 자동화의 구조 성장 가능성 + 설비/서비스 설치기반에 따른 해자 후보 + AI 데이터센터 CAPEX 요인과의 분산`을 반영한 **가상 모델 가중치**다. 단백질 가공 자동화가 성장하더라도 **JBTM 전체 유기성장과 정상화 주당 FCF/ROIC·진입가격**이 이를 주주수익으로 연결한다는 증거는 미완성이다. 2026Q3 총매출 YoY -1%, Protein +6% 및 FY2026 GAAP EPS $4.30–4.60 vs adjusted $8.10–8.40 차이가 대표 검증 과제. **따라서 20%를 승률 1위나 매수 승인으로 표현하지 말 것.** 이후 5종목 압축 시 가중치 재산정 필요; 다른 후보 VRT 등의 5년 성과 확률/현금흐름 비교 전 상위 비중 확정 금지. `JBTM_20_MODEL_WEIGHT_UNDER_REVIEW / WIN_PROBABILITY_NOT_ESTIMATED / NO_BUY_APPROVAL`.
