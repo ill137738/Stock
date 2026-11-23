@@ -548,3 +548,15 @@ Detailed [AI cooling independent screen](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREE
 | E286 | [Ra Rave Anatomy I Lecture 11 인쇄 p.165/PDF p.174](https://s3.amazonaws.com/kajabi-storefronts-production/file-uploads/sites/71623/themes/2152708825/downloads/157bd7-5e81-7fb-7a06-8ba8d58f2e5a_Rave_Anatomy_I_secure.pdf) | `LECTURER_DIRECT`: 19–49 husbandry 포유류 사육/도축·식량 자원, 37–40 가족/공동체 필요 제공/계약 구분. **The 64 Material Ways** Gate19.3의 37–40 집단적 식육 의례 설명을 함께 보아야 함 |
 
 **Owner 신규 필터:** `PET_DEPENDENCY_LOW_PREFERENCE / EXACT_REVENUE_SHARE_UNKNOWN / NO_BUY_APPROVAL`. 상세는 [통합 정본 §7A 후속](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#2026-11-23-식량산업-전망-단백질-소비-전환과-지정학적-식품-가격-변동성).
+
+## E287–E291 — 2026-11-23 Ra 2027 실현 가정 시 JBTM 장비 수주 민감도
+
+| ID | 자료 | 판정과 정확한 분모 |
+|---|---|---|
+| E287 | [Ra The 64 Material Ways Gate19.3 pp.51–53](https://pdfcoffee.com/the-64-material-ways-pdf-free.html) | LECTURER_TEXT_HYPOTHESIS: **Rave children with altered Solar Plexus**가 포유류 고기를 거부하고 **fish/fowl/reptile**를 구분한다는 주장. **2027년 이후 모든 아이 일괄 적용 근거 없음**, 실증적 영양학 명제가 아님 |
+| E288 | [Jovian Archive official dictionary Rave Children](https://jovianarchive.com/pages/human-design-dictionary) | LECTURER_TERMINOLOGY: 2027 이후 mutation된 Solar Plexus의 새로운 Rave 출현을 가정; 보급률·시장전환율 미기재 |
+| E289 | [JBT 2026-09-23 공식 슬라이드 발표](https://view.news.eu.nasdaq.com/view?id=b9750c4ca87ec7f4ab21438f5e8e023c1&lang=en&src=listed) / [발표 내용](https://6ix.com/deck/4b6wwycu/jbt-marel-investor-presentation-september-2026) | ISSUER_EQUIPMENT_ORDER_MIX: FY2025 + 2026H1 **poultry 45% / seafood 7% / meat 16% / others 32%**. **장비주문 금액**, 매출/총이익 및 인구 식품 소비비중이 아님 |
+| E290 | [JBT FY2025 SEC 10-K](https://ir.jbtmarel.com/sec-filings/all-sec-filings/content/0001433660-26-000053/jbt-20251231.htm) / [2026 Q3 발표](https://ir.jbtmarel.com/news/press-releases/detail/544/jbt-marel-corporation-reports-third-quarter-2026-results-and-announces-increased-share-repurchase-authorization) | FINANCIAL_PRIMARY: 가금·소·돼지·수산·식물성·ready meals·dairy·pet food 등 다각화, 기존 제조라인과 부품/서비스 반복 매출; Q3 Protein 성장 +6%, 2026 9M organic +1.8% (SEC 10-Q 확인) |
+| E291 | [OECD-FAO Meat 2026–2035](https://www.oecd.org/en/publications/oecd-fao-agricultural-outlook-2026-2035_47874669-en/full-report/meat_149b4ca3.html) | SCIENCE_ECONOMIC_BASELINE: 2035 가금 +20%, 소고기 +8% (2023–25 base). Ra 2027의 검증되지 않은 추가 전환을 이미 관측된 기본 변화와 중복 계산하지 말 것 |
+
+**미실현 조건부 수주 예제**: Meat order -50%(-8pp), Poultry +20%(+9pp), Seafood +20%(+1.4pp) => 기존 총 장비주문 100 대비 **+2.4pp**. 이 산식은 **일반 고객의 선호/소비 변화율·JBT 회계상 실적 성장률로 바로 매핑하지 않는 설명용 시나리오**이다. **2035/2045 탄력성·펫/유제품 시장 변화·주당 FCF 결과 UNKNOWN**, NO_BUY_APPROVAL.
