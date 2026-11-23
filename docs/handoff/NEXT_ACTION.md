@@ -196,3 +196,9 @@ Ethereum L1/L2의 검증 가능한 기업결제·스테이블코인 정산 총�
 - [통합 보고서 §7A 후속](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#2026-11-23-식량산업-전망-단백질-소비-전환과-지정학적-식품-가격-변동성) 확인. **JBTM 큐브/소분·양념·조리·냉동·포장** 생산라인의 고객 ROI 검증(매출총이익, 스크랩 회수, 동일 중량/품질, 인력·정비비·에너지/연속가동). **소비자 편의가 JBTM 설치대수·반복서비스/FCF로 전달**되는지 정량화.
 - **원가 스트레스:** 노동비 상승/고용난 vs 자본비용·사료비·JBT 제조원가 동반 상승 시 신규수주 지연 가능성을 bear/base/bull에 반영. JBTM/PAHC 2026Q4 이후 제품군별 매출/정규화 주당 FCF·부채·재투자율 재비교. 이전 JBTM 잠정 질적 선호를 **승률 확정**으로 재명명 금지.
 - **장기 식량 생산:** FAO 정의상 양식=수중 사육, 자연어획과 다른 경제구조. 2035 축산·양식 확대와 대체단백질/배양육의 상용화 대비 JBTM(Poultry + seafood + ready meals + alt protein processing)과 PAHC(동물건강)에 다른 잠재적 영향. **Ra 강의 19–49 husbandry와 37–40 가족·부양을 정확히 구분**, 상징·영적 체계의 주장으로 현실 사육 종료 예측 금지. `R1_PRIORITY_UNCHANGED / NO_BUY_APPROVAL`.
+
+## 2026-11-23 편의식품 확장 가치포착·펫푸드·PAHC 종별 구성·Ra 원문 보완 (JBTM R1 유지)
+
+- JBTM `Cubing/QSR-ready standardized foods`·Danish Crown 패티 통합라인·Pet food processing 중 **어느 제품이 설치/유지보수 수주에 기여하는지** 구분. 소비자 효용/외식 현장 인건비 절감 → 제조업체 장비 ROI → JBTM **주당 FCF/organic revenue**로 가치가 전이되는 실제 수치, JBTM **Q3 2026 Prepared F&B 매출 YoY -6.3%/9M -2.3%** 반론 검증.
+- PAHC FY2026 10-K 축종 4종 80% (가금36/육우18/낙농15/돼지11)와 **기타 20%** 내 반려동물 **비공시** 분리. 반려동물 매출을 회사 매출 주요 축이라고 가정하지 않음. Rejensa/Restoris·animal nutrition의 실제 매출/성장률/마진을 독립 확인; 기존 CORE2 유지.
+- Ra `Rave Anatomy I` p.164–165 **19–49 가축 사육 vs 37–40 공동체 부양**, Ra 2027 Mutation Lecture의 **동물-식량원 관계 변화도 포함**하는 뉘앙스 정확히 기록. 반려동물=37–40, 이후 펫 수 급감, 사육/양식 불변은 **Owner 해석 가설/미검증**으로만 표기. 주식 투자에 활용할 때는 APPA 소유 가구·서비스 구매·FAO 사육/양식 통계 등 외부 실제 자료와 별도 분석. `R1_PRIORITY_UNCHANGED / NO_BUY_APPROVAL`.
