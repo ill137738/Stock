@@ -316,6 +316,27 @@
 **출처:** [JBT Q3 2026 공시](https://www.sec.gov/Archives/edgar/data/1433660/000162828026069128/a2026q3earningsexhibit9918k.htm) · [PAHC FY2027 Q1 발표](https://investors.pahc.com/press-releases/press-release-details/2026/Phibro-Animal-Health-Corporation-Reports-First-Quarter-Results-Maintains-Financial-Guidance/default.aspx) · [JBTM 2026-11-20 가격](https://stockanalysis.com/stocks/jbtm/) · [PAHC 2026-11-20 가격](https://stockanalysis.com/stocks/pahc/statistics/).
 
 
+#### 8. 2026-11-23 Ra 예측의 조건부 실현: JBTM이 '큰 수혜주'가 되는가?
+
+**결론 — 조건부 중장기 수혜 가능성이 크지만, 자동적으로 '폭발적 기업성장'이나 큰 주가 상승이 보장되는 것은 아님.** **사용자 가정**: Ra의 19–49/37–40/2027 Rave Solar Plexus 변화에 따른 **포유류 고기 거부**가 현실로 나타나고, 그 소비가 **가금류(fowl)·어류(fish)** 및 일부 다른 식품으로 대체되는 **가상 시나리오**. 현재 생리학·유전학·영양학적으로 입증된 사실/예측이 아니며 OECD-FAO baseline은 **2035년 소고기 소비량도 +8%**로 전망한다. 강사 설명의 원뜻을 유지하되 실증적 전망과 구분.
+
+**원문 오해 교정:** [Ra Uru Hu, `The 64 Material Ways` Gate 19.3](https://pdfcoffee.com/the-64-material-ways-pdf-free.html)에서 대상은 **`Rave children — Solar Plexus altered children`**; 정확한 표현은 '2027년 이후 모든 신생아가 포유류 고기를 못 먹는다'가 아닌 **변이된 Solar Plexus를 가진 Rave 아이들에 대한 강사의 주장**이다. 강사는 포유류 섭취·19–49의 도축/식량 관계·37–40의 공동체적 고기 섭취와 fowl/fish/reptile 구분을 설명. [Jovian 공식 사전](https://jovianarchive.com/pages/human-design-dictionary)은 2027 이후 변형된 Solar Plexus를 가진 **새 종류의 인간이 나타나기 시작**한다는 체계 내부의 설명을 제공. 변이 출현율, 인구 내 확산, 소비 전환의 연간 변화율은 강사 자료·공식 시장전망에 **숫자로 공개된 정량적 경로가 없다**.
+
+**JBTM 사업수혜 실체:** [2026-09-23 JBT Marel Investor Presentation](https://view.news.eu.nasdaq.com/view?id=b9750c4ca87ec7f4ab21438f5e8e023c1&lang=en&src=listed) 슬라이드 3의 **FY2025 + 2026H1 장비 주문 mix**는 **가금45%·어류7%·meat16%·나머지32%**. **분모는 신규 장비 수주금액이지 회사 전체 매출·이익이 아님**. Meat는 beef/pork 등 주요 포유류 가공장비 포함. JBT는 2025 SEC [10-K](https://ir.jbtmarel.com/sec-filings/all-sec-filings/content/0001433660-26-000053/jbt-20251231.htm) 상 **가금·육류·수산물·간편식·과채류·식물성대체식품·유제품·베이커리·펫푸드·아쿠아피드**용 정량가공·가열·냉동·포장·SW·정비 서비스 제공. **Mammal processing과 pet-related equipment 감소 리스크**를 0으로 놓지 말 것.
+
+**세 가지 수익 경로:** (A) 닭·수산 가공량 증가→고속 도계/정밀 발골·필렛·선별·냉동·포장 설비 증설; (B) 기존 소·돼지 식품기업이 닭/어류·간편식/식물성으로 전환→**새 품종에 맞는 재설계·설치/라인 통합/AXIN·유지보수 매출**; (C) QSR·가공식품 다품종/규격화 확대와 높은 노동비→같은 원료의 더 많은 가판매 제품·수율·가동률 개선. 반면 **소·돼지 primary processing 투자 감소와 일부 축소된 설비 기반의 반복부품·서비스 손실** 가능.
+
+**가상 수주 구성의 손익분기 예시 — 공식 전망 아님:** 100을 기준으로 **가금45, 수산7, Meat16, 기타32**의 기존 장비 수주 믹스가 변하지 않는다고 가정하고, Meat 분야 장비 수주가 **50% 감소(-8p)**할 때 **수산이 그대로라면 가금 장비 수주가 약 17.8%(+8p) 증가해야만 총수주 감소를 상쇄**한다. 가금 +20%(+9p), 수산 +20%(+1.4p), Meat -50%(-8p)면 총 장비 수주가 **+2.4p**. 숫자는 독립적인 장비 수주 변화율 **설명용 사고실험**이며 식육 소비량 변화율과 주문량은 다르고 서로 대체/인프라 수주가 중복되는 걸 무시. 반면 가금·수산 **새 공장/라인 자동화 침투율**이 기존보다 높아지면 단순 소비증가를 상회하는 수주가 가능. **2025-26 mix를 고정한 2035·2050 전망이 아님**.
+  
+**시간축:** 2027에 새로운 Rave 변이 출생이 시작된다는 강사 내 전제를 채택해도, 2035에는 해당 출생세대가 **최대 만 8세**, 2045에 **최대 18세**, 2055에는 **28세** 정도이므로 **성인 주류 육류 소비구조 전환은 수십 년 이상 걸릴 수 있음**. 단 2027 이후 모든 아이가 변이된다는 가정은 원문에 없음. 성인/가족의 식품 구매가 바로 바뀌면 빠른 변화도 *조건부로* 가능하나 그 정도는 미정. 식량수요는 어른·고령층도 커서 유아 소비전환만으로 JBTM 단기 실적 폭증은 근거 없음.
+
+**강한 반론과 더 엄격한 게이트:** (1) **2026 OECD-FAO 2035 baseline**은 가금 +20%/소고기 +8%로 이미 일반적인 소→가금 상대전환을 반영. Ra식 **추가 가속분**이 신규 수주와 아직 가격에 미반영되어야 투자 초과이익 발생; (2) 단백질 대체가 가금/어류 아닌 식물성·발효·배양·달걀 등으로 갈 수도 있으며 JBTM 이 부문 장비가 있지만 수혜 비중 미정; (3) 중국 OEM·BAADER 등 경쟁사의 시장점유/가격할인, 가금류 HPAI/질병·양식 질병·규제·사료비 문제; (4) 회사 2026 9M **유기매출 성장 +1.8%**로 지금 당장 높은 성장 입증 안 됨; (5) 장기 회사 마진/ROIC·주당 FCF/현재 밸류·다른 산업의 매출 감소를 같이 검증.
+
+**판정:** `RA_CONDITIONAL_SCENARIO / RAVE_CHILDREN_SUBSET_NOT_ALL_BIRTHS / JBTM_POULTRY_FISH_EQUIPMENT_ORDER_52PCT / RED_MEAT_ORDER_16PCT_AT_RISK / NET_BENEFIT_CONDITIONAL / NO_BUY_APPROVAL`. **Owner 투자 선호와 적합성 가설은 강화**하되, '큰 수혜 확정', '20%+ 비중 승인', '2027 이후 매출 폭증'으로 기술하지 말 것. PAHC는 FY2026 가금36% vs 주요 포유류 축산 44%(낙농 포함, 우유와 고기 소비 반응 구분)이므로 동일 가정에서 JBTM에 비해 질적 방어·전환 옵션이 적을 수 있으나 수익률/비중 정량 비교는 별도.
+
+**근거:** [Ra 19.3 원문 발화](https://pdfcoffee.com/the-64-material-ways-pdf-free.html) · [Jovian 공식 Rave Children 용어](https://jovianarchive.com/pages/human-design-dictionary) · [JBT Sep2026 슬라이드](https://view.news.eu.nasdaq.com/view?id=b9750c4ca87ec7f4ab21438f5e8e023c1&lang=en&src=listed) · [JBT FY2025 10-K](https://ir.jbtmarel.com/sec-filings/all-sec-filings/content/0001433660-26-000053/jbt-20251231.htm) · [JBT 2026 Q3 실적](https://ir.jbtmarel.com/news/press-releases/detail/544/jbt-marel-corporation-reports-third-quarter-2026-results-and-announces-increased-share-repurchase-authorization) · [OECD-FAO 2026–2035 육류 전망](https://www.oecd.org/en/publications/oecd-fao-agricultural-outlook-2026-2035_47874669-en/full-report/meat_149b4ca3.html).
+
+
 ## 8. PM 가상 장기 성장 포트폴리오 — Owner 검토 전 예시 (2026-11-19)
 
 **2026-11-21 PM 정정 — JBTM 20% 의미:** 해당 최대 비중은 **실제 승률(예: 5년 원금손실 확률/시장초과수익 확률)을 통계적으로 측정하거나 타 종목 대비 우월한 위험조정 기대수익을 입증해서 부여한 값이 아니다.** 당시 `산업 자동화의 구조 성장 가능성 + 설비/서비스 설치기반에 따른 해자 후보 + AI 데이터센터 CAPEX 요인과의 분산`을 반영한 **가상 모델 가중치**다. 단백질 가공 자동화가 성장하더라도 **JBTM 전체 유기성장과 정상화 주당 FCF/ROIC·진입가격**이 이를 주주수익으로 연결한다는 증거는 미완성이다. 2026Q3 총매출 YoY -1%, Protein +6% 및 FY2026 GAAP EPS $4.30–4.60 vs adjusted $8.10–8.40 차이가 대표 검증 과제. **따라서 20%를 승률 1위나 매수 승인으로 표현하지 말 것.** 이후 5종목 압축 시 가중치 재산정 필요; 다른 후보 VRT 등의 5년 성과 확률/현금흐름 비교 전 상위 비중 확정 금지. `JBTM_20_MODEL_WEIGHT_UNDER_REVIEW / WIN_PROBABILITY_NOT_ESTIMATED / NO_BUY_APPROVAL`.
