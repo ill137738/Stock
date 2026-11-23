@@ -531,3 +531,20 @@ Detailed [AI cooling independent screen](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREE
 | E276 | [Jovian Archive Ra 2027 Mutation Lecture](https://jovianarchive.com/products/the-2027-mutation-lecture) / [Ra bonding text](https://jovianarchive.com/blogs/human-design-daily-life/the-background-frequency-will-change-the-way-we-bond) | `LECTURER_DESCRIPTION`: 2027 변화는 **animals as food sources relationship**와 **social/family contracts** 양쪽, 수백 년 단계. 19–49는 2027 영향 '면제'라는 주장은 원문과 맞지 않음. HD 해석은 농업 생산의 과학적 예측 아님 |
 
 `JBTM_VALUE_CHAIN_POSITIVE_BUT_SEGMENT_GROWTH_UNPROVEN / PAHC_FARM_ANIMAL_CORE / HD_LECTURER_INTENT_PRESERVED / NO_BUY_APPROVAL`. 상세 정본 [§7A](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#2026-11-23-식량산업-전망-단백질-소비-전환과-지정학적-식품-가격-변동성).
+
+## E277–E286 — 2026-11-23 JBT QSR SW 규격 변경, Ra 동물성 식단, 반려동물 노출
+
+| ID | 출처 | 구체 결과 및 한계 |
+|---|---|---|
+| E277 | [JBT QSR same-line production](https://cms.jbtmarel.com/en/news/creating-the-right-qsr-product-in-the-right-process/) | `ISSUER_PRODUCT_SPEC`: RoboOptimizer+I-Cut122 TrimSort·SW touchscreen으로 필렛/스트립 규격 수분 내 전환, 일부 병렬 생산; 큐브 생산에는 return belt **추가 하드웨어 가능** |
+| E278 | [Claxton customer](https://jbtmarel.com/en/customer-stories/claxton-poultry-optimizes-efficiency-with-marel-software/) | `ISSUER_CUSTOMER_CASE`: 다중 recipe 사전설정·중량/처리량/절단별 선별 및 규격외 원료 재배치 |
+| E279 | [Vossko customer](https://jbtmarel.com/en/customer-stories/stable-process-flows-the-basis-for-vossko-s-product-variety/) | `ISSUER_CUSTOMER_CASE`: 동일 닭원료 최대 3제품·TrimSort/SpeedSort 자동 공정 분리·제어실 Innova recipe 관리 |
+| E280 | [AXIN Process](https://jbtmarel.com/en/software/axin-process-solutions-explained/) / [Recipe Manager](https://cms.jbtmarel.com/en/products/innova-recipe-manager/poultry/) | `ISSUER_SOFTWARE_DOC`: recipe/배치/원료·고객별 라벨/추적성·라인 제어, SW만으로 모든 제품을 물리적으로 생산 불가 |
+| E281 | [Ra The 64 Material Ways Gate 19.3 pp.51–53 웹 전사](https://pdfcoffee.com/the-64-material-ways-pdf-free.html) | `LECTURER_TEXT_TRANSCRIPTION_VERIFY_EDITION`: 2027 19–49 붕괴·포유류 고기 쇠퇴, fish/fowl/reptile는 자연식품이라는 강사 주제, 37–40의 집단적 포유류 고기 의례, Rave 아이들이 포유류 고기를 받아들이지 못한다는 주장; **달걀·양식 시장 증가 정량예측 없음; 생리·과학 검증된 사실 아님** |
+| E282 | [Ra Rave Anatomy I Lecture 11 인쇄 pp.172–173 PDF p.181–182](https://s3.amazonaws.com/kajabi-storefronts-production/file-uploads/sites/71623/themes/2152708825/downloads/157bd7-5e81-7fb-7a06-8ba8d58f2e5a_Rave_Anatomy_I_secure.pdf) | `LECTURER_DIRECT_PRIMARY`: **12–22 사람-포유류 친분, 17–62 동물훈련, 19–49 식량용 포유류**. **37–40=반려동물 직접 규정 없음**. PDF 해당 페이지 screenshot 검증 |
+| E283 | [Jovian 2027 Mutation Lecture](https://jovianarchive.com/products/the-2027-mutation-lecture) / [2027 Series](https://jovianarchive.com/products/the-2027-series) | `OFFICIAL_COURSE_DESCRIPTION`: 수백 년의 변이 과정은 동물 식량원 관계·사회적 계약/유대·감정 변화 포함, **2027 소비 통계·연도별 가금/어류 전환율 예측 아님** |
+| E284 | [PAHC FY2026 10-K](https://www.sec.gov/Archives/edgar/data/1069899/000110465926101493/pahc-20260630x10k.htm) | `SEC_SPECIES_REVENUE`: 가금36/육우18/낙농15/돼지11=80%; 기타20%는 복합, 펫 비중 별도 공개 없음. 회사 공식 `business concentrated in livestock sector` |
+| E285 | [JBT wet pet food machinery](https://cms.jbtmarel.com/en/pet-food/wet-pet-food/) / [poultry byproducts pet food](https://cms.jbtmarel.com/en/news/pet-food-production-for-poultry-processors/) | `ISSUER_PRODUCT_DOC`: 펫푸드 믹싱/절단/조리/포장/부산물 전환 설비 공급, **펫 관련 장비 독립 revenue share 없음** |
+| E286 | [Ra Rave Anatomy I Lecture 11 인쇄 p.165/PDF p.174](https://s3.amazonaws.com/kajabi-storefronts-production/file-uploads/sites/71623/themes/2152708825/downloads/157bd7-5e81-7fb-7a06-8ba8d58f2e5a_Rave_Anatomy_I_secure.pdf) | `LECTURER_DIRECT`: 19–49 husbandry 포유류 사육/도축·식량 자원, 37–40 가족/공동체 필요 제공/계약 구분. **The 64 Material Ways** Gate19.3의 37–40 집단적 식육 의례 설명을 함께 보아야 함 |
+
+**Owner 신규 필터:** `PET_DEPENDENCY_LOW_PREFERENCE / EXACT_REVENUE_SHARE_UNKNOWN / NO_BUY_APPROVAL`. 상세는 [통합 정본 §7A 후속](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#2026-11-23-식량산업-전망-단백질-소비-전환과-지정학적-식품-가격-변동성).
