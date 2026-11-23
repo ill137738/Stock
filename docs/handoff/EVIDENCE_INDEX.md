@@ -583,3 +583,17 @@ Detailed [AI cooling independent screen](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREE
 | E301 | [JBT Sep2026 investor slide](https://docs.publicnow.com/viewDoc?filename=82802%5CEXT%5CB91AC77B8B1DD2996CEFB92D18F3E143AF1692D9_11A9CE63D979ADFC9581CA5011733D389F0BC227.PDF) / [JBT FY2025 release](https://www.sec.gov/Archives/edgar/data/1433660/000143366026000017/a2025q4earningsexhibit9918k.htm) | `ISSUER_TARGET`: 2025–2028 organic revenue CAGR 5–7%, 2028 adjusted EBITDA margin 20%, ROIC double digit; FY25 recurring revenue ~50% includes equipment service/parts/rentals/rebuilds and some SW, not subscription software alone |
 
 **판정:** 기업 전체의 안정·해자·실현 성장/FCF 예측성 **KO 우세**, 식품 자동화 기술/마진개선 상방 JBTM 가능. **기존 Owner KO 핵심 제외 그대로**, 현재 두 종목 가격/IRR 비교 및 투자 승인 없음. `COMPANY_QUALITY_COMPARISON_ONLY / KO_ARCHIVED_COMPARATOR_REMAINS / NO_BUY_APPROVAL`.
+
+## E302–E308 — 2026-11-23 VRT vs MRVL 최신 기업 비교
+
+| ID | 1차·현시장 자료 | 검증된 내용 및 한계 |
+|---|---|---|
+| E302 | [VRT 2026Q3 IR](https://investors.vertiv.com/news/news-details/2026/Vertiv-Reports-Strong-Third-Quarter-2026-with-Net-Sales-Growth-of-61-Organic-Orders-Growth-over-100-and-Diluted-EPS-Growth-of-91-Adjusted-Diluted-EPS-Growth-of-78-Raises-Full-Year-2026-Guidance-Across-All-Key-Metrics/) | Q3 sales $4.313B +61%/organic +55%, organic orders >100% YoY, adj margin25.2%, 2026 adjusted FCF $2.6–2.8B GUIDE (non-GAAP). |
+| E303 | [MRVL FY27Q2 IR](https://investor.marvell.com/news-events/press-releases/detail/1031/marvell-technology-inc-reports-second-quarter-of-fiscal-year-2027-financial-results) | Sales $2.739B +37%, DC +46%/비중 ~79%, GAAP GM53.1%, GAAP diluted EPS $0.33 vs non-GAAP $0.94. |
+| E304 | [VRT 2026-11-20 StockAnalysis](https://stockanalysis.com/stocks/vrt/statistics/) | Nov20 close $166.24, market cap $64.01B, TTM FCF $3.15B, P/FCF20.34x, PS4.88, forwardPE17.89. |
+| E305 | [MRVL 2026-11-20 StockAnalysis](https://stockanalysis.com/stocks/mrvl/statistics/) | Nov20 close $122.28, market cap $107.36B, TTM FCF $1.73B, P/FCF62.05x, PS11.36, forwardPE21.68; all **standalone prior to LITE closing**. |
+| E306 | [MRVL/LITE 11/02 signed all-stock merger](https://www.sec.gov/Archives/edgar/data/1835632/000119312526442714/d81187dex991.htm) | LITE1 ↔ MRVL4.5 shares, 67%/33% pro forma existing shareholders, Oct28 reference EV $115B not a cash purchase, synergies >$1B anticipated not achieved, pending closing. |
+| E307 | [MRVL Google warrant SEC](https://www.sec.gov/Archives/edgar/data/1835632/000119312526356217/d412696d8k.htm) | 58,970,907 shares max, $206.58 exercise, mainly long-term conditional purchases revenue $500M milestones; not guaranteed cash order or instant dilution. |
+| E308 | [MRVL 12/1 official earnings scheduling](https://investor.marvell.com/news-events/press-releases/detail/1041/marvell-technology-inc-announces-conference-call-to-review-third-quarter-of-fiscal-year-2027-financial-results) / [existing cash audit](VRT_VS_MRVL_RISK_ADJUSTED_5YEAR_UNDERWRITING_20261115.md) | FY27Q3 MRVL not released as of 11/23; prior H1 MRVL SBC $533.8M vs FCF proxy $961.9M, VRT 9M SBC $50.5M vs FCF proxy $2.230B (different lengths, not directly comparable). |
+
+**PM subjective score** VRT 84/100 vs MRVL 75/100, NOT expected IRR/target price/win-probability. **NO_BUY_APPROVAL**.
