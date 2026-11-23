@@ -346,6 +346,29 @@
 **투자 판정:** `SPECIES_SPECIFIC_PRIMARY_PROCESS / SHARED_FURTHER_PROCESS_POSSIBLE / RAVE_NOT_ALL_POST_2027_BIRTHS / NO_BUY_APPROVAL`. 동일 장비의 재사용률·재설치 비용·JBTM 신규수주 전환율/기존 서비스 손실을 정량화하기 전 라 2027 시나리오를 JBT 주가에 자동 반영하지 않는다.
 
 
+#### 10. 2026-11-23 KO vs JBTM — '기업 대 기업' 장기 성장성과 안정성 비교 (매수가·기존 연구선택과 분리)
+
+**질문/결론:** Owner가 과거 단백질·젖소 upstream 편향 때문에 연구 CORE2에서 제외한 **KO(코카콜라)**와 핵심 연구 대상 **JBTM**을 이제 **주가·포트폴리오 편입과 별개로 기업 자체의 사업 질·향후 5~10년 성장·안정성** 관점으로 재비교 요청. **종합적으로 검증된 기업 경쟁력·안정성·현금창출/예측성은 KO 우세**, JBTM은 식품 자동화라는 전략적 산업 변화와 인수통합/서비스·AXIN 소프트웨어의 잠재적 **상방**이 우세할 수 있지만 **높은 장기 성장률/주주 초과수익 실현은 미확인**. 이 판단은 **KO를 Owner의 승인 없는 신규 핵심 연구 후보로 승격하거나 실매수를 지시하는 결정이 아님**. `KO_BUSINESS_QUALITY_WINNER / JBTM_GROWTH_OPTION_HIGHER_UNCERTAINTY / CORE2_UNCHANGED / NO_BUY_APPROVAL`.
+
+**최신 검증 실적 (기간/분모 구분):**
+| 항목 | KO 2026Q3(10월 2일 종료) | JBTM 2026Q3(9월 30일 종료) |
+|---|---|---|
+| Q3 외형 | $13.38B 매출 +7% 보고, **유기적 매출 +7%**, 글로벌 unit case **+5%** | $994M 매출 **약 -1%** 보고, Protein Solutions **+6%**, Prepared Food & Beverage **-6%** |
+| Q3 수익성 | **GAAP 영업이익률 33.4%**(vs 32.0% YoY), GAAP EPS +8%($0.93) / comparable EPS +11%($0.91) | **GAAP 순이익률 7.0%**(KO 영업이익률과 직접 비교 금지), adj EBITDA margin **18.0%** / GAAP EPS +6%($1.34), adj EPS +13%($2.19) |
+| 2026 9M 유기성장 | **+8%** (KO 9M organic), 2026 전체 organic 가이드 **최소 +5%** | **+1.8%** (JBTM 9M organic), 2026 전체 보고 매출 중간값 **약 +5% (FX 효과 약 +1.5% 포함)** |
+| 주주 FCF | 2026 9M **$11.4B**(GAAP CFO-CAPEX), FY26 전망 **최소 $13.0B**. 참고 FY25 GAAP **$5.3B**는 fairlife earnout **$6.1B** 일회성 지급으로 왜곡 | 2026 9M **$252M**(CFO $320M-CAPEX $68M), 순부채/TTM adj EBITDA **2.45x**. 규모가 다르므로 **절대액 우위만으로 사업 질 판정 금지** |
+| 경영진 중기/장기 목표 | **유기매출 CAGR 4–6%, comparable FX-neutral EPS 7–9%, 2025 회사 조정 ROIC ~23%** | **2025–28 유기매출 CAGR 5–7%**, 2028 **adj EBITDA margin 20% / ROIC 10%+** 목표(2026 adj EBITDA margin 17.25–17.50% 가이드). 조정 ROIC 정의 차이로 직접 동일분모 수익률 비교 불가 |
+
+**KO 안정성의 구조적 근거:** 세계적 브랜드/IP+다층 유통/제조보틀러 생태계+외식업체 장기 계약·진열공간+원액/프랜차이즈의 높은 자본 효율. 디스인플레이션·경기침체에도 **반복구매 규모**가 크며 현금흐름 가시성 우수. 2026 Q3 **Coca-Cola Zero Sugar 판매 +16%**, 글로벌 물·스포츠·커피·차 **+5%**로 설탕 건강 우려에 대응. 회사는 2026 **64년 연속 연간 배당 인상**, 장기 cash distribution 검증. 한편 **전통 탄산음료 설탕/비만 규제, GLP-1 등 선호 변화, 물/플라스틱 환경비용, 원자재/환율, 미국 IRS 세금 분쟁, fairlife 유제품 공급망/수익성**은 리스크. 향후 all-in 포트폴리오의 유제품 매출 비중 미공시로 **KO를 mammal-free로 간주 금지**.
+
+**JBTM 성장 옵션의 근거:** 고객 노동비·사료·위생·원재료 손실 대비 닭/어류 정밀 발골·규격 가공·QSR/ready-meal·AXIN 공장통합·서비스. FY25 JBTM recurring (부품/A/S/재빌드·렌탈/일부SW 포함) **전사 매출 50%**로 성과 지속성 방어. Marel 인수 후 2028 adj EBITDA 마진 20%가 현실화되면 **매출 성장률보다 조정 EBITDA/주당 이익이 더 빠를** 가능성; 그러나 2026 Q3 total revenue -1%, prepared -6%, 9M organic +1.8%는 **성장 옵션이 이미 실현됐다는 주장에 반증**. 고성능 중국 장비 경쟁/설치 CAPEX 사이클/구조조정과 인수상각(2026 GAAP EPS $4.30–4.60 vs adj $8.10–8.40)도 부담.
+
+**성장률 판단:** KO 매출 CAGR 장기 목표 **4–6%**, EPS **7–9%**는 **여전히 높은 지속 성장**. JBTM의 organic 매출 CAGR 5–7% 목표는 KO보다 소폭 높은 수준이고 크게 차이나지 않으며 **달성 신뢰도는 KO 우세**. JBTM 영업마진 개선에 성공할 경우 조정 이익 성장은 KO를 추월할 수 있지만 **기술혁신=지속10% organic 성장 입증 아님**.
+
+**종합 판정:** '더 좋은 기업'을 **장기 경쟁우위×성장 실현가능성×FCF 안정성×침체 내성**으로 묶으면 **KO**. '성장률 상방/생산성 기술·산업 미래 노출' 우선이라면 **JBTM**의 투자 관점 매력. '더 좋은 주식/현재 투자수익률' 결론에는 **동일 시점 시총/EV·정상화 FCF·향후 3–5년 EPS와 ROIC/배당·주식희석·Bear/Base/Bull IRR** 비교가 추가 필요. `COMPANY_COMPARISON_ONLY / KO_NOT_REINSTATED_TO_CORE / NO_BUY_APPROVAL`.
+
+**1차 근거:** [KO 2026Q3 공식](https://investors.coca-colacompany.com/news-events/press-releases/detail/1176/coca-cola-reports-third-quarter-2026-results-and-raises-full-year-guidance) · [KO 2026 Q3 10-Q](https://investors.coca-colacompany.com/filings-reports/all-sec-filings/content/0001628280-26-067844/ko-20261002.htm) · [KO 2026 CAGNY 장기 목표/ROIC](https://investors.coca-colacompany.com/_assets/_113922efea4553381957ab7c133a08d5/cocacolacompany/db/856/11090/presentation/2026%2BCAGNY%2BPresentation%2B-%2BFinal.pdf) · [KO 2026 64년 연속 배당](https://investors.coca-colacompany.com/news-events/press-releases/detail/1152/board-of-directors-of-the-coca-cola-company-elects-new-officer-and-approves-64th-consecutive-annual-dividend-increase) · [JBTM 2026Q3 공식](https://ir.jbtmarel.com/news/press-releases/detail/544/jbt-marel-corporation-reports-third-quarter-2026-results-and-announces-increased-share-repurchase-authorization) · [JBTM 2026 10-Q](https://ir.jbtmarel.com/sec-filings/all-sec-filings/content/0001628280-26-069624/jbt-20260930.htm) · [JBTM Sep 2026 Investor Presentation](https://docs.publicnow.com/viewDoc?filename=82802%5CEXT%5CB91AC77B8B1DD2996CEFB92D18F3E143AF1692D9_11A9CE63D979ADFC9581CA5011733D389F0BC227.PDF).
+
 ## 8. PM 가상 장기 성장 포트폴리오 — Owner 검토 전 예시 (2026-11-19)
 
 **2026-11-21 PM 정정 — JBTM 20% 의미:** 해당 최대 비중은 **실제 승률(예: 5년 원금손실 확률/시장초과수익 확률)을 통계적으로 측정하거나 타 종목 대비 우월한 위험조정 기대수익을 입증해서 부여한 값이 아니다.** 당시 `산업 자동화의 구조 성장 가능성 + 설비/서비스 설치기반에 따른 해자 후보 + AI 데이터센터 CAPEX 요인과의 분산`을 반영한 **가상 모델 가중치**다. 단백질 가공 자동화가 성장하더라도 **JBTM 전체 유기성장과 정상화 주당 FCF/ROIC·진입가격**이 이를 주주수익으로 연결한다는 증거는 미완성이다. 2026Q3 총매출 YoY -1%, Protein +6% 및 FY2026 GAAP EPS $4.30–4.60 vs adjusted $8.10–8.40 차이가 대표 검증 과제. **따라서 20%를 승률 1위나 매수 승인으로 표현하지 말 것.** 이후 5종목 압축 시 가중치 재산정 필요; 다른 후보 VRT 등의 5년 성과 확률/현금흐름 비교 전 상위 비중 확정 금지. `JBTM_20_MODEL_WEIGHT_UNDER_REVIEW / WIN_PROBABILITY_NOT_ESTIMATED / NO_BUY_APPROVAL`.
