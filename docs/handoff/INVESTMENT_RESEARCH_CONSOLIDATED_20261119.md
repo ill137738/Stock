@@ -337,6 +337,15 @@
 **근거:** [Ra 19.3 원문 발화](https://pdfcoffee.com/the-64-material-ways-pdf-free.html) · [Jovian 공식 Rave Children 용어](https://jovianarchive.com/pages/human-design-dictionary) · [JBT Sep2026 슬라이드](https://view.news.eu.nasdaq.com/view?id=b9750c4ca87ec7f4ab21438f5e8e023c1&lang=en&src=listed) · [JBT FY2025 10-K](https://ir.jbtmarel.com/sec-filings/all-sec-filings/content/0001433660-26-000053/jbt-20251231.htm) · [JBT 2026 Q3 실적](https://ir.jbtmarel.com/news/press-releases/detail/544/jbt-marel-corporation-reports-third-quarter-2026-results-and-announces-increased-share-repurchase-authorization) · [OECD-FAO 2026–2035 육류 전망](https://www.oecd.org/en/publications/oecd-fao-agricultural-outlook-2026-2035_47874669-en/full-report/meat_149b4ca3.html).
 
 
+#### 9. 2026-11-23 포유류 설비 재사용과 2027년 이후 비Rave 출생자의 식육 반응 구분
+
+**공장 전환의 설비비용은 공정별로 상이:** JBT Marel 2025 10-K는 가금·돼지/소·어류 도축·발골·냉각 등 primary/secondary 동물별 장비 포트폴리오와 혼합·양념·가열·냉동·계량·검사·포장 등 범용 further-processing 설비를 구분. [JBT 육류·어류·가금 범용 절단 장비](https://jbtmarel.com/en/meat/transforming-cutting/)는 meat/poultry/fish/cheese 다이싱·슬라이싱 등 원료 공용을 명시. [Marel/JBT 시장기술 구분 참조](https://www.chainbridgeresearch.com/chainbridge/pdf/18601/)는 **가금/적색육/어류의 크기·해부학적 구조가 달라 초기 가공/발골 장비가 상당히 구분**됨을 설명. 따라서 소·돼지→닭·어류 시 **(1) 도축/발골 전용 설비는 신설/교체 중심, (2) 범용 정량절단·혼합·조리·냉동·포장은 설비 원료범위/위생인증·세척·CAPEX에 따라 재사용, (3) AXIN·작업지시/검사/라벨 SW는 새 라인 모델·센서/통합에 맞춰 재설정·개발**이 필요할 수 있음. **같은 공장 기존라인 전부 재사용 불가능, 전부 신규 설치 필수 모두 과잉일반화**. 한 공정의 설비 전환이 JBTM에 매출을 발생시키더라도 기존 mammal 라인 사후정비 매출 감소·신규 계약의 업체경쟁을 동반하므로 **net FCF benefits UNKNOWN**.
+
+**Ra 원문의 정확한 적용 대상:** [`The 64 Material Ways` 19.3 pp.51–53](https://pdfcoffee.com/the-64-material-ways-pdf-free.html)에서 강사는 **`Rave children — Solar Plexus altered children`**가 육류(맥락상 포유류 고기)를 소화하지 못하고 즉각 구토하는 신체 반응이라고 설명. [Jovian Archive Rave Children 공식 용어집](https://jovianarchive.com/pages/human-design-dictionary)은 **2027을 기점으로 mutated Solar Plexus를 지닌 새로운 Rave 형태가 나타나기 시작한다**고 규정하고, **2027 이후 모든 출생아가 Rave가 된다는 뜻은 아니다**. `NON_RAVE_POST_2027` 출생자에게도 **동일한 신체 거부가 반드시 생긴다는 강사 직접 기술은 확인되지 않음**. 그러나 **비Rave는 무조건 포유류 고기를 먹을 수 있다**는 직접 검증·보장도 아님: 개인선호·시대적 식습관/건강은 별도. 원문에는 사회 전체 식문화가 변한다는 더 폭넓은 설명도 있기 때문에 **신체 변이와 공동체 식습관 변화는 분리**. 2027 mutation/소화 불능은 실증 의학 근거 없는 체계 내부의 주장.
+
+**투자 판정:** `SPECIES_SPECIFIC_PRIMARY_PROCESS / SHARED_FURTHER_PROCESS_POSSIBLE / RAVE_NOT_ALL_POST_2027_BIRTHS / NO_BUY_APPROVAL`. 동일 장비의 재사용률·재설치 비용·JBTM 신규수주 전환율/기존 서비스 손실을 정량화하기 전 라 2027 시나리오를 JBT 주가에 자동 반영하지 않는다.
+
+
 ## 8. PM 가상 장기 성장 포트폴리오 — Owner 검토 전 예시 (2026-11-19)
 
 **2026-11-21 PM 정정 — JBTM 20% 의미:** 해당 최대 비중은 **실제 승률(예: 5년 원금손실 확률/시장초과수익 확률)을 통계적으로 측정하거나 타 종목 대비 우월한 위험조정 기대수익을 입증해서 부여한 값이 아니다.** 당시 `산업 자동화의 구조 성장 가능성 + 설비/서비스 설치기반에 따른 해자 후보 + AI 데이터센터 CAPEX 요인과의 분산`을 반영한 **가상 모델 가중치**다. 단백질 가공 자동화가 성장하더라도 **JBTM 전체 유기성장과 정상화 주당 FCF/ROIC·진입가격**이 이를 주주수익으로 연결한다는 증거는 미완성이다. 2026Q3 총매출 YoY -1%, Protein +6% 및 FY2026 GAAP EPS $4.30–4.60 vs adjusted $8.10–8.40 차이가 대표 검증 과제. **따라서 20%를 승률 1위나 매수 승인으로 표현하지 말 것.** 이후 5종목 압축 시 가중치 재산정 필요; 다른 후보 VRT 등의 5년 성과 확률/현금흐름 비교 전 상위 비중 확정 금지. `JBTM_20_MODEL_WEIGHT_UNDER_REVIEW / WIN_PROBABILITY_NOT_ESTIMATED / NO_BUY_APPROVAL`.
