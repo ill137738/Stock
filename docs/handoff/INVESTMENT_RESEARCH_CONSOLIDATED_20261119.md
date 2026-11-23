@@ -369,6 +369,44 @@
 
 **1차 근거:** [KO 2026Q3 공식](https://investors.coca-colacompany.com/news-events/press-releases/detail/1176/coca-cola-reports-third-quarter-2026-results-and-raises-full-year-guidance) · [KO 2026 Q3 10-Q](https://investors.coca-colacompany.com/filings-reports/all-sec-filings/content/0001628280-26-067844/ko-20261002.htm) · [KO 2026 CAGNY 장기 목표/ROIC](https://investors.coca-colacompany.com/_assets/_113922efea4553381957ab7c133a08d5/cocacolacompany/db/856/11090/presentation/2026%2BCAGNY%2BPresentation%2B-%2BFinal.pdf) · [KO 2026 64년 연속 배당](https://investors.coca-colacompany.com/news-events/press-releases/detail/1152/board-of-directors-of-the-coca-cola-company-elects-new-officer-and-approves-64th-consecutive-annual-dividend-increase) · [JBTM 2026Q3 공식](https://ir.jbtmarel.com/news/press-releases/detail/544/jbt-marel-corporation-reports-third-quarter-2026-results-and-announces-increased-share-repurchase-authorization) · [JBTM 2026 10-Q](https://ir.jbtmarel.com/sec-filings/all-sec-filings/content/0001628280-26-069624/jbt-20260930.htm) · [JBTM Sep 2026 Investor Presentation](https://docs.publicnow.com/viewDoc?filename=82802%5CEXT%5CB91AC77B8B1DD2996CEFB92D18F3E143AF1692D9_11A9CE63D979ADFC9581CA5011733D389F0BC227.PDF).
 
+#### 11. 2026-11-23 VRT vs MRVL — 종합 기업 경쟁력과 11/20 가격기준 투자매력 재검토
+
+**결론:** Owner의 KO/JBTM 비교와 같은 기업 전체 평가 관점에서 **VRT > MRVL (위험조정 종합 질)**. VRT는 **냉각+전력+시공/설치/서비스**의 실현 해자와 2026 강한 매출/주문/현금흐름, 순현금 및 상대적으로 완만한 인수/희석 위험. MRVL은 광학 DSP/SerDes·switching·custom ASIC/Google, Celestial AI와 Lumentum을 통한 **기술 상방/개별 특허 IP·광통신 성장**이 더 높을 수 있지만 **2026-11-02 서명된 Lumentum 메가 합병과 조건부 Google warrant, 고객 집중/수직통합, 높은 현금흐름 대비 가격**이 주주 총수익의 불확실성을 높인다. 2026-11-15 [기존 상세 위험조정 심사](VRT_VS_MRVL_RISK_ADJUSTED_5YEAR_UNDERWRITING_20261115.md)의 **VRT 우선**을 신규 실적/가격으로 재검증, 별도 새 보고서 불필요. \`VRT_BUSINESS_QUALITY_AND_RISK_ADJUSTED_PREFERENCE / MRVL_OPTICAL_HIGH_UPSIDE / NOT_PRICE_TARGET_OR_BUY_APPROVAL\`.
+
+**시점 일치 가격/펀더멘털: 미국 2026-11-20 마지막 완료 거래일 정규장 종가; 회계/분모 차이를 같이 표시**
+
+| 항목 | VRT (2026Q3 끝 9/30) | MRVL (FY27Q2 끝 8/1, 다음 실적 12/1 예정) |
+|---|---|---|
+| 최근 분기 보고 매출/YoY | **$4.313B / +61%**, 유기 **+55%** | **$2.739B / +37%**, DC **+46%**; DC 비중 **~79%** |
+| 수주/전망 | 분기 **organic orders YoY >100%**, FY26 organic sales growth **37–39%**·sales $14.45–14.85B, **adj FCF $2.6–2.8B** (Issuer) | FY27Q3 예정 매출 **$3.15B ±5%**(8/27 공식 가이던스), 공식 **FY27Q3 결과 NOT_YET_RELEASED** (12/1 예정) |
+| 마진 (GAAP 기준) | 2026Q3 **GAAP operating margin 약22.8%**, adjusted operating **25.2%** | FY27Q2 **GAAP operating margin 약16.8%**, **GAAP gross margin 53.1%** (두 margin 서로 비교하지 않음) |
+| 2026-11-20 종가/시총 | **$166.24 / $64.01B** | **$122.28 / $107.36B** (pending LITE 제외 standalone quote) |
+| TTM 현금흐름 | **$3.15B CFO−CAPEX**(StockAnalysis, 2026Q3 업데이트) | **$1.73B CFO−CAPEX**(StockAnalysis, FY27Q2 업데이트) |
+| backward P/FCF | **~20.3x / yield 4.9%** | **~62.1x / yield 1.6%** |
+| backward P/S / forwards P/E | **4.88x / 17.89x** | **11.36x / 21.68x** |
+| 의미 | **가격/현금창출 대비 VRT** 선호, 단 고객 선급금/운전자본 정상화 중요 | MRVL 고성장/경쟁 IP 가치에 더 높은 기대 반영; **2027-28 합병 기업 예측에 기존 standalone multiples 사용 금지** |
+
+**기업 경쟁력 점수는 정성적 판단을 수량화한 것일 뿐 실제 승률이나 IRR이 아님**:
+- 해자/기술/고객가치 **25점:** VRT **22**(고밀도 DC 냉각·전력·공장통합/글로벌 시공/서비스), MRVL **23**(광 DSP/SerDes/custom IP 및 Lumentum 기술, 후자는 통합 전)
+- 지속 성장의 근거/상방 **25:** VRT **23**(실주문/유기매출 성장), MRVL **23**(DC 46%, 광 연결·Google custom, 높은 위험)
+- 현금흐름·자본효율 **25:** VRT **22**, MRVL **17**(MRVL GAAP/비GAAP 괴리, SBC, M&A 차이)
+- 경기침체/경쟁/고객/인수 리스크 **25:** VRT **17**, MRVL **12**(33% LITE 주주지분·Google 조건부 warrant 및 고객집중)
+- **합계 VRT 84/100 / MRVL 75/100**. 이는 **현재 사업의 위험조정 실행가능성 평가**로, 가격의 상승확률 84%/75%가 아니다. **현재 가격으로 투자자 수익을 판단할 때 VRT 선호가 오히려 강화**되지만 같은 날짜의 포스트합병 2027-31 owner FCF 시나리오와 사업주기 스트레스를 따로 계산해야 한다.
+
+**MRVL의 중요한 deal counterpoint — 단순 주식 희석률을 손실률로 해석 금지:** 2026-11-02 정식 [Marvell/Lumentum 합병계약 SEC](https://www.sec.gov/Archives/edgar/data/1835632/000119312526442714/d81187dex991.htm)는 **LITE 1주 ↔ MRVL 4.5주**의 fixed exchange, **MRVL 기존주주 67% / LITE 기존주주 33%** pro forma (fully diluted). 인수가치는 **2026-10-28 unaffected 주가 기준 LITE EV $115B** *발표 당시*의 참고가격일 뿐 11/20 현재 고정 현금 지출/총가치는 아님. MRVL 주주가 33%를 내주는 동시에 Lumentum 설비·IP·매출·현금흐름을 취득하므로 **증분 ROIC/synergies의 2028 이후 실현과 공정 인수가**가 관건. 연 $1B+ 회사 제시 cost synergy는 미실현, **거래 미종결/주주·규제 승인 대기**. 2026-08 [Google 8-K](https://www.sec.gov/Archives/edgar/data/1835632/000119312526356217/d412696d8k.htm)는 **최대 58,970,907주 warrant, 주당 행사가 $206.58**, 대부분 FY2033까지 고객 맞춤제품 **매출 $500M 단위별 조건부 vest**, **아직 발행된 보통주/보장 수주/즉시 6.7% 희석 아님**; 주당 FCF 모델에서 시나리오별 희석·행사현금 반영.
+
+**현금흐름의 해석 한계:**
+- TTM stock-analysis VRT 2026-09 $3.15B /MRVL 2026-08 $1.73B는 **같은 CFO−CAPEX 공통 산식의 관측 결과**이나 **두 회계마감과 성장/운전자본 단계 다름**. VRT 2026 9M CFO+$2.66B는 고객 선수금/운전자본(+~$0.54B 유리)도 포함; 이를 영구 FCF 마진으로 외삽 금지.
+- MRVL 2026 H1 CFO $1.244B/CAPEX $0.282B, 회사 SBC addback **$0.534B**, FCF proxy ~$0.962B에 큰 비율. VRT 같은 기간 아닌 2026 9M SBC **$0.0505B** vs proxy FCF $2.230B. **동일 기간 아닌 비교**이나 MRVL 지분보상·희석 민감도에서 의미 있음. SBC를 CFO에서 **이중 현금차감 금지**, 주당 share count/repurchase로 반영.
+- MRVL 2025/26 한때 automotive Ethernet 지분 매각 **일회성 손익**이 trailing GAAP 순익/PE를 교란. **높은/낮은 PER 자체보다 normalized per-share FCF/EV/증분 ROIC 우선**.
+
+**반론:** VRT는 AI hyperscaler CAPEX 고밀도/냉각 침체·고정가격 대형 프로젝트 원가·경쟁(Schneider/Motivair·Eaton·Johnson Controls·nVent/중국 Envicool) 위험이 존재. **>100% 수주 증가와 >50% organic 실적을 10년 성장률처럼 그대로 외삽하면 안 됨.** MRVL 광학의 네트워크 throughput/전력 효율 중요성과 Google custom chip partnership, Lumentum 레이저/CPO 수직 기술 플랫폼은 **VRT보다 긴 구조적 성장 옵션**을 가질 수 있으며, 합병 회복과 현금수익률 확대가 확인되면 평가 역전 가능. 높은 총 시장(TAM) $550B를 실제 수주/주주수익 예측으로 취급 금지. **두 기업 모두 AI CAPEX 사이클에 종속되므로 강한 상관 위험, 분산 종목 2개로 간주 금지.**
+
+**최우선 후속 게이트:** (1) **MRVL 2026-12-01 FY27Q3 실제 발표**: optical vs custom 별도 매출·GAAP/주당 FCF/고객 마진·Google, (2) LITE 합병의 반독점 승인/수정·연기·파기와 pro forma **fully diluted owner FCF per share**, (3) VRT 높은 백로그/선수금→고객 인수/실현 FCF 정상화/주문 취소, (4) 양사 같은 AI CAPEX 하락 시 share price drawdown·현재 가격 대비 5y IRR. **기존 JBTM Core R1 및 이전 비중 가상안 변동 없음, 신규 매수 승인 없음.**
+
+**1차:** [VRT 2026Q3 IR 10/28](https://investors.vertiv.com/news/news-details/2026/Vertiv-Reports-Strong-Third-Quarter-2026-with-Net-Sales-Growth-of-61-Organic-Orders-Growth-over-100-and-Diluted-EPS-Growth-of-91-Adjusted-Diluted-EPS-Growth-of-78-Raises-Full-Year-2026-Guidance-Across-All-Key-Metrics/) · [MRVL FY27Q2 IR 8/27](https://investor.marvell.com/news-events/press-releases/detail/1031/marvell-technology-inc-reports-second-quarter-of-fiscal-year-2027-financial-results) · [SEC LITE merger 11/02](https://www.sec.gov/Archives/edgar/data/1835632/000119312526442714/d81187dex991.htm) · [SEC Google warrant 8/19](https://www.sec.gov/Archives/edgar/data/1835632/000119312526356217/d412696d8k.htm) · [VRT Nov20 stock metrics](https://stockanalysis.com/stocks/vrt/statistics/) · [MRVL Nov20 stock metrics](https://stockanalysis.com/stocks/mrvl/statistics/) · [MRVL 12/01 FY27Q3 call announcement](https://investor.marvell.com/news-events/press-releases/detail/1041/marvell-technology-inc-announces-conference-call-to-review-third-quarter-of-fiscal-year-2027-financial-results).
+
+
 ## 8. PM 가상 장기 성장 포트폴리오 — Owner 검토 전 예시 (2026-11-19)
 
 **2026-11-21 PM 정정 — JBTM 20% 의미:** 해당 최대 비중은 **실제 승률(예: 5년 원금손실 확률/시장초과수익 확률)을 통계적으로 측정하거나 타 종목 대비 우월한 위험조정 기대수익을 입증해서 부여한 값이 아니다.** 당시 `산업 자동화의 구조 성장 가능성 + 설비/서비스 설치기반에 따른 해자 후보 + AI 데이터센터 CAPEX 요인과의 분산`을 반영한 **가상 모델 가중치**다. 단백질 가공 자동화가 성장하더라도 **JBTM 전체 유기성장과 정상화 주당 FCF/ROIC·진입가격**이 이를 주주수익으로 연결한다는 증거는 미완성이다. 2026Q3 총매출 YoY -1%, Protein +6% 및 FY2026 GAAP EPS $4.30–4.60 vs adjusted $8.10–8.40 차이가 대표 검증 과제. **따라서 20%를 승률 1위나 매수 승인으로 표현하지 말 것.** 이후 5종목 압축 시 가중치 재산정 필요; 다른 후보 VRT 등의 5년 성과 확률/현금흐름 비교 전 상위 비중 확정 금지. `JBTM_20_MODEL_WEIGHT_UNDER_REVIEW / WIN_PROBABILITY_NOT_ESTIMATED / NO_BUY_APPROVAL`.
