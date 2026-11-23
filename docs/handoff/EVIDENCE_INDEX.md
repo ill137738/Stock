@@ -560,3 +560,14 @@ Detailed [AI cooling independent screen](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREE
 | E291 | [OECD-FAO Meat 2026–2035](https://www.oecd.org/en/publications/oecd-fao-agricultural-outlook-2026-2035_47874669-en/full-report/meat_149b4ca3.html) | SCIENCE_ECONOMIC_BASELINE: 2035 가금 +20%, 소고기 +8% (2023–25 base). Ra 2027의 검증되지 않은 추가 전환을 이미 관측된 기본 변화와 중복 계산하지 말 것 |
 
 **미실현 조건부 수주 예제**: Meat order -50%(-8pp), Poultry +20%(+9pp), Seafood +20%(+1.4pp) => 기존 총 장비주문 100 대비 **+2.4pp**. 이 산식은 **일반 고객의 선호/소비 변화율·JBT 회계상 실적 성장률로 바로 매핑하지 않는 설명용 시나리오**이다. **2035/2045 탄력성·펫/유제품 시장 변화·주당 FCF 결과 UNKNOWN**, NO_BUY_APPROVAL.
+## E292–E295 — 2026-11-23 JBT 설비 전환의 공용성 및 Ra 비Rave 적용
+
+| ID | 직접 자료 | 판정 |
+|---|---|---|
+| E292 | [JBT FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1433660/000143366026000053/jbt-20251231.htm) | `SEC_PRODUCT_SCOPE`: 동물별 primary processing과 여러 식품종의 범용 further-processing(혼합/조리/냉동/검사/포장); 고객공장 모든 설비의 실제 재사용율은 미공시 |
+| E293 | [JBT Marel transforming cutting](https://jbtmarel.com/en/meat/transforming-cutting/) | `ISSUER_PRODUCT`: 같은 dicing/slicing/portioning 라인이 meat/poultry/fish/cheese를 다룰 수 있다고 명시. 1차 도축기에도 이 호환성이 적용된다는 뜻 아님 |
+| E294 | [Marel/JBT 산업장비 공정 구별](https://www.chainbridgeresearch.com/chainbridge/pdf/18601/) / [JBT chicken breast deboning](https://jbtmarel.com/en/poultry/broilers/deboning-and-inspection/) / [JBT pork deboning](https://jbtmarel.com/en/meat/pig-pork/cutting-deboning-and-trimming/) | `TECHNICAL`: 동물 크기·해부학적 구조가 달라 1차/2차 도축·발골 하드웨어의 공용성 제한. 설치·세척·위생과 컨베이어 공통 부분은 별도 현장검증 |
+| E295 | [Ra The 64 Material Ways 19.3](https://pdfcoffee.com/the-64-material-ways-pdf-free.html) / [Jovian Rave Children](https://jovianarchive.com/pages/human-design-dictionary) | `LECTURER_CLAIM_NOT_SCIENCE`: altered Solar Plexus `Rave children`의 포유류 고기 불수용 주장 + 2027 이후 `begin to arrive`; **2027 이후 일반 비Rave 모두 거부한다는 강사 직접 문장 확인 불가**. 일반 비Rave에 포유류 먹기 강제/금지 주장은 아님 |
+
+**판정:** `SPECIES_SPECIFIC_PRIMARY_PROCESS / SOME_GENERIC_EQUIPMENT_REUSABLE / RAVE_SUBSET_NOT_ALL_POST_2027 / NO_BUY_APPROVAL`.
+
