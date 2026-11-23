@@ -214,3 +214,9 @@ Ethereum L1/L2의 검증 가능한 기업결제·스테이블코인 정산 총�
 - The 64 Material Ways 19.3 대상은 **Rave children (mutated Solar Plexus)**, **2027 이후 모든 출생자 아님**. fish/fowl/reptile 선호·mammal flesh 거부는 **강사의 원문 주장**, 사회·유전학적으로 입증되지 않은 조건부 가정. OECD-FAO 2035 기본 가금 +20%/소고기 +8%와 **가정의 추가 전환분** 구분, 2035/2045/2055 출생세대 규모에 따른 단기/장기 효과 분리.
 - JBT 최신 공개 **장비 주문(2025+2026H1) 가금45%·수산7%·Meat16%·기타32%**를 **총 매출비중으로 오용 금지**. 단순 주문 믹스 시나리오 예: Meat -50%=>-8p, 가금 +20%=>+9p, 수산 +20%=>+1.4p, 합계 +2.4p(**사고실험, 회사 예측 아님**). 고객 설비전환·기존 유지보수 기반 손실·시장점유율·기존 주문의 실수주/현금흐름 포착 검증. 2026 9M JBT organic +1.8%를 반론으로 유지.
 - PAHC 비교 시 2026 종별 가금36%·육우18%·젖소15%·돼지11% = **주요 포유류 44%**이되, **포유류 고기 감소가 우유를 거부한다는 뜻은 아님**. 반려동물 관련 주제와 구분. RESEARCH_ONLY / NO_BUY_APPROVAL.
+
+## 2026-11-23 VRT vs MRVL 후속 — 기존 별도 연구 보완, JBTM R1 우선 유지
+
+- [통합 정본 §7A VRT vs MRVL 비교](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#2026-11-23-vrt-vs-mrvl--종합-기업-경쟁력과-1120-가격기준-투자매력-재검토). VRT 종합기업 정성점수84 / MRVL75 (주식 승률 아님), Nov20 close **$166.24/$122.28**. VRT P/FCF 20.3배, MRVL 62.1배는 각각 TTM·합병 이전 데이터로, merger 후 share count 별도 모델 필요.
+- **MRVL 2026-12-01 FY27Q3 공식 실적 발표** 시 광학·custom ASIC 수주/매출, Google 상업계약·warrant vesting, Lumentum 주주총회/규제 승인·통합 대가, SBC/fully diluted owner FCF, 결과 대비 기존 FY31 guidance 확인. 12/1 이전 FY27Q3 매출 $3.15B는 **사전 가이던스이지 완료 실적 아님**.
+- VRT Q3 organic orders +100% 초과가 실매출/정규화 현금으로 연결되는지, 고객 선수금/운전자본, AI data center CAPEX 감소 및 전력·냉각 경쟁을 검증. **기존 JBTM R1 우선/포트폴리오 비중과 실제 매수 미변경. NO_BUY_APPROVAL.**
