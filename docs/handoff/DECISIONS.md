@@ -116,3 +116,5 @@ Core 2(JBTM·PAHC)와 JBTM 단일 최우선 심층 분석은 유지. ETH 매수�
 - **S-D42 / OWNER_EXCLUDED:** 생활비 절감은 COST/WMT만 유지, BJ/DG 제외; HD(Home Depot)/LOW 주택관리 제외. 엄격 Phoenix 활성 5개 ANT/COST/WMT/HIMS/ALLE. 기존 제외 자동 복원 금지. HD현대일렉트릭 무관. **S-D43 / OWNER_RESEARCH_REQUEST:** COST/WMT 심층 비교. 최종 매수·비중·전체 5종목 선정 아님. NO_BUY_APPROVAL.
 
 - **OWNER_EXCLUDED 2026-11-25:** HIMS 활성 연구 종료, 과거 분석 보존. 경쟁/광고/가격 비교에 따른 Owner 판단이며 경쟁우위가 전혀 없다는 객관적 확정 아님. 엄격 Phoenix 4개 유지. 부유층 투자 탐색 요청, 명품·TSLA 신규 편입 승인 아님. NO_BUY_APPROVAL.
+
+- **2026-11-25 OWNER_RESEARCH_ADD:** LLY 및 TSLA 활성 연구 편입, 기존 4개에 추가하여 6개. 전체 최종 포트폴리오·매수·비중 승인 아님. HIMS 제외 유지, ALLE 미결정, 명품 자동 복원 없음. NO_BUY_APPROVAL.

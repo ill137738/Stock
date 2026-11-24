@@ -153,3 +153,5 @@
 - §D 기존 9개 중 **COST/WMT 두 생활비 기업만 유지**, BJ/DG 및 HD(Home Depot)/LOW는 `OWNER_EXCLUDED / ARCHIVED_COMPARATOR`, 자동 복원 금지. HD현대일렉트릭(267260)과 무관. **엄격 Phoenix 활성 5개: ANT/COST/WMT/HIMS/ALLE**. 과거 §D 표는 이 변경으로 대체되며 비교 이력 보존. COST/WMT S 연구등급 유지. PM: 기업 질/현금효율 COST 근소 우위, 저소득층 접근 및 생활비 직접성 WMT 우위. [통합 §22](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md). 최종 포트폴리오/매수 미승인.
 
 - **2026-11-25 Owner 결정:** HIMS `OWNER_EXCLUDED / ARCHIVED_COMPARATOR`, 직접지불 의료 테마 적합성에도 불구하고 대체 플랫폼·낮은 전환비용·마케팅·마진 리스크. 자동 복원 금지. 엄격 Phoenix 활성 **4개 ANT/COST/WMT/ALLE**, ALLE는 PM 하향 및 Owner 결정 대기. 부유층 양극화 비교는 독립 탐색이며 기존 명품 제외를 자동 번복하지 않음.
+
+- **2026-11-25 Owner 신규 활성 연구:** LLY(Eli Lilly, 건강·대사질환/신체관리) 및 TSLA(Tesla, 이동 시간/자율주행·개인 실행력) 편입. 엄격 Phoenix 연구 후보 **6개 ANT/COST/WMT/ALLE/LLY/TSLA**, ALLE 적합성 하향 및 Owner 미결정 유지. LLY/TSLA는 신규 연구 승인이지 최종 핵심 승격·매수 승인 아님. 제약사 보험·공급/약가 의존성, 자율주행 실현과 규제 및 자동차 매출 혼합을 검증. Hermès 기존 비활성 유지. ETF는 투자수단 비교로 발행사 후보와 중복 집계 금지.

@@ -383,3 +383,5 @@
 - HIMS §24: 직접지불 의료 접근/자기관리 Phoenix 적합성 높음, 종합 건강보험 대체 불가. Q3 매출+49%/미국+21%, GAAP OPM-7.4%, FCF 질·마케팅·약품규제·인수/희석 위험. PM B+ 잠정 고위험 연구 유지, ALLE 미결정 및 엄격5개 불변. NO_BUY_APPROVAL.
 
 - 최신 2026-11-25: HIMS Owner 제외, 엄격 Phoenix 활성 4개 ANT/COST/WMT/ALLE(ALLE PM 하향/Owner 미결정). 부유층 양극화 독립 비교 탐색, 기존 명품 제외 자동 복원 금지. 파마리서치/기존 AI/단백질 연구 유지. NO_BUY_APPROVAL.
+
+- 최신 2026-11-25: LLY/TSLA Owner 연구 추가, Phoenix 활성 6개 ANT/COST/WMT/ALLE/LLY/TSLA. ALLE 적합성 하향/Owner 미결정. 신규 두 기업 기업질·가격·직접성 심층검증 대기. 파마리서치 별도 미용 교차 유지. HIMS 제외 및 JBTM R1 유지.
