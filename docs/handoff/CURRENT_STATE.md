@@ -371,3 +371,5 @@
 - 2026-11-25 최신: 한화에어로 `DEFENSE_INACTIVE_HOLD` (Owner 보류, 제외 확정 아님). 엄격 Phoenix 9개 유지, AI 간접 비교 §E, 미용 파마리서치 별도. 단백질 Core2/JBTM R1 유지.
 
 - 2026-11-25 생활비·DIY 비교: COST/WMT PM S등급(기업 질, 가격 제외), COST 1순위·WMT 2순위; 저소득 소량구매 WMT 우위 가능. BJ A-/DG B. HD 사업 질 LOW 우선 평가, DIY 직접성은 별도 검증. 기존 활성9개 및 JBTM R1 그대로. [통합 §21](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md). NO_BUY_APPROVAL.
+
+- **2026-11-25 최신:** 생활비 COST/WMT만 활성, BJ/DG/HD/LOW Owner 제외. 엄격 Phoenix 5개 ANT/COST/WMT/HIMS/ALLE(이전 9개 문구 대체). 전체 포트폴리오 5종목 확정 아님. [원장 §G](COMPANIES.md#g-2026-11-25-owner-생활비주택관리-최종-축소) 및 통합 §22. JBTM R1/단백질 Core2/미용 파마리서치/한화 보류 유지. NO_BUY_APPROVAL.

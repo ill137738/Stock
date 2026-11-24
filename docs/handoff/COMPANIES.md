@@ -147,3 +147,7 @@
 - **2026-11-25 Owner 결정 — 미용 단일 활성 후보 파마리서치(214450), 클래시스(214150) `OWNER_EXCLUDED / ARCHIVED_COMPARATOR`.** 이전 미용 두 기업 연구 유지 문구를 대체한다. 클래시스 자동 재편입 금지, 과거 자료 보존. 파마리서치 A/85 연구등급 유지, 전체 핵심 편입 및 매매 승인 아님. [통합 §19](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md).
 
 - **2026-11-25 Owner 보류: 한화에어로스페이스(012450) `DEFENSE_INACTIVE_HOLD`**, 개인 강화 직접성 낮음. 독립 국방 연구 이력 보존, 신규 심층 연구·핵심 편입 보류, 제외 확정 아님. §D 엄격 9개 및 §E AI 비교 목록 유지; 파마리서치 별도 미용 교차 연구. 기존 제외 자동 복원 없음.
+
+
+## G. 2026-11-25 Owner 생활비·주택관리 최종 축소
+- §D 기존 9개 중 **COST/WMT 두 생활비 기업만 유지**, BJ/DG 및 HD(Home Depot)/LOW는 `OWNER_EXCLUDED / ARCHIVED_COMPARATOR`, 자동 복원 금지. HD현대일렉트릭(267260)과 무관. **엄격 Phoenix 활성 5개: ANT/COST/WMT/HIMS/ALLE**. 과거 §D 표는 이 변경으로 대체되며 비교 이력 보존. COST/WMT S 연구등급 유지. PM: 기업 질/현금효율 COST 근소 우위, 저소득층 접근 및 생활비 직접성 WMT 우위. [통합 §22](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md). 최종 포트폴리오/매수 미승인.

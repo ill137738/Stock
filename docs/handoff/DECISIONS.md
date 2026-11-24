@@ -112,3 +112,5 @@ Core 2(JBTM·PAHC)와 JBTM 단일 최우선 심층 분석은 유지. ETH 매수�
 - **S-D39 / OWNER_EXCLUDED:** 클래시스 활성 연구 제외, 미용 단일 활성 후보 파마리서치. 자동 재편입 금지. 전체 핵심/매수·매도·비중 미결정. **S-D40 / OWNER_HYPOTHESIS:** 화장품 대중화/판매량 확대에 따른 OPM 희석을 성장 투자로 평가할 가능성 검증, 절대 이익/FCF·증분 ROIC 우선. NO_BUY_APPROVAL.
 
 - **S-D41 / OWNER_HOLD:** 한화에어로스페이스 개인 강화 직접성 낮아 연구 우선순위 보류 및 최종 핵심 편입 미결정. 제외·매도 확정 아님. 기존 Phoenix 9개 유지, 전체 비교 목록 재열람. NO_BUY_APPROVAL.
+
+- **S-D42 / OWNER_EXCLUDED:** 생활비 절감은 COST/WMT만 유지, BJ/DG 제외; HD(Home Depot)/LOW 주택관리 제외. 엄격 Phoenix 활성 5개 ANT/COST/WMT/HIMS/ALLE. 기존 제외 자동 복원 금지. HD현대일렉트릭 무관. **S-D43 / OWNER_RESEARCH_REQUEST:** COST/WMT 심층 비교. 최종 매수·비중·전체 5종목 선정 아님. NO_BUY_APPROVAL.
