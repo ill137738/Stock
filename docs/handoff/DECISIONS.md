@@ -108,3 +108,5 @@ Core 2(JBTM·PAHC)와 JBTM 단일 최우선 심층 분석은 유지. ETH 매수�
 - **S-D36 / OWNER_SCREENING_DIRECTIVE:** 국내 기업도 글로벌 경쟁력 및 수출 경쟁력 필수. 내수 또는 국적 때문에 기준 완화 금지. 아이센스는 PM이 글로벌 해자 미입증으로 비활성 관찰 처리(수출 부재 주장 아님).
 - **S-D37 / OWNER_CORE_RESEARCH:** ANT를 전체 핵심 투자 연구 기업으로 승격, AI와 Sleeping Phoenix 교차 분류. 고평가 가능성 별도 검증. 단백질 Core2와 JBTM R1 그대로, 5종목 최종 선정/비중/매매 승인 아님.
 - **S-D38 / OWNER_HYPOTHESIS:** 6/36 대극, 59 결합 및 외모 매력의 관계, 장수·양극화에 따른 미용 소비를 검증. Ra 직접 예측과 구분. 미용 기존 후보 유지. NO_BUY_APPROVAL.
+
+- **S-D39 / OWNER_EXCLUDED:** 클래시스 활성 연구 제외, 미용 단일 활성 후보 파마리서치. 자동 재편입 금지. 전체 핵심/매수·매도·비중 미결정. **S-D40 / OWNER_HYPOTHESIS:** 화장품 대중화/판매량 확대에 따른 OPM 희석을 성장 투자로 평가할 가능성 검증, 절대 이익/FCF·증분 ROIC 우선. NO_BUY_APPROVAL.
