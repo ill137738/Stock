@@ -375,3 +375,5 @@
 - **2026-11-25 최신:** 생활비 COST/WMT만 활성, BJ/DG/HD/LOW Owner 제외. 엄격 Phoenix 5개 ANT/COST/WMT/HIMS/ALLE(이전 9개 문구 대체). 전체 포트폴리오 5종목 확정 아님. [원장 §G](COMPANIES.md#g-2026-11-25-owner-생활비주택관리-최종-축소) 및 통합 §22. JBTM R1/단백질 Core2/미용 파마리서치/한화 보류 유지. NO_BUY_APPROVAL.
 
 - 2026-11-25 COST 회원제 37–40 재검토: 상호 혜택/구매 규모 집약의 Bargain 유사성 인정, 보험·상호부양과는 구별. WMT 일반 비회원 소매의 Phoenix 직접성 상대 우위, Sam's/Walmart+도 회원제 노출. COST/WMT 활성 및 기업 질 S 유지, Owner 제외 미결정. 통합 §22 후속.
+
+- 2026-11-25 COST/WMT 재평가: 개인 생존의 총비용 절감 기준에서는 COST의 Phoenix 적합성이 WMT보다 높을 수 있음. 기존 저소득 접근성 중심 WMT 우위의 확실성 하향, 시나리오별 분리. 양사 S/활성 유지, Owner 최종 선택 없음. 통합 §22 후속.
