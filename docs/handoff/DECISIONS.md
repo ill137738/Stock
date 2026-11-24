@@ -101,3 +101,10 @@ Core 2(JBTM·PAHC)와 JBTM 단일 최우선 심층 분석은 유지. ETH 매수�
 | S-D34 | `OWNER_FUTURE_INTENT` | 향후 주식 집중 포트폴리오 설계에 더해 **암호자산 내 분산**도 검토. BTC/ETH 목표 비중, 실행 시기, 주식 5종목 제한과의 관계, 전체 포트폴리오 자산군 구분은 미결정. 개인 현재 보유/세부 비중은 공개 저장소에 기록하지 않음 | `UNDECIDED / NO_BUY_APPROVAL` |
 
 기존 PM BTC70/ETH30 비교 예시는 실제 매수 지시나 Owner의 목표비중으로 승격하지 않는다.
+
+
+## 2026-11-24 Owner 신규 결정
+- **S-D35 / OWNER_EXCLUDED:** 슈프리마 활성 연구에서 제외. 금융투자 손익·자본배분 리스크에 대한 Owner 판단이며 법적/객관적 투기기업 분류 아님.
+- **S-D36 / OWNER_SCREENING_DIRECTIVE:** 국내 기업도 글로벌 경쟁력 및 수출 경쟁력 필수. 내수 또는 국적 때문에 기준 완화 금지. 아이센스는 PM이 글로벌 해자 미입증으로 비활성 관찰 처리(수출 부재 주장 아님).
+- **S-D37 / OWNER_CORE_RESEARCH:** ANT를 전체 핵심 투자 연구 기업으로 승격, AI와 Sleeping Phoenix 교차 분류. 고평가 가능성 별도 검증. 단백질 Core2와 JBTM R1 그대로, 5종목 최종 선정/비중/매매 승인 아님.
+- **S-D38 / OWNER_HYPOTHESIS:** 6/36 대극, 59 결합 및 외모 매력의 관계, 장수·양극화에 따른 미용 소비를 검증. Ra 직접 예측과 구분. 미용 기존 후보 유지. NO_BUY_APPROVAL.

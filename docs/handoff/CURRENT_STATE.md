@@ -353,3 +353,7 @@
 - **Nov20 2026 close:** VRT $166.24 / MRVL $122.28; 시총 $64.01B / $107.36B; TTM CFO−CAPEX $3.15B/$1.73B, P/FCF **20.3x/62.1x**, PS **4.88x/11.36x**. MRVL은 pending LITE 인수 제외 standalone 가격/FCF. 과거 11/13 VRT $202.07/MRVL $156.76은 당시 스냅샷으로만 유지.
 - **실적:** VRT 2026Q3 organic sales +55%, reported +61%, organic orders +100% 초과, FY26 adjusted FCF guide $2.6–2.8B. MRVL FY27Q2 reported +37%, DC +46% / 점유 79%, GAAP GM 53.1%, 12/1 실적 예정. **결산기간 다름**. VRT GAAP op margin Q3 ~22.8% vs MRVL FY27Q2 ~16.8% (gross margin과 구분).
 - **핵심 반론:** MRVL + Lumentum 11/2 fixed all-stock 계약, 기존 MRVL holder 67% / LITE 33% pro forma, 완료 전. Google 최대 58.97M 주 @$206.58 조건부 warrants; FY27H1 SBC ~$533.8M. **SBC는 CFO에서 이중 현금 차감 금지**. VRT 운전자본·고객 선수금과 DC CAPEX 경기 의존도 검증. [통합 정본 §7A VRT/MRVL](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#2026-11-23-vrt-vs-mrvl--종합-기업-경쟁력과-1120-가격기준-투자매력-재검토) 및 [기존 5년 비교](VRT_VS_MRVL_RISK_ADJUSTED_5YEAR_UNDERWRITING_20261115.md). **기존 Core2 우선 연구/가상 포트폴리오 변경 없이 연구만, NO_BUY_APPROVAL**.
+
+
+## 2026-11-24 최신 Owner 선정 변경
+- ANT **전체 핵심 연구 기업** 승격, AI/Phoenix 중복 집계 금지. 슈프리마 **활성 연구 제외**, 아이센스 **비활성 관찰** (글로벌 해자 미입증). 국내 기업 글로벌 수출 경쟁력 필수. [후보 원장 §F](COMPANIES.md#f-전체-핵심-연구-및-국내-기업-선별--owner-2026-11-24-후속), [통합 §19](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#19-2026-11-24-글로벌-해자-미용-수요-및-ant-핵심-승격). 파마리서치/클래시스 교차 연구 유지. 단백질 Core2, JBTM R1 및 Phoenix 활성 9개 유지, NO_BUY_APPROVAL.

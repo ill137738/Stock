@@ -220,3 +220,9 @@ Ethereum L1/L2의 검증 가능한 기업결제·스테이블코인 정산 총�
 - [통합 정본 §7A VRT vs MRVL 비교](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#2026-11-23-vrt-vs-mrvl--종합-기업-경쟁력과-1120-가격기준-투자매력-재검토). VRT 종합기업 정성점수84 / MRVL75 (주식 승률 아님), Nov20 close **$166.24/$122.28**. VRT P/FCF 20.3배, MRVL 62.1배는 각각 TTM·합병 이전 데이터로, merger 후 share count 별도 모델 필요.
 - **MRVL 2026-12-01 FY27Q3 공식 실적 발표** 시 광학·custom ASIC 수주/매출, Google 상업계약·warrant vesting, Lumentum 주주총회/규제 승인·통합 대가, SBC/fully diluted owner FCF, 결과 대비 기존 FY31 guidance 확인. 12/1 이전 FY27Q3 매출 $3.15B는 **사전 가이던스이지 완료 실적 아님**.
 - VRT Q3 organic orders +100% 초과가 실매출/정규화 현금으로 연결되는지, 고객 선수금/운전자본, AI data center CAPEX 감소 및 전력·냉각 경쟁을 검증. **기존 JBTM R1 우선/포트폴리오 비중과 실제 매수 미변경. NO_BUY_APPROVAL.**
+
+
+## 2026-11-24 최신 Owner 후속 검증
+- 슈프리마 신규 연구 종료. 아이센스는 해외 경쟁우위·수익성 입증 전 활성 재편입 금지. 국내 기업 공통 글로벌 해자 기준 적용.
+- ANT 전체 핵심 연구 승격: 동일 시점 완전희석 시총/정상화 주당 FCF, 가격 하락과 사용량·원가 탄력성, CAPEX/리스·경쟁·고객 유지 검증. 최종 5종목/매수가 승인 아님.
+- 미용: 소득계층별 시술 횟수/실질가격·재구매, 해외 장비/소모품 및 PN 경쟁, 환자 지불가격과 제조사 순매출 분리. 6/36/59는 해석 가설로 관리. [통합 §19](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#19-2026-11-24-글로벌-해자-미용-수요-및-ant-핵심-승격). 기존 JBTM R1 우선 유지. NO_BUY_APPROVAL.

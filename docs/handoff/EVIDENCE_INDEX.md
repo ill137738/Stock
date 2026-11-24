@@ -597,3 +597,9 @@ Detailed [AI cooling independent screen](AI_DATACENTER_COOLING_EARTH_ORBIT_SCREE
 | E308 | [MRVL 12/1 official earnings scheduling](https://investor.marvell.com/news-events/press-releases/detail/1041/marvell-technology-inc-announces-conference-call-to-review-third-quarter-of-fiscal-year-2027-financial-results) / [existing cash audit](VRT_VS_MRVL_RISK_ADJUSTED_5YEAR_UNDERWRITING_20261115.md) | FY27Q3 MRVL not released as of 11/23; prior H1 MRVL SBC $533.8M vs FCF proxy $961.9M, VRT 9M SBC $50.5M vs FCF proxy $2.230B (different lengths, not directly comparable). |
 
 **PM subjective score** VRT 84/100 vs MRVL 75/100, NOT expected IRR/target price/win-probability. **NO_BUY_APPROVAL**.
+
+
+## 2026-11-24 글로벌 경쟁·미용 후속 근거 (통합 §19)
+- [i-SENS 2025 지속가능보고서](https://i-sens.sustainability-report.kr/2025/en/overview/companyoverview): CareSens Air 27개국 공급 (COMPANY_REPORTED); [Air2 회사 발표](https://i-sens.com/i-sens-announces-global-launch-of-caresens-air-receiver/) 2027 한국/EU, 2028 미국 허가 목표 (PLAN, 완료 아님); [2026 pooled eCGM 연구](https://pmc.ncbi.nlm.nih.gov/articles/PMC13728035/) 제안된 성능기준 충족, 회사 지원 연구.
+- [HD 게이트 설명](https://human.design/the-human-design-system/gates) 체계 내부 설명/2차자료; [초기 매력 종단 연구](https://pmc.ncbi.nlm.nih.gov/articles/PMC9659375/) 6600+ 만남, 공통 매력·개별 궁합의 예측 관계; 외모 필요조건 아님. [ISAPS 2025](https://www.isaps.org/discover/about-isaps/global-statistics/global-survey-2025-full-report-and-press-releases/) 수술/비수술 시술 건수, 조사 대상 범위 제한.
+- [강남 가격표 사례](https://clinics.seoul.kr/seoul-teukbyeolsi/gangnam-gu/dermatology), [슈링크 개별 가격 비교](https://koreaclinicdirectory.com/ko/treatments/shurink/) 광고/집계 사례, 전국 평균/제조사 순매출 아님. [파마리서치 2026-11-19 회사 발표](https://www.pharmaresearch.com/sub/press/view.html?curpage=1&idx=489) 세계일류상품 선정·수출 확장; [클래시스 3Q 회사 발표](https://classys.co.kr/media/press/?mod=document&uid=1199) 해외 확장 및 신규 소모품 계획. 독립 시장점유율·향후 수익률 증명 아님.
