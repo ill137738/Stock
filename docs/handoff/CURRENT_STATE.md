@@ -373,3 +373,5 @@
 - 2026-11-25 생활비·DIY 비교: COST/WMT PM S등급(기업 질, 가격 제외), COST 1순위·WMT 2순위; 저소득 소량구매 WMT 우위 가능. BJ A-/DG B. HD 사업 질 LOW 우선 평가, DIY 직접성은 별도 검증. 기존 활성9개 및 JBTM R1 그대로. [통합 §21](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md). NO_BUY_APPROVAL.
 
 - **2026-11-25 최신:** 생활비 COST/WMT만 활성, BJ/DG/HD/LOW Owner 제외. 엄격 Phoenix 5개 ANT/COST/WMT/HIMS/ALLE(이전 9개 문구 대체). 전체 포트폴리오 5종목 확정 아님. [원장 §G](COMPANIES.md#g-2026-11-25-owner-생활비주택관리-최종-축소) 및 통합 §22. JBTM R1/단백질 Core2/미용 파마리서치/한화 보류 유지. NO_BUY_APPROVAL.
+
+- 2026-11-25 COST 회원제 37–40 재검토: 상호 혜택/구매 규모 집약의 Bargain 유사성 인정, 보험·상호부양과는 구별. WMT 일반 비회원 소매의 Phoenix 직접성 상대 우위, Sam's/Walmart+도 회원제 노출. COST/WMT 활성 및 기업 질 S 유지, Owner 제외 미결정. 통합 §22 후속.
