@@ -151,3 +151,5 @@
 
 ## G. 2026-11-25 Owner 생활비·주택관리 최종 축소
 - §D 기존 9개 중 **COST/WMT 두 생활비 기업만 유지**, BJ/DG 및 HD(Home Depot)/LOW는 `OWNER_EXCLUDED / ARCHIVED_COMPARATOR`, 자동 복원 금지. HD현대일렉트릭(267260)과 무관. **엄격 Phoenix 활성 5개: ANT/COST/WMT/HIMS/ALLE**. 과거 §D 표는 이 변경으로 대체되며 비교 이력 보존. COST/WMT S 연구등급 유지. PM: 기업 질/현금효율 COST 근소 우위, 저소득층 접근 및 생활비 직접성 WMT 우위. [통합 §22](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md). 최종 포트폴리오/매수 미승인.
+
+- **2026-11-25 Owner 결정:** HIMS `OWNER_EXCLUDED / ARCHIVED_COMPARATOR`, 직접지불 의료 테마 적합성에도 불구하고 대체 플랫폼·낮은 전환비용·마케팅·마진 리스크. 자동 복원 금지. 엄격 Phoenix 활성 **4개 ANT/COST/WMT/ALLE**, ALLE는 PM 하향 및 Owner 결정 대기. 부유층 양극화 비교는 독립 탐색이며 기존 명품 제외를 자동 번복하지 않음.
