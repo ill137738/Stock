@@ -703,3 +703,7 @@
 **1차 확인:** [HD현대일렉트릭 2026Q3 공식 결과](https://www.hd-hyundaielectric.com/elect/ko/etc/result_news.jsp) · [S&P Global Nov20 HD](https://stockanalysis.com/quote/krx/267260/statistics/) · [S&P Global Nov20 LS](https://stockanalysis.com/quote/krx/010120/statistics/) · [S&P Global Nov20 Hanwha](https://stockanalysis.com/quote/krx/012450/statistics/) · [한화 공식 3Q26 보도](https://m.hanwhaaerospace.com/kor/media/newsroom/view.do?seq=664) · [LS 2026Q3 유안타 분석](https://04.myasset.com/myasset/research/rs_list/rs_view.cmd?SEQ=207909&cd006=&cd007=RE01&cd008=).
 
 *작성 기준: 2026-11-19. 본 문서는 기존 대화의 투자논리 요약·교정 정리이며 모든 이전 수치와 신규 기술 사건의 실시간 팩트체크를 의미하지 않는다.*
+
+## 13. 2026-11-24 양극화·각자도생 신규 연구군
+
+Owner 요청으로 기존에 논의한 종목과 Costco를 포함해 독립 테마 연구군을 등록했다. **[기업별 후보 원장 §D — 양극화·각자도생](COMPANIES.md#d-양극화각자도생--독립-테마-연구-리스트-2026-11-24)** 이 종목 목록·하위 테마·반증 조건·후속 연구의 정본이다. 25개 티커(ADT 보류, JBTM/MFP 교차 태그 포함), 유럽 명품 비교군은 별도. 공공서비스 약화·부의 집중은 조건부 가설이며 기존 핵심 연구 순서나 포트폴리오를 변경하지 않는다. `POLARIZATION_RESEARCH_ONLY / NO_BUY_APPROVAL`.
