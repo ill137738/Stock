@@ -369,3 +369,5 @@
 - 2026-11-25 국방 후속: 한화에어로스페이스 제외 여부 Owner 질의(확정 아님). PM 권고 독립 지정학/국방 보조 연구 유지, 엄격 Phoenix 9개와 분리. 국가 간 연대 약화→자주국방 수요는 가설, 보호주의/수출규제 반론 및 3Q26 지상방산 수주잔고35조/수출74% 검증. [통합 §20](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md#20-2026-11-25-국가-각자도생과-한화에어로스페이스-유지-여부). 기존 우선순위/승인 불변.
 
 - 2026-11-25 최신: 한화에어로 `DEFENSE_INACTIVE_HOLD` (Owner 보류, 제외 확정 아님). 엄격 Phoenix 9개 유지, AI 간접 비교 §E, 미용 파마리서치 별도. 단백질 Core2/JBTM R1 유지.
+
+- 2026-11-25 생활비·DIY 비교: COST/WMT PM S등급(기업 질, 가격 제외), COST 1순위·WMT 2순위; 저소득 소량구매 WMT 우위 가능. BJ A-/DG B. HD 사업 질 LOW 우선 평가, DIY 직접성은 별도 검증. 기존 활성9개 및 JBTM R1 그대로. [통합 §21](INVESTMENT_RESEARCH_CONSOLIDATED_20261119.md). NO_BUY_APPROVAL.
