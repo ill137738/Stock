@@ -126,3 +126,6 @@
 추가 비교: Hermès (RMS, 파리), LVMH (MC, 파리)는 고가 소비 벤치마크로만 기록. 미국 상장 선호와 구분하며 적극 후보 아님. 저가 임대주택은 테마만 등록, 구체 종목 미선정. Sam’s Club은 WMT의 사업부이며 별도 상장 종목으로 중복 집계하지 않는다. HD는 Home Depot로 HD현대일렉트릭(267260)과 다르다.
 
 **후속 연구:** (1) COST/WMT/BJ/DG/TJX — 계층별 고객 믹스, 회원 갱신율·동일점포 매출·가격/판매량, SNAP 등 공적 지원 민감도, 정상화 FCF 및 밸류에이션; (2) IBKR/MSCI/BX/SCHW/AXP/MA — 순유입·계좌·수수료·AUM·신용손실 및 시장 하락 스트레스; (3) ALLE/FCFS/AJG/BRO/KNSL — 민간 수요의 실제 매출 노출, 경쟁사, 반복성, 규제와 손해율; (4) HIMS/DOCS/HD/LOW/UTI/STRA — 지불 주체, 공공재정 의존, 수요의 매출 전환 및 경기 민감도. 모든 후보 최신 거래 상태·공시·정상화 ROIC·주당 FCF·성장/가격·하방 비교 후 판정. 이전 대화 수치와 순위는 `PREVIOUS_CHAT`이며 이 등록 작업에서 재검증하지 않았다.
+
+### 37–40 보험 반증 게이트 (2026-11-24)
+Owner 지적: 보험은 보험료를 대가로 미래 보장을 받는 위험 분담 계약으로, 37–40의 Bargain/상호지원에 부합할 수 있다. Ra의 [관계·계약 변화 원문](https://jovianarchive.com/blogs/human-design-daily-life/the-background-frequency-will-change-the-way-we-bond)과 [19번 게이트/제도적 지원 강의](https://offer.jovianarchive.com/the-2027-series/)는 일반적 메커니즘을 뒷받침하지만 민간보험 산업 쇠퇴를 직접 예언한 원문은 미확인. [AJG FY2025 10-K](https://www.sec.gov/Archives/edgar/data/354190/000162828026008662/ajg-20251231.htm): 보험 중개·재보험·기업 복리후생 및 위험관리 서비스; 공적 지원 감소에 따른 민간보험 전환 수혜와 지불능력·위험분담 신뢰 약화에 따른 보험계약 축소 위험을 분리한다. AJG/BRO/KNSL은 테마 후보에서 삭제하지 않되 **순수 양극화 수혜 판정 보류**; AJG 기존 핵심 우선순위는 이 반증 검증 전 잠정 보류(PM 판단, Owner 제외/매수 결정 아님). 별도 보험 자체의 투자 경쟁력 평가 가능. 모든 기존 연구 순서 및 NO_BUY_APPROVAL 유지.
