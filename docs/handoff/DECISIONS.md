@@ -118,3 +118,5 @@ Core 2(JBTM·PAHC)와 JBTM 단일 최우선 심층 분석은 유지. ETH 매수�
 - **OWNER_EXCLUDED 2026-11-25:** HIMS 활성 연구 종료, 과거 분석 보존. 경쟁/광고/가격 비교에 따른 Owner 판단이며 경쟁우위가 전혀 없다는 객관적 확정 아님. 엄격 Phoenix 4개 유지. 부유층 투자 탐색 요청, 명품·TSLA 신규 편입 승인 아님. NO_BUY_APPROVAL.
 
 - **2026-11-25 OWNER_RESEARCH_ADD:** LLY 및 TSLA 활성 연구 편입, 기존 4개에 추가하여 6개. 전체 최종 포트폴리오·매수·비중 승인 아님. HIMS 제외 유지, ALLE 미결정, 명품 자동 복원 없음. NO_BUY_APPROVAL.
+
+- 2026-11-25 OWNER_EXCLUDED ALLE: 개인보다 기관/비주거 노출 비중이 높은 점으로 활성 제외, 기존 §23 보존, 재편입 Owner 승인 필요. Owner 분류 논의에 따라 PM 파마리서치 직접군/AI 인프라 간접군/식량 교차군으로 정리(기존 등급 보존); 신규 GRMN/DXCM/RMD/DUOL 비교만. 매수 승인 없음.

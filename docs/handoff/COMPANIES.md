@@ -155,3 +155,10 @@
 - **2026-11-25 Owner 결정:** HIMS `OWNER_EXCLUDED / ARCHIVED_COMPARATOR`, 직접지불 의료 테마 적합성에도 불구하고 대체 플랫폼·낮은 전환비용·마케팅·마진 리스크. 자동 복원 금지. 엄격 Phoenix 활성 **4개 ANT/COST/WMT/ALLE**, ALLE는 PM 하향 및 Owner 결정 대기. 부유층 양극화 비교는 독립 탐색이며 기존 명품 제외를 자동 번복하지 않음.
 
 - **2026-11-25 Owner 신규 활성 연구:** LLY(Eli Lilly, 건강·대사질환/신체관리) 및 TSLA(Tesla, 이동 시간/자율주행·개인 실행력) 편입. 엄격 Phoenix 연구 후보 **6개 ANT/COST/WMT/ALLE/LLY/TSLA**, ALLE 적합성 하향 및 Owner 미결정 유지. LLY/TSLA는 신규 연구 승인이지 최종 핵심 승격·매수 승인 아님. 제약사 보험·공급/약가 의존성, 자율주행 실현과 규제 및 자동차 매출 혼합을 검증. Hermès 기존 비활성 유지. ETF는 투자수단 비교로 발행사 후보와 중복 집계 금지.
+
+
+### 2026-11-25 Phoenix 계층 분류 최신 기준 (이전 활성 목록 대체)
+- Owner ALLE `OWNER_EXCLUDED / ARCHIVED_COMPARATOR` (미주 비주거·기관 의존), 자동 재편입 금지. HIMS 제외 유지.
+- 직접 활성 연구 6개: ANT, COST, WMT, LLY, TSLA, 파마리서치(214450). 파마리서치 기존 A/85 유지, 개인 외모·피부 자기관리 및 55.6/59.6 조건부 연관; 명품 분류 아님. 기존 strict 6개에서 ALLE 제거·파마리서치 직접군으로 이동. TSLA 자율주행/로봇은 미래 가설, LLY/TSLA 등급 미정.
+- 간접 활성 AI 인프라: VRT(S), MRVL(A), HD현대일렉트릭(A). 기존 AI 비교군/AMZN·SPCX 별도 상태 유지, 자동 전원 승격 없음. AI 개인강화와 기업/공공 AI 매출 구분.
+- 식량 생산 간접 교차: JBTM(A), PAHC(B+), 기존 별도 Rave 식량 가설도 유지(중복 집계 금지). 통합 활성 핵심 연구 11개(직접6+AI3+식량2), 별도 AMZN/SPCX 탐색은 원래 상태 유지. 신규 탐색 GRMN/DXCM/RMD/DUOL, 편입 승인 아님. NO_BUY_APPROVAL.

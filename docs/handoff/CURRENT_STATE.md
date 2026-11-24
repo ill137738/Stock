@@ -385,3 +385,5 @@
 - 최신 2026-11-25: HIMS Owner 제외, 엄격 Phoenix 활성 4개 ANT/COST/WMT/ALLE(ALLE PM 하향/Owner 미결정). 부유층 양극화 독립 비교 탐색, 기존 명품 제외 자동 복원 금지. 파마리서치/기존 AI/단백질 연구 유지. NO_BUY_APPROVAL.
 
 - 최신 2026-11-25: LLY/TSLA Owner 연구 추가, Phoenix 활성 6개 ANT/COST/WMT/ALLE/LLY/TSLA. ALLE 적합성 하향/Owner 미결정. 신규 두 기업 기업질·가격·직접성 심층검증 대기. 파마리서치 별도 미용 교차 유지. HIMS 제외 및 JBTM R1 유지.
+
+- 최신 Phoenix 분류: ALLE Owner 제외. 파마리서치 직접 자기관리군 편입(기존 A/85 유지), 직접 6개 ANT/COST/WMT/LLY/TSLA/214450. AI 인프라 간접 VRT/MRVL/HD현대일렉트릭 3개, 식량 생산 간접 교차 JBTM/PAHC 2개. 기존 별도 AMZN/SPCX 탐색 유지. 신규 비교 GRMN/DXCM/RMD/DUOL 미편입. 최종 포트폴리오 아님. NO_BUY_APPROVAL.
